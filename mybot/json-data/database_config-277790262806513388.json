@@ -1,0 +1,11 @@
+{
+  "nameServer": "HwH",
+  "host": "localhost",
+  "user": "root",
+  "password": "",
+  "database": "277790262806513388",
+  "port": 3306,
+  "tablePlayerZalo": "players_zalo",
+  "tableAccount": "account",
+  "dailyReward": 100000000000
+}

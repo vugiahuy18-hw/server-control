@@ -1,0 +1,26 @@
+{
+  "prObjects": [
+    {
+      "ten": "",
+      "idZalo": "-1",
+      "noiDung": "mà nhắn riêng thì dùng đc j",
+      "hinhAnh": [],
+      "video": [],
+      "link": {},
+      "thoiGianGui": [],
+      "customContent": {
+        "138699465286432559": {
+          "noiDung": "mà nhắn riêng thì dùng đc j"
+        }
+      },
+      "isContentActive": true,
+      "isImageActive": true,
+      "isVideoActive": true,
+      "isCardActive": true
+    }
+  ],
+  "selectedGroups": {
+    "-1": true
+  },
+  "selectedFriends": {}
+}

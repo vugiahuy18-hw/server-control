@@ -1,0 +1,15 @@
+{
+  "dName": "Kminh",
+  "messages": [
+    {
+      "role": "user",
+      "content": "cách code web",
+      "timestamp": "2025-08-15T08:14:57.809Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Để code một trang web, bạn cần nắm vững một số ngôn ngữ lập trình và công nghệ cơ bản. Dưới đây là các bước và công cụ cần thiết để bắt đầu:\n\n### 1. **Học HTML (HyperText Markup Language)**\n   - HTML là ngôn ngữ đánh dấu được sử dụng để tạo cấu trúc của trang web. Bạn sẽ học cách tạo các phần tử như tiêu đề, đoạn văn, danh sách, liên",
+      "timestamp": "2025-08-15T08:14:57.809Z"
+    }
+  ]
+}

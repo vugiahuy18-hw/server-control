@@ -1,0 +1,7 @@
+2025-12-06 19:21:00 - Mã Lỗi: EBUSY - > Chú Thích Lỗi Tin Nhắn: EBUSY: resource busy or locked, open 'E:\A-BotZalo\HwHxBOT\logs\4431635903286108854\message.txt'
+Nội Dung Lỗi: Error: EBUSY: resource busy or locked, open 'E:\A-BotZalo\HwHxBOT\logs\4431635903286108854\message.txt'
+    at Object.writeFileSync (node:fs:2367:20)
+    at Object.appendFileSync (node:fs:2448:6)
+    at logMessageToFile (file:///E:/A-BotZalo/HwHxBOT/src/utils/io-json.js:96:6)
+    at messagesUser (file:///E:/A-BotZalo/HwHxBOT/src/automations/event-send-msg.js:192:9)
+    at async Listener.<anonymous> (file:///E:/A-BotZalo/HwHxBOT/src/index.js:171:5)

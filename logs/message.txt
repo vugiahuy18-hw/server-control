@@ -1,0 +1,4723 @@
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Dev Nguyễn Thái Trí Aka Cbun | Sender ID: 7312453861336891725
+              - Nội Dung: !cmd admin map
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Dev Nguyễn Thái Trí Aka Cbun | Sender ID: 7312453861336891725
+              - Nội Dung: !cmd map admin
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Zynai - Devbot | Sender ID: 5082221962081738417
+              - Nội Dung: 82. kickall: Kick tất cả thành viên khỏi nhóm
+83. block: Chặn thành viên
+84. listkey: Xem danh sách key
+85. danhsachden: Danh sách đen
+86. tagreaction: Bật/tắt thả cảm xúc khi được tag
+87. buff: Tặng tiền cho người chơi
+88. setvnd: Set số tiền chỉ định cho người chơi
+89. keygold: Nhường key vàng cho người được đề cập
+90. keysilver: Phong key bạc cho người được đề cập
+91. unkey: Xóa key của người được đề cập
+92. join: Tham gia nhóm thông qua link
+93. leave: Ra lệnh bot rời khỏi nhóm hiện tại
+94. leaveall: Ra lệnh bot rời khỏi all nhóm
+95. leavelock: Ra lệnh bot rời khỏi nhóm
+96. listgroups: Xem danh sách nhóm
+97. scangroups: Quét thành viên nhóm và thực hiện hành động theo yêu cầu
+98. deletemessage: Xóa tin nhắn nhóm theo số lượng tin nhắn
+99. listblockbot: Xem danh sách người dùng đã bị chặn tương tác với bot
+100. blockbot: Chặn người dùng tương tác với bot
+101. unblockbot: Bỏ chặn người dùng tương tác với bot
+102. whitelist: Xem, thêm hoặc xóa người dùng được bot liệt vào danh sách trắng
+103. alias: Quản lý alias cho các lệnh
+104. downloadresource: Tải file vào thư mục resource
+105. deleteresource: Xóa file từ thư mục resource
+106. showresource: Xem file trong thư mục resource
+107. bithuat: Bí thuật chứa tính năng ngầm
+108. track: Theo dõi mục tiêu
+109. antiall: Bật/tắt các anti thường dùng
+110. antivoice: Chống gửi voice
+111. antitag: Chống hành vi bất thường
+112. antiphonenumber: Chặn gửi số điện thoại
+113. antisticker: Chặn gửi sticker
+114. antiphoto: Chống gửi photo
+115. spamjoin: spam join và leave nhóm
+116. prservice: Cấu hình tính năng pr vào mỗi nhóm
+117. pmreply: Cấu hình tính năng reply tin nhắn riêng
+118. prservices: Cấu hình tính năng pr tới tin nhắn riêng
+119. quickmessage: Thêm tin nhắn nhanh
+120. unreadmark: Thêm dấu chưa đọc vào cuộc trò chuyện (đánh dấu tin nhắn là chưa đọc)
+121. blockfeed: Chặn người dùng xem bài đăng của mình
+122. setautoreply: Thêm cấu hình tự động trả lời (dành cho zBusiness)
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Zynai - Devbot | Sender ID: 5082221962081738417
+              - Nội Dung: 🔍 Liệt Kê Toàn Bộ Lệnh Admin:
+
+1. geminiveo: Yêu cầu vẽ sáng tạo video nội dung với Gemini - Trợ lý AI thông minh
+2. vdsex: Gửi video ngắn về sex bất kỳ
+3. upgradecommunity: Nâng cấp nhóm thành cộng đồng
+4. creategroup: Tạo nhóm mới với tên và thành viên được chỉ định
+5. dispersegroup: Giải tán nhóm/cộng đồng hiện tại
+6. sendimage: Gửi hình ảnh thông qua link hoặc reply tin nhắn
+7. sendvideo: Gửi video thông qua link hoặc reply tin nhắn
+8. sendvoice: Gửi voice thông qua link hoặc reply tin nhắn
+9. myacc: Cập nhật thông tin và cài đặt cá nhân
+10. thongbao: Bật tắt thông báo tin nhắn
+11. gim: Gim cuộc trò chuyện
+12. gimtn: Gim tin nhắn
+13. createpoll: Tạo cuộc bình chọn
+14. spampoll: Spam tạo cuộc bình chọn
+15. report: Báo xấu người được tag
+16. download: Tải video link đa nền tảng
+17. autodownload: Kích hoạt chế độ tự nhận diện link trong tin nhắn và tải về nội dung nếu link nằm trong danh sách hỗ trợ
+18. privatebot: Bật tắt phản hồi riêng người dùng cụ thể khi tắt tương tác riêng tư
+19. truyenhentai: Tìm và gửi truyện tranh hentai đến đồng răm thân mến
+20. mybank: Tạo Card QR code thông tin chuyển khoản
+21. data: Thêm date link
+22. scanqrcode: Scan QRcode
+23. scanqr: Quét mã QR
+24. supportgame: Hỗ trợ nhóm về vấn đề liên quan đến box game
+25. manager: Xem danh sách lệnh admin
+26. listmute: Xem danh sách mute
+27. settinggroup: Sửa đổi cài đặt nhóm
+28. listadmin: Xem danh sách admin bot nhóm
+29. add: Thêm người tag vào admin bot nhóm
+30. remove: Xóa người tag vào admin bot nhóm
+31. setcmd: Quản lý cài đặt lệnh bot (bật/tắt, phân quyền, thời gian chờ)
+32. bot: Kích hoạt tương tác với bot trong nhóm hiện tại
+33. gameactive: Kích hoạt tương tác trò chơi trong nhóm hiện tại
+34. mute: Mute thành viên (Yêu cầu bot quyền hạn phó cộng đồng trở lên)
+35. unmute: Unmute thành viên
+36. prefix: Xem hoặc thay đổi prefix của bot
+37. sendstk: Gửi sticker ngẫu nhiên hoặc bật/tắt chế độ auto gửi sticker.
+38. sendtext: Gửi tin nhắn tuỳ chỉnh bật/tắt chế độ auto gửi text.
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Zynai - Devbot | Sender ID: 5082221962081738417
+              - Nội Dung: 39. sendtask: Tắt bật chức năng gửi nội dung tự động sau mỗi giờ vào nhóm
+40. kickimg: Bật tắt thông báo khi thành viên bị kick khỏi nhóm
+41. blockimg: Bật tắt thông báo khi thành viên bị chặn khỏi nhóm
+42. welcome: Chào mừng thành viên mới
+43. bye: Tạm biệt thành viên rời nhóm
+44. antibadword: Lọc từ thô tục
+45. antimedia: Lọc nội dung bị cấm gửi trong nhóm
+46. antifile: Chống gửi file
+47. autojoin: Tự tham gia cộng đồng/nhóm thông qua liên kết được gửi
+48. antiforward: Chặn chuyển tiếp tin nhắn
+49. antiinvite: Chặn mời vào group
+50. antibot: Chặn bot
+51. antilink: Chặn gửi liên kết
+52. antigif: Chặn gửi gif
+53. antispam: Chống spam tin nhắn
+54. antinude: Chặn hình ảnh có nội dung nhạy cảm
+55. antiundo: Chống thu hồi tin nhắn
+56. antistickereffect: Chặn gửi sticker có hiệu ứng
+57. onlytext: Chỉ nhắn tin văn bản
+58. ban: Khóa tài khoản người chơi
+59. unban: Mở khóa tài khoản người chơi
+60. tagall: Tag tất cả thành viên trong nhóm với nội dung
+61. heartdelete: Xoá chat khi thả reaction
+62. call: Gửi call đến người được đề cập
+63. spamgroup: Dùng để spam group
+64. scold: Dùng để chửi người khác
+65. approve: Bật/tắt tự động phê duyệt thành viên mới
+66. updategroup: Bật/tắt cập nhật thông tin nhóm khi có thay đổi
+67. learn: Bật theo dõi và học câu trả lời mới cho bot
+68. learnnow: Học câu trả lời mới cho bot ngay lập tức
+69. learnlist: Xem danh sách câu trả lời
+70. unlearn: Hủy bỏ câu trả lời mà bot đã học
+71. autoreply: Bật/tắt tự động trả lời tin nhắn AI
+72. reply: Bật/tắt tự động trả lời tin nhắn
+73. undo: Undo tin nhắn bot
+74. todo: Giao việc cho người khác
+75. checkorder: Kiểm tra trạng thái giao đơn hàng từ phía nhà vận chuyển
+76. convertfile: Chuyển đổi định dạng file từ định dạng này sang định dạng khác
+77. cliphot: Tra cứu và gửi video 18+ mới nhất từ trang web nhạy cảm top one tgiois
+78. senduser: Send message private cho người khác
+79. sendp: Send message private cho người khác
+80. inviteall: Thêm tất cả bạn bè vào box
+81. kick: Kick thành viên
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Zynai - Devbot | Sender ID: 5082221962081738417
+              - Nội Dung: 123. delautoreply: Xóa cấu hình tự động trả lời (dành cho zBusiness)
+124. listautoreply: Lấy danh sách tự động trả lời (dành cho zBusiness)
+125. reminder: Tạo nhắc hẹn
+126. deletechat: Xóa cuộc trò chuyện (chat) - reply vào tin nhắn cuối cùng hoặc cung cấp thông tin
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Súc Vật Bảo Đubai Ông Bà Già Thất Học | Sender ID: 2419237100942683300
+              - Nội Dung: @Yukki tài mõm
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Súc Vật Bảo Đubai Ông Bà Già Thất Học | Sender ID: 2419237100942683300
+              - Nội Dung: 2 hòn dái khô
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Tài | Sender ID: 7032797906281244591
+              - Nội Dung: Khô mẹ mày
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Tài | Sender ID: 7032797906281244591
+              - Nội Dung: @Yukki xl yuki
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Tài | Sender ID: 7032797906281244591
+              - Nội Dung: Yuki scam tài 200m
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Yukki | Sender ID: 6584751716005078359
+              - Nội Dung: @Tài m có dái khô
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Yukki | Sender ID: 6584751716005078359
+              - Nội Dung: Lấy đâu ra
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Tài | Sender ID: 7032797906281244591
+              - Nội Dung: @Yukki lộ r
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Tài | Sender ID: 7032797906281244591
+              - Nội Dung: Yuki scam tài 50 video seg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Tài | Sender ID: 7032797906281244591
+              - Nội Dung: Quy đổi ra 200m đấy a
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Tài | Sender ID: 7032797906281244591
+              - Nội Dung: @Viper bc đây
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Tài | Sender ID: 7032797906281244591
+              - Nội Dung: Yuki Scam @Kaido  199m
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Rùa | Sender ID: 8349555776621212649
+              - Nội Dung: Caption: Nhận rip prf - locked - cn - tiktik - page - tiktok  . KBH và có BH zin time tốc độ!
+/-li  Cần sll ae hợp tác gửi kèo cân sll
+🔥 Zalo : 0388 253 012
+Link: https://f61-zpg-r.zdn.vn/7174241942847818996/01269351df1c5042090d.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Trung Thu Thập Cẩm | Sender ID: 4926705624374985833
+              - Nội Dung: Caption: /-li CHO THUÊ BOT QUẢN LÝ NHÓM ZALO /-li
+
+🌟 Tính năng nổi bật
+✅ Sử dụng tài khoản Zalo bạn cung cấp để thiết lập bot 
+✅ Quản lý thành viên: auto chào mừng, lọc từ cấm, chống spam hiệu quả
+✅ Tự động gửi thông báo, rải link tiện lợi
+
+🎯 Lợi ích khi sử dụng bot
+🚀 Tiết kiệm tối đa thời gian quản lý nhóm
+👥 Tăng tương tác, gắn kết & giữ chân thành viên
+🔒 Bảo vệ nhóm sạch sẽ, chuyên nghiệp, không lo spam
+
+Link Box: https://zalo.me/g/qqhvik434
+
+💰 Chỉ từ 70k/tháng → có ngay trợ lý quản trị Zalo siêu hiệu quả!
+
+📩 Nhắn tin ngay để được tư vấn & kích hoạt trong vài phút!
+Link: https://zalo.me/g/qqhvik434
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Trung Thu Thập Cẩm | Sender ID: 4926705624374985833
+              - Nội Dung: Caption: Ben
+Link: www.zaloapp.com
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Viper | Sender ID: 2822587209073840925
+              - Nội Dung: Dm
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Viper | Sender ID: 2822587209073840925
+              - Nội Dung: Sticker ID: 43520 | 11786 | 3
+
+
+Bot Team 🇻🇳
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Zynai - Devbot | Sender ID: 5082221962081738417
+              - Nội Dung: Caption: 
+Link: https://f63-zpg-r.zdn.vn/6151348179795769620/8105fc0fed6a62343b7b.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Trung | Sender ID: 4082883245724487327
+              - Nội Dung: Mạnh-)
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Trần Thế Tuyênᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ | Sender ID: 4742335495103729382
+              - Nội Dung: Caption: 
+Link: https://f37-zfcloud.zdn.vn/2b974e26516df133a87c/3301092665026062498?CreatedBy=HàHuyHoàng.BOT
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: Trần Thế Tuyênᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ | Sender ID: 4742335495103729382
+              - Nội Dung: Caption: 
+Link: https://f37-zfcloud.zdn.vn/2b974e26516df133a87c/3301092665026062498?CreatedBy=HàHuyHoàng.BOT
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: Văn | Sender ID: 1936674112038184406
+              - Nội Dung: Sticker ID: 43550 | 11788 | 3
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: Văn | Sender ID: 1936674112038184406
+              - Nội Dung: @Trần Thế Tuyênᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ !i4
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: Take Care For Groups | Sender ID: 3465480315669870625
+              - Nội Dung: Caption: 
+Link: https://f60-zpg-r.zdn.vn/3592771294825256235/e98f1ad40db182efdba0.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: Ben | Sender ID: 514796084697988114
+              - Nội Dung: Caption: 
+Link: https://f37-zfcloud.zdn.vn/3fdeb975f83b5865012a/380185718639868785?createby=HaHuyHoang_Bot.webp
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: Văn | Sender ID: 1936674112038184406
+              - Nội Dung: 1935 luôn
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: Trần Thế Tuyênᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ | Sender ID: 4742335495103729382
+              - Nội Dung: Caption: 
+Link: https://f37-zfcloud.zdn.vn/2b974e26516df133a87c/3301092665026062498?CreatedBy=HàHuyHoàng.BOT
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: Văn | Sender ID: 1936674112038184406
+              - Nội Dung: Anh bạn à mình cùng thời
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: Văn | Sender ID: 1936674112038184406
+              - Nội Dung: Sticker ID: 46953 | 12002 | 3
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: Văn | Sender ID: 1936674112038184406
+              - Nội Dung: !i4
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: Take Care For Groups | Sender ID: 3465480315669870625
+              - Nội Dung: Caption: 
+Link: https://f67-zpg-r.zdn.vn/2926823681741853714/c8e655e44281cddf9490.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: Trần Thế Tuyênᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ | Sender ID: 4742335495103729382
+              - Nội Dung: Caption: 
+Link: https://f36-zfcloud.zdn.vn/86a9ae971edfbe81e7ce/5015167251659777003?CreatedBy=HàHuyHoàng.BOT
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: Văn | Sender ID: 1936674112038184406
+              - Nội Dung: Sticker ID: 45356 | 11901 | 3
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: Trần Thế Tuyênᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ | Sender ID: 4742335495103729382
+              - Nội Dung: Sticker ID: 28408 | 10788 | 3
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: Trần Thế Tuyênᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ | Sender ID: 4742335495103729382
+              - Nội Dung: Cho ló mát
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: Trần Thế Tuyênᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ | Sender ID: 4742335495103729382
+              - Nội Dung: Caption: 
+Link: https://f37-zfcloud.zdn.vn/2b974e26516df133a87c/3301092665026062498?CreatedBy=HàHuyHoàng.BOT
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Văn | Sender ID: 1936674112038184406
+              - Nội Dung: Ai lên chat đi
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Duong | Sender ID: 2187167677307296620
+              - Nội Dung: .
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Văn | Sender ID: 1936674112038184406
+              - Nội Dung: Sticker ID: 43550 | 11788 | 3
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Duong | Sender ID: 2187167677307296620
+              - Nội Dung: Sticker ID: 46965 | 12003 | 3
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Hw cc3m =)) | Group ID: 8119460317429629336
+              - Người Gửi: Nvtᅠᅠdv | Sender ID: 8022893036639577953
+              - Nội Dung: Caption: 
+Link: https://f35-zfcloud.zdn.vn/4ea6b872e8dc498210cd/3267447001993526569?createby=TTN_Bot.webp
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Test | Group ID: 3781582778561073484
+              - Người Gửi: Thảo Nguyễn | Sender ID: 1559791826700234643
+              - Nội Dung: Caption: 🚀 DỊCH VỤ TĂNG TƯƠNG TÁC MXH – GIÁ RẺ
+
+• 1k Follow Facebook: 4k
+• 1k Like bài FB: 2k
+• 100k View TikTok: 6k
+• 10k Tym TikTok: 4k
+• 1k Follow TikTok: 25k
+• 1k Follow Instagram: 19k
+Và Nhiều Dịch Vụ Khác!
+⚡ Xử lý đơn hàng 24/24 
+🔗Tất Cả Có Tại: https://viplike1s.top/
+
+📢 Nhóm thông báo: 
+https://zalo.me/g/hebqjh903
+#VIPLIKE1S.TOP
+Link: https://f67-zpg-r.zdn.vn/3461714243175176577/c7b970f76da3e2fdbbb2.jpg
+
+
+Hw cc3m =))
+Type Sự Kiện: LEAVE - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Bà Trùm Của Sự Dân Chơi | Sender ID: 2315211041611341335
+              - Nội Dung: Helo
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Pinz | Sender ID: 1922051066018163098
+              - Nội Dung: ng tấn cặc
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Văn | Sender ID: 1936674112038184406
+              - Nội Dung: Xin key vàng
+
+
+QEEN LOVE
+Type Sự Kiện: UPDATE_BOARD - Số Lượng Member Trong Sự Kiện: 0
+
+
+QEEN LOVE
+Type Sự Kiện: UPDATE_TOPIC - Số Lượng Member Trong Sự Kiện: 0
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Nhi Cute | Sender ID: 6248249378353725312
+              - Nội Dung: 📌 Văn đã ghim chủ tin nhắn của Văn với nội dung: "Xin key vàng"
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Văn | Sender ID: 1936674112038184406
+              - Nội Dung: Sticker ID: 22629 | 10371 | 7
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Hw cc3m =)) | Group ID: 8119460317429629336
+              - Người Gửi: Thành | Sender ID: 4029418035075351517
+              - Nội Dung: Caption: Xin phép ADMIN và mọi người cho e pr
+Cần tăng sub,like,tym,bình luận,wiew,điểm pk tik tok...
+Tại website: top1subre.com
+1000 folow Facebook = 5k vnđ
+1000 folow tik tok = 27k  vnđ
+10.000 tym tik tok = 4k vnđ
+Nhiều dịch vụ khác nữa ạ
+Zalo hỗ trợ > https://zalo.me/g/yqojlb929
+Link: https://video-stal-10.dlmd.me/gr/c749bf77d74a1e14475b/1056398681193555404
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Trịnh Khánh Ngọc | Sender ID: 4974435358875456062
+              - Nội Dung: Caption: /-li CHO THUÊ BOT QUẢN LÝ NHÓM ZALO /-li
+
+🌟 Tính năng nổi bật
+✅ Sử dụng tài khoản Zalo bạn cung cấp để thiết lập bot 
+✅ Quản lý thành viên: auto chào mừng, lọc từ cấm, chống spam hiệu quả
+✅ Giải trí cực vui: nhiều mini game, auto trả lời, tăng tương tác nhóm
+✅ Tự động gửi thông báo, rải link tiện lợi
+
+🎯 Lợi ích khi sử dụng bot
+🚀 Tiết kiệm tối đa thời gian quản lý nhóm
+👥 Tăng tương tác, gắn kết & giữ chân thành viên
+🔒 Bảo vệ nhóm sạch sẽ, chuyên nghiệp, không lo spam
+
+💰 Chỉ từ 60k/tháng → có ngay trợ lý quản trị Zalo siêu hiệu quả!
+
+📩 Nhắn tin ngay để được tư vấn & kích hoạt trong vài phút!
+Link: https://fg43.dlfl.vn/99a6b012b75d17034e4c/9092520819821825743
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Trịnh Khánh Ngọc | Sender ID: 4974435358875456062
+              - Nội Dung: Caption: Nhữ Hà Phươngツ
+Link: www.zaloapp.com
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Nguyễn Minh Dũng | Sender ID: 2515617326415221983
+              - Nội Dung: Caption: 
+Link: https://photo-stal-18.zdn.vn/gr/jpg/5a5022e41b29d2778b38/2356214829912831730.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Cúnnn | Sender ID: 8269903942103689714
+              - Nội Dung: Caption: /-li CHO THUÊ BOT QUẢN LÝ NHÓM ZALO /-li
+
+🌟 Tính năng nổi bật
+✅ Sử dụng tài khoản Zalo bạn cung cấp để thiết lập bot 
+✅ Quản lý thành viên: auto chào mừng, lọc từ cấm, chống spam hiệu quả
+✅ Giải trí cực vui: nhiều mini game, auto trả lời, tăng tương tác nhóm
+✅ Tự động gửi thông báo, rải link tiện lợi
+
+🎯 Lợi ích khi sử dụng bot
+🚀 Tiết kiệm tối đa thời gian quản lý nhóm
+👥 Tăng tương tác, gắn kết & giữ chân thành viên
+🔒 Bảo vệ nhóm sạch sẽ, chuyên nghiệp, không lo spam
+
+💰 Chỉ từ 60k/tháng → có ngay trợ lý quản trị Zalo siêu hiệu quả!
+
+📩 Nhắn tin ngay để được tư vấn & kích hoạt trong vài phút!
+Link: https://fg42.dlfl.vn/622973cbe08340dd1992/777437353369346182
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Cúnnn | Sender ID: 8269903942103689714
+              - Nội Dung: Caption: Nhữ Hà Phươngツ
+Link: www.zaloapp.com
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Hw cc3m =)) | Group ID: 8119460317429629336
+              - Người Gửi: ᅟ Nth圖ᅟ | Sender ID: 4060237542021611374
+              - Nội Dung: @Tu Be Continued @T H Meo
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Yukki | Sender ID: 6584751716005078359
+              - Nội Dung: 🚀 TOOL ZALO HỖ TRỢ QUẢN LÝ MEMBER – CHỐNG SPAM – AI TRẢ LỜI TỰ ĐỘNG
+
+🤖 1. AI TỰ ĐỘNG TRẢ LỜI TIN NHẮN
+🚫 2. Chống SPAM – Lọc Flood – Khóa Tin Nhắn Rác
+🔗 3. Rải Link Server Cho Từng Member
++ gửi tin nhắn cho member bị ẩn
++ gửi tin nhắn cho member bị ẩn không cần tham gia vào box
+🖥️ 4. Cho thuê VPS – Firewall – Bảo hành 1-1
+
+🖥️ 5. Nhận up tesflight tặng 3 bản mod
+- build mod chỉ từ 20k/1 long/int/2tad/hieuung
+#yukki
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Rùa | Sender ID: 8349555776621212649
+              - Nội Dung: Caption: Nhận rip prf - locked - cn - tiktik - page - tiktok  . KBH và có BH zin time tốc độ!
+/-li  Cần sll ae hợp tác gửi kèo cân sll
+🔥 Zalo : 0388 253 012
+Link: https://f61-zpg-r.zdn.vn/7174241942847818996/01269351df1c5042090d.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: PATus | Sender ID: 5509645902382851392
+              - Nội Dung: Bùi Xuân Nghĩa đã xoá tin nhắn này
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Yukki | Sender ID: 6584751716005078359
+              - Nội Dung: Đau lòng
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Duong | Sender ID: 2187167677307296620
+              - Nội Dung: @Văn kk
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Hùng Khánh Oder🛍️ | Group ID: 3295019927530850444
+              - Người Gửi: Phạm Hùng Khánh | Sender ID: 4784130591375259986
+              - Nội Dung:  Siêu phẩm Áo Khoác LV thêu Trần Bông siêu xịn về hàng nhé😘
+
+Sz: S đến XL
+
+Buôn 470 nhé
+
+NHẬN ĐẶT ĐƠN SẢN XUẤT THEO YÊU CẦU TỪ 50 SẢN PHẨM !!
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Hùng Khánh Oder🛍️ | Group ID: 3295019927530850444
+              - Người Gửi: Phạm Hùng Khánh | Sender ID: 4784130591375259986
+              - Nội Dung: Caption: 
+Link: https://photo-stal-6.zdn.vn/gr/jpg/8a2e7fc1fa0633586a17/1173719974855276550.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Hùng Khánh Oder🛍️ | Group ID: 3295019927530850444
+              - Người Gửi: Phạm Hùng Khánh | Sender ID: 4784130591375259986
+              - Nội Dung: Caption: 
+Link: https://photo-stal-16.zdn.vn/gr/jpg/c1027becfe2b37756e3a/1173719974855276550.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Hùng Khánh Oder🛍️ | Group ID: 3295019927530850444
+              - Người Gửi: Phạm Hùng Khánh | Sender ID: 4784130591375259986
+              - Nội Dung: Caption: 
+Link: https://photo-stal-6.zdn.vn/gr/jpg/68e33517b0d0798e20c1/4549733431678881029.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Hùng Khánh Oder🛍️ | Group ID: 3295019927530850444
+              - Người Gửi: Phạm Hùng Khánh | Sender ID: 4784130591375259986
+              - Nội Dung: Caption: 
+Link: https://photo-stal-15.zdn.vn/gr/jpg/940831eab42d7d73243c/1173719974855276550.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Hùng Khánh Oder🛍️ | Group ID: 3295019927530850444
+              - Người Gửi: Phạm Hùng Khánh | Sender ID: 4784130591375259986
+              - Nội Dung: Caption: 
+Link: https://photo-stal-17.zdn.vn/gr/jpg/a6cbb72b32ecfbb2a2fd/1173719974855276550.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Hùng Khánh Oder🛍️ | Group ID: 3295019927530850444
+              - Người Gửi: Phạm Hùng Khánh | Sender ID: 4784130591375259986
+              - Nội Dung: Caption: 
+Link: https://photo-stal-16.zdn.vn/gr/jpg/4f3817d792105b4e0201/1173719974855276550.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Hùng Khánh Oder🛍️ | Group ID: 3295019927530850444
+              - Người Gửi: Phạm Hùng Khánh | Sender ID: 4784130591375259986
+              - Nội Dung: Caption: 
+Link: https://photo-stal-14.zdn.vn/gr/jpg/9278dd825845911bc854/1173719974855276550.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Hùng Khánh Oder🛍️ | Group ID: 3295019927530850444
+              - Người Gửi: Phạm Hùng Khánh | Sender ID: 4784130591375259986
+              - Nội Dung: Caption: 
+Link: https://photo-stal-8.zdn.vn/gr/jpg/9895cd6148a681f8d8b7/4549733431678881029.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Hùng Khánh Oder🛍️ | Group ID: 3295019927530850444
+              - Người Gửi: Phạm Hùng Khánh | Sender ID: 4784130591375259986
+              - Nội Dung: Caption: 
+Link: https://photo-stal-7.zdn.vn/gr/jpg/0c57b2b33774fe2aa765/1173719974855276550.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Hùng Khánh Oder🛍️ | Group ID: 3295019927530850444
+              - Người Gửi: Phạm Hùng Khánh | Sender ID: 4784130591375259986
+              - Nội Dung: Caption: 
+Link: https://photo-stal-16.zdn.vn/gr/jpg/a168f3977650bf0ee641/1173719974855276550.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Hùng Khánh Oder🛍️ | Group ID: 3295019927530850444
+              - Người Gửi: Phạm Hùng Khánh | Sender ID: 4784130591375259986
+              - Nội Dung: Caption: 
+Link: https://photo-stal-18.zdn.vn/gr/jpg/c0e61f009ac753990ad6/1173719974855276550.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Hùng Khánh Oder🛍️ | Group ID: 3295019927530850444
+              - Người Gửi: Phạm Hùng Khánh | Sender ID: 4784130591375259986
+              - Nội Dung: Caption: 
+Link: https://photo-stal-18.zdn.vn/gr/jpg/979bdb625ea597fbceb4/1173719974855276550.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Hùng Khánh Oder🛍️ | Group ID: 3295019927530850444
+              - Người Gửi: Phạm Hùng Khánh | Sender ID: 4784130591375259986
+              - Nội Dung: Caption: 
+Link: https://photo-stal-7.zdn.vn/gr/jpg/675adfb95a7e9320ca6f/1173719974855276550.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Hùng Khánh Oder🛍️ | Group ID: 3295019927530850444
+              - Người Gửi: Phạm Hùng Khánh | Sender ID: 4784130591375259986
+              - Nội Dung: Caption: 
+Link: https://photo-stal-15.zdn.vn/gr/jpg/46d9e13e64f9ada7f4e8/1173719974855276550.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Yukki | Sender ID: 6584751716005078359
+              - Nội Dung: Đăng đúng 2 tin
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Nguyên Jr | Sender ID: 8327878104230543012
+              - Nội Dung: Caption: 
+Link: https://photo-stal-17.zdn.vn/gr/813a5b1061dda883f1cc/1857421279834323958.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: 亗彡ッ彡彡 Bonzzッ彡ッ彡亗 シ | Sender ID: 1300971480192401467
+              - Nội Dung: Xin trái tim mấy cậu @All
+
+
+Box Buôn Acc All Game TXH 🗿
+Type Sự Kiện: LEAVE - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: ᅟ Nth圖ᅟ | Sender ID: 4060237542021611374
+              - Nội Dung: Caption: 
+Link: https://fg41.dlfl.vn/ab814373e4ae45f01cbf/8522134859706858001/86448a80-2741-4129-bbaa-619b9d14976a_a_sin.webp
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Huy | Sender ID: 2471149814713759357
+              - Nội Dung: Caption: 
+Link: https://f37-zfcloud.zdn.vn/779f96c7758ad5d48c9b/5310214044920440941?createby=HaHuyHoang_Bot.webp
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 4431635903286108854
+              - Content: lô
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Hùng Khánh Oder🛍️ | Group ID: 3295019927530850444
+              - Người Gửi: Phạm Hùng Khánh | Sender ID: 4784130591375259986
+              - Nội Dung:  𝖇𝖗𝖆𝖓𝖉 : NEW nên sóng mã phao bản cao cấp trong phủ lót lông mịn tang logo xịn đét bao dày siêu ấm đẹp keng luôn mời ae 
+
+𝖕𝖗𝖎𝖈𝖊 𝖆𝖓𝖉 𝖖𝖚𝖆𝖙𝖎𝖑𝖞 : new 2025
+
+ Zá : 500
+
+𝖘𝖎𝖟𝖊 : S / M / L / XL
+
+ 🔥🔥🔥 𝕱𝖔𝖒 : 𝕯𝖆́𝖓𝖌 𝖈𝖍𝖚𝖆̂̉𝖓 𝖘𝖕𝖋 
+
+𝖉𝖊𝖙𝖆𝖎𝖑𝖘 : ảnh bên e tự chụp 100%
+‼️ bên e nhận sản xuất theo yêu cầu theo mẫu từ 40 chiếc  a chị đặt inbox riêng e nhé!
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Hùng Khánh Oder🛍️ | Group ID: 3295019927530850444
+              - Người Gửi: Phạm Hùng Khánh | Sender ID: 4784130591375259986
+              - Nội Dung: Caption: 
+Link: https://photo-stal-7.zdn.vn/gr/jpg/a104c9dd131cda42830d/2387684089002710602.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Hùng Khánh Oder🛍️ | Group ID: 3295019927530850444
+              - Người Gửi: Phạm Hùng Khánh | Sender ID: 4784130591375259986
+              - Nội Dung: Caption: 
+Link: https://f62-zpg-r.zdn.vn/jpg/4021585030131778179/d6d082e6eebc61e238ad.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Hùng Khánh Oder🛍️ | Group ID: 3295019927530850444
+              - Người Gửi: Phạm Hùng Khánh | Sender ID: 4784130591375259986
+              - Nội Dung: Caption: 
+Link: https://photo-stal-14.zdn.vn/gr/jpg/f56bb1bb6b7aa224fb6b/2387684089002710602.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Hùng Khánh Oder🛍️ | Group ID: 3295019927530850444
+              - Người Gửi: Phạm Hùng Khánh | Sender ID: 4784130591375259986
+              - Nội Dung: Caption: 
+Link: https://photo-stal-7.zdn.vn/gr/jpg/29d11705cdc4049a5dd5/2387684089002710602.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Hùng Khánh Oder🛍️ | Group ID: 3295019927530850444
+              - Người Gửi: Phạm Hùng Khánh | Sender ID: 4784130591375259986
+              - Nội Dung: Caption: 
+Link: https://photo-stal-14.zdn.vn/gr/jpg/3f551281c840011e5851/2387684089002710602.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Hùng Khánh Oder🛍️ | Group ID: 3295019927530850444
+              - Người Gửi: Phạm Hùng Khánh | Sender ID: 4784130591375259986
+              - Nội Dung: Caption: 
+Link: https://photo-stal-14.zdn.vn/gr/jpg/054e2595ff54360a6f45/2387684089002710602.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Hùng Khánh Oder🛍️ | Group ID: 3295019927530850444
+              - Người Gửi: Phạm Hùng Khánh | Sender ID: 4784130591375259986
+              - Nội Dung: Caption: 
+Link: https://photo-stal-16.zdn.vn/gr/jpg/640cabd67117b849e106/2387684089002710602.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Hùng Khánh Oder🛍️ | Group ID: 3295019927530850444
+              - Người Gửi: Phạm Hùng Khánh | Sender ID: 4784130591375259986
+              - Nội Dung: Caption: 
+Link: https://photo-stal-6.zdn.vn/gr/jpg/b185905e4a9f83c1da8e/2387684089002710602.jpg
+
+
+QEEN LOVE
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Văn | Sender ID: 1936674112038184406
+              - Nội Dung: Sticker ID: 43550 | 11788 | 3
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Văn | Sender ID: 1936674112038184406
+              - Nội Dung: Rồi sao sống
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Súc Vật Bảo Đubai Ông Bà Già Thất Học | Sender ID: 2419237100942683300
+              - Nội Dung: Caption: 
+Link: https://photo-stal-5.zdn.vn/gr/jpg/2a854baac86801365879/3138928024168185079.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Dũng | Sender ID: 133558212669998316
+              - Nội Dung: Caption: 
+Link: https://f143-zvc.dlmd.me/gr/abe78a778cc7619938d6/1217321335047022323
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Box Buôn Acc All Game TXH 🗿 | Group ID: 4211965295327647301
+              - Người Gửi: Vũ Tùng Lâm | Sender ID: 4747685497515441621
+              - Nội Dung: @Đệ Tân Xuân Hoàng hú cl
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Box Buôn Acc All Game TXH 🗿 | Group ID: 4211965295327647301
+              - Người Gửi: Vũ Tùng Lâm | Sender ID: 4747685497515441621
+              - Nội Dung: !!duyetmem all
+
+
+Box Buôn Acc All Game TXH 🗿
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Box Buôn Acc All Game TXH 🗿
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Box Buôn Acc All Game TXH 🗿
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Box Buôn Acc All Game TXH 🗿
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Box Buôn Acc All Game TXH 🗿
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Box Buôn Acc All Game TXH 🗿
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Box Buôn Acc All Game TXH 🗿
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: Kick acc bố t ra đer test lại @Ben
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 4431635903286108854
+              - Content: lô
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 514796084697988114
+              - Content: lô
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 4608823623728895427
+              - Content: lô
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 277790262806513388
+              - Content: lô
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 3858280120094581181
+              - Content: lô
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Ben ] | ID: 514796084697988114
+              - Content: /-strong
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Ben ] | ID: 514796084697988114
+              - Content: /-strong
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Ben ] | ID: 514796084697988114
+              - Content: /-strong
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Ben ] | ID: 514796084697988114
+              - Content: /-strong
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Ben ] | ID: 514796084697988114
+              - Content: /-strong
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Ben ] | ID: 514796084697988114
+              - Content: /-strong
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Ben ] | ID: 514796084697988114
+              - Content: /-strong
+
+
+bug
+Type Sự Kiện: REMOVE_MEMBER - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Ben | Sender ID: 514796084697988114
+              - Nội Dung: r
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Vàng Súp Bót Sì Toz | Sender ID: 1449173667977451306
+              - Nội Dung: 🌟 TUYỂN CỘNG TÁC VIÊN LÀM JOB ONLINE 🌟
+✅ Công việc: Tạo gmail 
+ – Dki app, quét mã sữa... 
+🌷 Nhóm Job Online: https://zalo.me/g/mnmvgx672
+
+
+💸𝙉𝙝𝙤́𝙢 𝙅𝙤𝙗 𝙊𝙣𝙡𝙞𝙣𝙚 💸🍀
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Nhi Cute | Sender ID: 6248249378353725312
+              - Nội Dung: ⚠️ Cảnh cáo lần 1 cho @Vàng Súp Bót Sì Toz!
+
+🔗 Không được gửi link trong nhóm này!
+🔢 Còn 5 cảnh cáo nữa sẽ bị kick!
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: @Ben để delay bao lâu ta
+
+
+💸𝙉𝙝𝙤́𝙢 𝙅𝙤𝙗 𝙊𝙣𝙡𝙞𝙣𝙚 💸🍀
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: T chia bacth với delay
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: Delay gửi nguoief này qua nguoief khác
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Ben | Sender ID: 514796084697988114
+              - Nội Dung: nó bị k gửi là tin nhắn trùng ấy
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Ben | Sender ID: 514796084697988114
+              - Nội Dung: chứ delay thì 10 20s là dc
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Phạm Sang | Sender ID: 7529478315440425288
+              - Nội Dung: hoiuc server của ai á
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Tài | Sender ID: 7032797906281244591
+              - Nội Dung: Yuki
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Tài | Sender ID: 7032797906281244591
+              - Nội Dung: Á
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Hoàng Ngọc Huy | Sender ID: 8182084334551442106
+              - Nội Dung: Caption: Thu sll gmail mới tạo rate 13k/1 ai tạo vô nhóm 
+bank trong ngày 
+Yêu cầu mk gmal là: truongan22
+năm sinh full trên 18+
+tạo bằng tay kh reg sdt,tood
+tạo tên vn + số 
+tránh giống tên nhau
+toàn bộ gmail là ph trắng tt                                           lưu ý : tạo xong là ph xóa gmail ra khỏi thiết bị 
+Nhóm chốt công bank : https://zalo.me/g/syyohw720
+Link: https://photo-stal-6.zdn.vn/gr/jpg/a4114a6692a35bfd02b2/2454514849521884579.jpg
+
+
+💸𝙉𝙝𝙤́𝙢 𝙅𝙤𝙗 𝙊𝙣𝙡𝙞𝙣𝙚 💸🍀
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Phạm Sang | Sender ID: 7529478315440425288
+              - Nội Dung: Sticker ID: 27452 | 10739 | 3
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Tài | Sender ID: 7032797906281244591
+              - Nội Dung: @Yukki
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Tài | Sender ID: 7032797906281244591
+              - Nội Dung: Đây
+
+
+💸𝙉𝙝𝙤́𝙢 𝙅𝙤𝙗 𝙊𝙣𝙡𝙞𝙣𝙚 💸🍀
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+💸𝙉𝙝𝙤́𝙢 𝙅𝙤𝙗 𝙊𝙣𝙡𝙞𝙣𝙚 💸🍀
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+💸𝙉𝙝𝙤́𝙢 𝙅𝙤𝙗 𝙊𝙣𝙡𝙞𝙣𝙚 💸🍀
+Type Sự Kiện: LEAVE - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Shinz | Sender ID: 8158140824277227777
+              - Nội Dung: Caption: ai có con này bên blue ko á
+Link: https://f62-zpg-r.zdn.vn/jpg/6955622437596499640/9ce456a16ec4e19ab8d5.jpg
+
+
+💸𝙉𝙝𝙤́𝙢 𝙅𝙤𝙗 𝙊𝙣𝙡𝙞𝙣𝙚 💸🍀
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: 💸𝙉𝙝𝙤́𝙢 𝙅𝙤𝙗 𝙊𝙣𝙡𝙞𝙣𝙚 💸🍀 | Group ID: 3681236850517768736
+              - Người Gửi: Vũ Chi | Sender ID: 1127989645057161105
+              - Nội Dung: @All moowee đổi sang mã gth này ytvesy
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 514796084697988114
+              - Content: hi
+
+ID: 1765017688379-1638
+
+
+💸𝙉𝙝𝙤́𝙢 𝙅𝙤𝙗 𝙊𝙣𝙡𝙞𝙣𝙚 💸🍀
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 3858280120094581181
+              - Content: hi
+
+ID: 1765017698382-8915
+
+
+💸𝙉𝙝𝙤́𝙢 𝙅𝙤𝙗 𝙊𝙣𝙡𝙞𝙣𝙚 💸🍀
+Type Sự Kiện: LEAVE - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Thuong | Sender ID: 815128878850644857
+              - Nội Dung: @Shinz có
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 4608823623728895427
+              - Content: hi
+
+ID: 1765017709089-1175
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Shinz | Sender ID: 8158140824277227777
+              - Nội Dung: @Thuong xin với
+
+
+NRO TACHI (Test Vv 🍀)
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+QEEN LOVE
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 4431635903286108854
+              - Content: hi
+
+ID: 1765017742087-6605
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Ben | Sender ID: 514796084697988114
+              - Nội Dung: @Vu Gia Huy thêm gửi ảnh nữa nhỉ
+
+
+💸𝙉𝙝𝙤́𝙢 𝙅𝙤𝙗 𝙊𝙣𝙡𝙞𝙣𝙚 💸🍀
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 8739254428021452414
+              - Content: hi
+
+ID: 1765017753093-2978
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 277790262806513388
+              - Content: hi
+
+ID: 1765017764101-6154
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: Có mà
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Ben | Sender ID: 514796084697988114
+              - Nội Dung: Caption: 
+Link: https://f38-zfcloud.zdn.vn/57fa8ecaa88308dd5192/1908845733516827639?createby=HaHuyHoang_Bot.webp
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Xaabii 钟爱一生 | Sender ID: 4373932964757131397
+              - Nội Dung: Kết Bạn Nhắn Tin Mình Lộc Mỗi Bạn 97k ( Lưu Ý Gửi Kết Bạn Trước Khi Nhắn Bạn Nào Hên Mình Sẽ Rep )
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Nhi Cute | Sender ID: 6248249378353725312
+              - Nội Dung: ⚠️ Xaabii 钟爱一生 - Tin nhắn bị xóa vì chứa từ cấm: "kết bạn"
+📊 Cảnh cáo lần 1/3
+
+⏱️ Tin nhắn này sẽ tự động xóa sau 60 giây...
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Jake Emma | Sender ID: 3265619385140519783
+              - Nội Dung: @Shinz ib nhé ku
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Zynai - Devbot ] | ID: 5082221962081738417
+              - Content: Caption: hhhh
+Link: https://f20-zpc.zdn.vn/8296852670057241884/23a4dfe7e0826fdc3693.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Test | Group ID: 3781582778561073484
+              - Người Gửi: Thảo Nguyễn | Sender ID: 1559791826700234643
+              - Nội Dung: Caption: 🚀 DỊCH VỤ TĂNG TƯƠNG TÁC MXH – GIÁ RẺ
+
+• 1k Follow Facebook: 4k
+• 1k Like bài FB: 2k
+• 100k View TikTok: 6k
+• 10k Tym TikTok: 4k
+• 1k Follow TikTok: 25k
+• 1k Follow Instagram: 19k
+Và Nhiều Dịch Vụ Khác!
+⚡ Xử lý đơn hàng 24/24 
+🔗Tất Cả Có Tại: https://viplike1s.top/
+
+📢 Nhóm thông báo: 
+https://zalo.me/g/hebqjh903
+#VIPLIKE1S.TOP
+Link: https://f67-zpg-r.zdn.vn/3461714243175176577/c7b970f76da3e2fdbbb2.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Yukki | Sender ID: 6584751716005078359
+              - Nội Dung: @Tài đây cc à m spam a nx
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Ben | Sender ID: 514796084697988114
+              - Nội Dung: thế là húp r
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: @Ben má đ đc
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Ben | Sender ID: 514796084697988114
+              - Nội Dung: sao
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Trung Thu Thập Cẩm | Sender ID: 4926705624374985833
+              - Nội Dung: Caption: /-li CHO THUÊ BOT QUẢN LÝ NHÓM ZALO /-li
+
+🌟 Tính năng nổi bật
+✅ Sử dụng tài khoản Zalo bạn cung cấp để thiết lập bot 
+✅ Quản lý thành viên: auto chào mừng, lọc từ cấm, chống spam hiệu quả
+✅ Tự động gửi thông báo, rải link tiện lợi
+
+🎯 Lợi ích khi sử dụng bot
+🚀 Tiết kiệm tối đa thời gian quản lý nhóm
+👥 Tăng tương tác, gắn kết & giữ chân thành viên
+🔒 Bảo vệ nhóm sạch sẽ, chuyên nghiệp, không lo spam
+
+Link Box: https://zalo.me/g/qqhvik434
+
+💰 Chỉ từ 70k/tháng → có ngay trợ lý quản trị Zalo siêu hiệu quả!
+
+📩 Nhắn tin ngay để được tư vấn & kích hoạt trong vài phút!
+Link: https://zalo.me/g/qqhvik434
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Trung Thu Thập Cẩm | Sender ID: 4926705624374985833
+              - Nội Dung: Caption: Ben
+Link: www.zaloapp.com
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: Thêm ảnh đ gửi đc moẹ
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Ben | Sender ID: 514796084697988114
+              - Nội Dung: vc
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: Làm từ web base share đấy
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Hw cc3m =)) | Group ID: 8119460317429629336
+              - Người Gửi: A Long | Sender ID: 4173239221388446940
+              - Nội Dung: Caption: 
+Link: https://photo-stal-13.zdn.vn/gr/jpg/3d027f0439c9f097a9d8/59179371541678107.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Hw cc3m =)) | Group ID: 8119460317429629336
+              - Người Gửi: A Long | Sender ID: 4173239221388446940
+              - Nội Dung: Caption: 
+Link: https://f62-zpg-r.zdn.vn/jpg/3365065246358197100/a2ab69d354b6dbe882a7.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Hw cc3m =)) | Group ID: 8119460317429629336
+              - Người Gửi: A Long | Sender ID: 4173239221388446940
+              - Nội Dung: Caption: 
+Link: https://f61-zpg-r.zdn.vn/jpg/8160771435557023117/25eadabee7db688531ca.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Hw cc3m =)) | Group ID: 8119460317429629336
+              - Người Gửi: A Long | Sender ID: 4173239221388446940
+              - Nội Dung: Caption: 
+Link: https://photo-stal-9.zdn.vn/gr/jpg/e853bc2cfbe132bf6bf0/2596804049233703321.jpg
+
+
+Features Not Bugs
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Ben | Sender ID: 514796084697988114
+              - Nội Dung: Caption: 
+Link: https://f38-zfcloud.zdn.vn/57fa8ecaa88308dd5192/1908845733516827639?createby=HaHuyHoang_Bot.webp
+
+
+Hw cc3m =))
+Type Sự Kiện: LEAVE - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Ben | Sender ID: 514796084697988114
+              - Nội Dung: đại đại đi
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: Cmm sửa xong ấn quét đ đc
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Ben | Sender ID: 514796084697988114
+              - Nội Dung: Caption: 
+Link: https://f37-zfcloud.zdn.vn/4975aa859fce3f9066df/5608709284490483394?createby=HaHuyHoang_Bot.webp
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Em Hùng | Sender ID: 4532243990557426899
+              - Nội Dung: Con Làng lá nhức cái đầu quá
+
+
+QEEN LOVE
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+QEEN LOVE
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+QEEN LOVE
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Nhi Cute | Sender ID: 6248249378353725312
+              - Nội Dung: ⚠️ Bạn đã vượt giới hạn gửi quá nhiều tin nhắn trong thời gian ngắn nhưng bot không thể kick (thiếu quyền?).
+
+
+QEEN LOVE
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Nhật | Sender ID: 2170561159691460137
+              - Nội Dung: @Em Hùng youtobe.co m
+
+
+QEEN LOVE
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Yukki | Sender ID: 6584751716005078359
+              - Nội Dung: Youtube.rar
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Yukki | Sender ID: 6584751716005078359
+              - Nội Dung: :')
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Đặng Kích | Sender ID: 8893907787087628635
+              - Nội Dung: Chao cả nhà
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Văn | Sender ID: 1936674112038184406
+              - Nội Dung: Sticker ID: 18009 | 10130 | 3
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 1680665091437501028
+              - Content: tí em gửi giờ em đang làm rồi cô
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Trần Hải Hà ] | ID: 1680665091437501028
+              - Content: Ko phải
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 1680665091437501028
+              - Content: Xin Chào Trần Hải Hà
+
+Tôi Đang Bận Và Sẽ Sớm Trả Lời Tin Nhắn Của Bạn !!
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 1680665091437501028
+              - Content: Caption: Vu Gia Huy
+Link: www.zaloapp.com
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Trần Hải Hà ] | ID: 1680665091437501028
+              - Content: Ko phải gửi bài
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Trần Hải Hà ] | ID: 1680665091437501028
+              - Content: Cô đang muốn hỏi vđ khác.
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 1680665091437501028
+              - Content: vấn đề gì cô
+
+
+QEEN LOVE
+Type Sự Kiện: LEAVE - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Rùa | Sender ID: 8349555776621212649
+              - Nội Dung: Caption: Nhận rip prf - locked - cn - tiktik - page - tiktok  . KBH và có BH zin time tốc độ!
+/-li  Cần sll ae hợp tác gửi kèo cân sll
+🔥 Zalo : 0388 253 012
+Link: https://f61-zpg-r.zdn.vn/7174241942847818996/01269351df1c5042090d.jpg
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Trần Hải Hà ] | ID: 1680665091437501028
+              - Content: Xe cộ
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Em Hùng | Sender ID: 4532243990557426899
+              - Nội Dung: Oi tr oi biết thế tình hình này mình ko hỏi thì tốt hơn
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Em Hùng | Sender ID: 4532243990557426899
+              - Nội Dung: Sticker ID: 21968 | 10330 | 3
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Trần Hải Hà ] | ID: 1680665091437501028
+              - Content: Từ tsau ko đi học muộn nữa
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Trần Hải Hà ] | ID: 1680665091437501028
+              - Content: Vâng là vâng thật
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 1680665091437501028
+              - Content: Xin Chào Trần Hải Hà
+
+Tôi Đang Bận Và Sẽ Sớm Trả Lời Tin Nhắn Của Bạn !!
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 1680665091437501028
+              - Content: Caption: Vu Gia Huy
+Link: www.zaloapp.com
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Trần Hải Hà ] | ID: 1680665091437501028
+              - Content: Chứ ko p vâng cho có
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Trần Hải Hà ] | ID: 1680665091437501028
+              - Content: Hn c11 p lm việc vs BGH vì gửi xe ng trường
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Trần Hải Hà ] | ID: 1680665091437501028
+              - Content: A đừng có lằng nhằng đấy
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Joy | Sender ID: 7084618405676870759
+              - Nội Dung: @Jake emma ké
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Chấn | Sender ID: 2900953051387671924
+              - Nội Dung: !
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Chấn | Sender ID: 2900953051387671924
+              - Nội Dung: !vd
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Chấn | Sender ID: 2900953051387671924
+              - Nội Dung: !vdsad
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Zynai - Devbot | Sender ID: 5082221962081738417
+              - Nội Dung: Caption: [ Chấn ] 
+Link: https://fg41.dlfl.vn/ca74a95f58e5f9bba0f4/7738961838073943308
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 1680665091437501028
+              - Content: Sticker ID: 28220 | 10776 | 7
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Chấn | Sender ID: 2900953051387671924
+              - Nội Dung: !vdsad
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 514796084697988114
+              - Content: hi
+
+ID: 1765018694937-1791
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 3858280120094581181
+              - Content: hi
+
+ID: 1765018695948-7197
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 4608823623728895427
+              - Content: hi
+
+ID: 1765018696949-7396
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 5082221962081738417
+              - Content: hi
+
+ID: 1765018698979-2354
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 4431635903286108854
+              - Content: hi
+
+ID: 1765018699981-6569
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 8739254428021452414
+              - Content: hi
+
+ID: 1765018700988-7339
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 277790262806513388
+              - Content: hi
+
+ID: 1765018701999-1738
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: 亗彡ッ彡彡 Bonzzッ彡ッ彡亗 シ | Sender ID: 1300971480192401467
+              - Nội Dung: Caption: https://vt.tiktok.com/ZSfENvJLX/
+Link: https://vt.tiktok.com/ZSfENvJLX/
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Nhi Cute | Sender ID: 6248249378353725312
+              - Nội Dung: ❌ Lỗi khi tải xuống media
+
+
+QEEN LOVE
+Type Sự Kiện: LEAVE - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Zynai - Devbot | Sender ID: 5082221962081738417
+              - Nội Dung: Caption: [ Chấn ] 
+Link: https://fg62.dlfl.vn/60d0aef510bcb0e2e9ad/3794599254539102115
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: N G O C V Y | Sender ID: 3314304996785589448
+              - Nội Dung: Caption: 
+Link: https://f38-zfcloud.zdn.vn/746922c71688b6d6ef99/5214490469326342971?createby=NDQ_Bot.webp
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: @Ben đ ổn r
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: N G O C V Y | Sender ID: 3314304996785589448
+              - Nội Dung: Sticker ID: 45356 | 11901 | 3
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Box Buôn Acc All Game TXH 🗿 | Group ID: 4211965295327647301
+              - Người Gửi: ᅟᅟtxhᅟ陳春黃 | Sender ID: 7154822091528238973
+              - Nội Dung: 💢 Cần Bán Gấp 1 Acc Zalo 200 Bạn Bè Đang Tham Gia 250 Nhóm Bke All 💢                                                  🤯 Vào Ngay Để Bú Ngay Acc Free Fire, Liên Quân, Card Game Free 🤯
+Box1: https://zalo.me/g/yxjvnw685
+Box2: https://zalo.me/g/pytfzu228
+Box3: https://zalo.me/g/birnro352
+--------------------------------------
+💥 ƯU ĐÃI ĐẶC BIỆT 💥 
+‼️Rải Link Kéo Thành Viên Nhóm Chỉ 5K 1 Ngày, 1 Tháng Chỉ Với 56.789đ
+‼️Bán Nhóm 1100 Thành Viên Real Chưa Duyệt Chỉ Với 8K/1 Nhóm Mua Về Làm Việc Quảng Cáo OK
+‼️Cho Thuê Bot Zalo 60.000/1 Tháng Với 1xx Lệnh Cực Vip Và Bao Trâu 
+‼️Bán Full Combo Bot Giá Cực Rẻ 
+👉 Thu Mua SLL Acc FF • LQ • TikTok Giá Cao Nhất Thị Trường! 
+👉 Cần Tìm Acc TikTok Cnam Cnu Nhiều Tim Không Cần Follow
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Box Buôn Acc All Game TXH 🗿 | Group ID: 4211965295327647301
+              - Người Gửi: ᅟᅟtxhᅟ陳春黃 | Sender ID: 7154822091528238973
+              - Nội Dung: Caption: ᅟᅟtxhᅟ陳春黃
+Link: www.zaloapp.com
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: Mẹ để 10s đ gửi
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Văn | Sender ID: 1936674112038184406
+              - Nội Dung: @N G O C V Y ôi bé mòn
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Văn | Sender ID: 1936674112038184406
+              - Nội Dung: Sticker ID: 22629 | 10371 | 7
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: Tại t chia batxh
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Trịnh Khánh Ngọc | Sender ID: 4974435358875456062
+              - Nội Dung: Caption: /-li CHO THUÊ BOT QUẢN LÝ NHÓM ZALO /-li
+
+🌟 Tính năng nổi bật
+✅ Sử dụng tài khoản Zalo bạn cung cấp để thiết lập bot 
+✅ Quản lý thành viên: auto chào mừng, lọc từ cấm, chống spam hiệu quả
+✅ Giải trí cực vui: nhiều mini game, auto trả lời, tăng tương tác nhóm
+✅ Tự động gửi thông báo, rải link tiện lợi
+
+🎯 Lợi ích khi sử dụng bot
+🚀 Tiết kiệm tối đa thời gian quản lý nhóm
+👥 Tăng tương tác, gắn kết & giữ chân thành viên
+🔒 Bảo vệ nhóm sạch sẽ, chuyên nghiệp, không lo spam
+
+💰 Chỉ từ 60k/tháng → có ngay trợ lý quản trị Zalo siêu hiệu quả!
+
+📩 Nhắn tin ngay để được tư vấn & kích hoạt trong vài phút!
+Link: https://fg43.dlfl.vn/99a6b012b75d17034e4c/9092520819821825743
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Trịnh Khánh Ngọc | Sender ID: 4974435358875456062
+              - Nội Dung: Caption: Nhữ Hà Phươngツ
+Link: www.zaloapp.com
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: 10 người 1 lần roof nghỉ 1p
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: Văn | Sender ID: 1936674112038184406
+              - Nội Dung: @N G O C V Y !i4
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: Take Care For Groups | Sender ID: 3465480315669870625
+              - Nội Dung: Caption: 
+Link: https://f60-zpg-r.zdn.vn/1789630123445986812/13f7dc27f3427c1c2553.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: N G O C V Y | Sender ID: 3314304996785589448
+              - Nội Dung: @Văn chào cưng nha
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: Văn | Sender ID: 1936674112038184406
+              - Nội Dung: 2005
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Hoàng Thanh Tùng | Sender ID: 9199610489047288733
+              - Nội Dung: @Ngô Quang Duẩn
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: Văn | Sender ID: 1936674112038184406
+              - Nội Dung: Sticker ID: 43550 | 11788 | 3
+
+
+QEEN LOVE
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: N G O C V Y | Sender ID: 3314304996785589448
+              - Nội Dung: 1998
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: N G O C V Y | Sender ID: 3314304996785589448
+              - Nội Dung: Sticker ID: 50626 | 12658 | 3
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Nhữ Hà Phươngツ | Sender ID: 5899779760053972694
+              - Nội Dung: Caption: 
+Link: https://f36-zfcloud.zdn.vn/141f3727ac690c375578/4657037472793079873?StickerCreatedBy=NgoQuangDuan_Bot.webp
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Văn | Sender ID: 1936674112038184406
+              - Nội Dung: Caption: 
+Link: https://tmpfiles.org/dl/14077508/output_4695258137709817042_1764981363_6578.webp
+
+
+QEEN LOVE
+Type Sự Kiện: LEAVE - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Cúnnn | Sender ID: 8269903942103689714
+              - Nội Dung: Caption: /-li CHO THUÊ BOT QUẢN LÝ NHÓM ZALO /-li
+
+🌟 Tính năng nổi bật
+✅ Sử dụng tài khoản Zalo bạn cung cấp để thiết lập bot 
+✅ Quản lý thành viên: auto chào mừng, lọc từ cấm, chống spam hiệu quả
+✅ Giải trí cực vui: nhiều mini game, auto trả lời, tăng tương tác nhóm
+✅ Tự động gửi thông báo, rải link tiện lợi
+
+🎯 Lợi ích khi sử dụng bot
+🚀 Tiết kiệm tối đa thời gian quản lý nhóm
+👥 Tăng tương tác, gắn kết & giữ chân thành viên
+🔒 Bảo vệ nhóm sạch sẽ, chuyên nghiệp, không lo spam
+
+💰 Chỉ từ 60k/tháng → có ngay trợ lý quản trị Zalo siêu hiệu quả!
+
+📩 Nhắn tin ngay để được tư vấn & kích hoạt trong vài phút!
+Link: https://fg42.dlfl.vn/622973cbe08340dd1992/777437353369346182
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Cúnnn | Sender ID: 8269903942103689714
+              - Nội Dung: Caption: Nhữ Hà Phươngツ
+Link: www.zaloapp.com
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: Trung | Sender ID: 4082883245724487327
+              - Nội Dung: @Vương Ma Tử bả 8x á
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: Văn | Sender ID: 1936674112038184406
+              - Nội Dung: !i4
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: Take Care For Groups | Sender ID: 3465480315669870625
+              - Nội Dung: Caption: 
+Link: https://f60-zpg-r.zdn.vn/7671612936837545517/5bfad330ff55700b2944.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Văn | Sender ID: 1936674112038184406
+              - Nội Dung: /mute @N G O C V Y
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Nhi Cute | Sender ID: 6248249378353725312
+              - Nội Dung: Caption: 🚫 Đã cấm chat 1 người
+Link: https://f60-zpg-r.zdn.vn/860222376365869738/54e0f090dcf553ab0ae4.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Hw cc3m =)) | Group ID: 8119460317429629336
+              - Người Gửi: Lê Trần Ngọc Ân | Sender ID: 2654666641896647905
+              - Nội Dung: @ᅟ Nth圖ᅟ sao v k được gửi sex à em
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Văn | Sender ID: 1936674112038184406
+              - Nội Dung: Em đã bị cấm chat
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: ᅟᅟtxhᅟ陳春黃 | Sender ID: 7154822091528238973
+              - Nội Dung: 💢 Cần Bán Gấp 1 Acc Zalo 200 Bạn Bè Đang Tham Gia 250 Nhóm Bke All 💢                                                  🤯 Vào Ngay Để Bú Ngay Acc Free Fire, Liên Quân, Card Game Free 🤯
+Box1: https://zalo.me/g/yxjvnw685
+Box2: https://zalo.me/g/pytfzu228
+Box3: https://zalo.me/g/birnro352
+--------------------------------------
+💥 ƯU ĐÃI ĐẶC BIỆT 💥 
+‼️Rải Link Kéo Thành Viên Nhóm Chỉ 5K 1 Ngày, 1 Tháng Chỉ Với 56.789đ
+‼️Bán Nhóm 1100 Thành Viên Real Chưa Duyệt Chỉ Với 8K/1 Nhóm Mua Về Làm Việc Quảng Cáo OK
+‼️Cho Thuê Bot Zalo 60.000/1 Tháng Với 1xx Lệnh Cực Vip Và Bao Trâu 
+‼️Bán Full Combo Bot Giá Cực Rẻ 
+👉 Thu Mua SLL Acc FF • LQ • TikTok Giá Cao Nhất Thị Trường! 
+👉 Cần Tìm Acc TikTok Cnam Cnu Nhiều Tim Không Cần Follow
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Zynai - Devbot | Sender ID: 5082221962081738417
+              - Nội Dung: ⚠️ Cảnh cáo @ᅟᅟtxhᅟ陳春黃!
+Ở đây không được phép gửi link này!
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: ᅟᅟtxhᅟ陳春黃 | Sender ID: 7154822091528238973
+              - Nội Dung: Caption: ᅟᅟtxhᅟ陳春黃
+Link: www.zaloapp.com
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Zynai - Devbot | Sender ID: 5082221962081738417
+              - Nội Dung: ⚠️ Cảnh cáo @ᅟᅟtxhᅟ陳春黃!
+Ngừng send link, trước khi, mọi chuyện dần tồi tệ hơn!
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Văn | Sender ID: 1936674112038184406
+              - Nội Dung: Có j trăn trối k
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: P V H | Sender ID: 8468753328945769905
+              - Nội Dung: Caption: https://vt.tiktok.com/ZSfEYLDkf/
+Link: https://vt.tiktok.com/ZSfEYLDkf/
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Nư | Sender ID: 353218258084511184
+              - Nội Dung: Ai có video
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Nư | Sender ID: 353218258084511184
+              - Nội Dung: Quay cảnh chill chill
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Nư | Sender ID: 353218258084511184
+              - Nội Dung: Cho mik xin với
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: Take Care For Groups | Sender ID: 3465480315669870625
+              - Nội Dung: Caption: [ P V H ]
+Author: [cvnkinganime] CVN KING ANIME
+Description: Cậu ấy đã trải qua rất nhiều trận đánh và đã đạt được các sức mạnh to lớn #goku #songoku #dragonball #cvn_king_anime #fyp 
+📊 Chất lượng: 540p
+💗 Thả tim để nhận nội dung ngẫu nhiên khác từ author này
+Link: https://fg40.dlfl.vn/48e425f820b380edd9a2/3406830405503297869
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Nhi Cute | Sender ID: 6248249378353725312
+              - Nội Dung: ⚡ Cảnh cáo spam lần 1 cho @Nư!
+🚫 Hành vi: gửi quá nhiều tin nhắn trong thời gian ngắn
+🔢 Còn 2 lần nữa sẽ bị kick!
+
+
+QEEN LOVE
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: N G O C V Y | Sender ID: 3314304996785589448
+              - Nội Dung: Sticker ID: 50626 | 12658 | 3
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: N G O C V Y | Sender ID: 3314304996785589448
+              - Nội Dung: 2 thằng nx
+
+
+QEEN LOVE
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 514796084697988114
+              - Content: HELLLO HWH ĐẸP ZIA
+
+ID: 1765019456188-6593
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 3858280120094581181
+              - Content: HELLLO HWH ĐẸP ZIA
+
+ID: 1765019457191-4632
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 4608823623728895427
+              - Content: HELLLO HWH ĐẸP ZIA
+
+ID: 1765019458194-7702
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 5082221962081738417
+              - Content: HELLLO HWH ĐẸP ZIA
+
+ID: 1765019460220-7810
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 4431635903286108854
+              - Content: HELLLO HWH ĐẸP ZIA
+
+ID: 1765019461222-5195
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 8739254428021452414
+              - Content: HELLLO HWH ĐẸP ZIA
+
+ID: 1765019462224-6157
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 277790262806513388
+              - Content: HELLLO HWH ĐẸP ZIA
+
+ID: 1765019463228-9360
+
+
+QEEN LOVE
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: N G O C V Y | Sender ID: 3314304996785589448
+              - Nội Dung: Welcome 500ae
+
+
+QEEN LOVE
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: N G O C V Y | Sender ID: 3314304996785589448
+              - Nội Dung: 🐽999 số ms đẹp
+
+
+Box Buôn Acc All Game TXH 🗿
+Type Sự Kiện: LEAVE - Số Lượng Member Trong Sự Kiện: 1
+
+
+iOSVIET.COM - Notification🔔
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Test | Group ID: 3781582778561073484
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: prefix
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Test | Group ID: 3781582778561073484
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: Prefix hiện tại của bot là: -
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Test | Group ID: 3781582778561073484
+              - Người Gửi: Vu Gia Phú | Sender ID: 330277997103500963
+              - Nội Dung: Prefix hiện tại của bot là: /
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Test | Group ID: 3781582778561073484
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: /help
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Treo Cổ Cả Nhà Nyc | Sender ID: 1223426151699592652
+              - Nội Dung: @Nguyenvanhan ?
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Bùi Mạnh Tiến | Sender ID: 9095470858920597519
+              - Nội Dung: Caption: 
+Link: https://fg43.dlfl.vn/7c2e514b50c1f19fa8d0/4111367895499288739
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Treo Cổ Cả Nhà Nyc | Sender ID: 1223426151699592652
+              - Nội Dung: kệ mẹ t
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Test | Group ID: 3781582778561073484
+              - Người Gửi: Vu Gia Phú | Sender ID: 330277997103500963
+              - Nội Dung: Caption: 🌟 @Vu Gia Huy - Danh sách lệnh của tôi 🌟
+Link: https://f67-zpg-r.zdn.vn/9162981158815800921/fbf17b91aef421aa78e5.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Treo Cổ Cả Nhà Nyc | Sender ID: 1223426151699592652
+              - Nội Dung: ai mượn m nghe
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Test | Group ID: 3781582778561073484
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: /cmd
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Treo Cổ Cả Nhà Nyc | Sender ID: 1223426151699592652
+              - Nội Dung: =)?
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Test | Group ID: 3781582778561073484
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: /cmd load
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Test | Group ID: 3781582778561073484
+              - Người Gửi: Vu Gia Phú | Sender ID: 330277997103500963
+              - Nội Dung: 📊 Reload Thành Công Lệnh Bot:
+
+👥 Lệnh cho thành viên: 88 lệnh
+👑 Lệnh cho admin: 92 lệnh
+📝 Tổng số lệnh: 180 lệnh
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Test | Group ID: 3781582778561073484
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: /mybot gelogin
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Trịnh Khánh Ngọc | Sender ID: 4974435358875456062
+              - Nội Dung: Caption: /-li CHO THUÊ BOT QUẢN LÝ NHÓM ZALO /-li
+
+🌟 Tính năng nổi bật
+✅ Sử dụng tài khoản Zalo bạn cung cấp để thiết lập bot 
+✅ Quản lý thành viên: auto chào mừng, lọc từ cấm, chống spam hiệu quả
+✅ Giải trí cực vui: nhiều mini game, auto trả lời, tăng tương tác nhóm
+✅ Tự động gửi thông báo, rải link tiện lợi
+
+🎯 Lợi ích khi sử dụng bot
+🚀 Tiết kiệm tối đa thời gian quản lý nhóm
+👥 Tăng tương tác, gắn kết & giữ chân thành viên
+🔒 Bảo vệ nhóm sạch sẽ, chuyên nghiệp, không lo spam
+
+💰 Chỉ từ 60k/tháng → có ngay trợ lý quản trị Zalo siêu hiệu quả!
+
+📩 Nhắn tin ngay để được tư vấn & kích hoạt trong vài phút!
+Link: https://fg43.dlfl.vn/99a6b012b75d17034e4c/9092520819821825743
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Trịnh Khánh Ngọc | Sender ID: 4974435358875456062
+              - Nội Dung: Caption: Nhữ Hà Phươngツ
+Link: www.zaloapp.com
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Gái Đẹp Có Thù Với Toán | Sender ID: 4498209718736784730
+              - Nội Dung: =)))
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Tài | Sender ID: 7032797906281244591
+              - Nội Dung: @Bùi Xuân Nghĩa lọ 0 a
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Trần Thế Tuyênᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ | Sender ID: 4742335495103729382
+              - Nội Dung: !tx
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Lion | Sender ID: 4847891389753285489
+              - Nội Dung: Sticker ID: 45356 | 11901 | 3
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Lion | Sender ID: 4847891389753285489
+              - Nội Dung: Sticker ID: 45356 | 11901 | 3
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Bùi Xuân Nghĩa | Sender ID: 2475082481356514415
+              - Nội Dung: none
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Treo Cổ Cả Nhà Nyc | Sender ID: 1223426151699592652
+              - Nội Dung: Caption: 
+Link: https://f34-zfcloud.zdn.vn/62f02e889974382a6165/1958963422680865290?createby=UltraGPT.webp
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Súc Vật Bảo Đubai Ông Bà Già Thất Học | Sender ID: 2419237100942683300
+              - Nội Dung: t ngày bán mấy lần k sao
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 4431635903286108854
+              - Content: hi
+
+ID: 1765020639881-3745
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 1559791826700234643
+              - Content: hi
+
+ID: 1765020641893-0967
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 277790262806513388
+              - Content: hi
+
+ID: 1765020642906-7473
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Thảo Nguyễn ] | ID: 1559791826700234643
+              - Content: Xin chào! Acc Này Mình Treo Bot
+Có Vấn Đề Gì Liên Hệ Acc Chính Mình Nha
+Zalo 0367972942
+Nhắn tin acc hiện tại sẽ không rep!!!
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 1559791826700234643
+              - Content: Xin Chào Thảo Nguyễn
+
+Tôi Đang Bận Và Sẽ Sớm Trả Lời Tin Nhắn Của Bạn !!
+
+
+Có Mesage Riêng tư mới:
+              - Sender Name: [ Vu Gia Phú ] | ID: 1559791826700234643
+              - Content: Caption: Vu Gia Huy
+Link: www.zaloapp.com
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Gái Đẹp Có Thù Với Toán | Sender ID: 4498209718736784730
+              - Nội Dung: Ối dồi cái tên :$
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Test | Group ID: 3781582778561073484
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: /mybot getlogin
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Test | Group ID: 3781582778561073484
+              - Người Gửi: Vu Gia Phú | Sender ID: 330277997103500963
+              - Nội Dung: Caption: @Vu Gia Huy, mở app Zalo và quét mã QR này để đăng nhập!
+Link: https://f64-zpg-r.zdn.vn/7345914000803777304/f1b684ae4ecbc19598da.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Súc Vật Bảo Đubai Ông Bà Già Thất Học | Sender ID: 2419237100942683300
+              - Nội Dung: Sticker ID: 47943 | 12065 | 3
+
+
+💸𝙉𝙝𝙤́𝙢 𝙅𝙤𝙗 𝙊𝙣𝙡𝙞𝙣𝙚 💸🍀
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Treo Cổ Cả Nhà Nyc | Sender ID: 1223426151699592652
+              - Nội Dung: sợ ch
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Cúnnn | Sender ID: 8269903942103689714
+              - Nội Dung: Caption: /-li CHO THUÊ BOT QUẢN LÝ NHÓM ZALO /-li
+
+🌟 Tính năng nổi bật
+✅ Sử dụng tài khoản Zalo bạn cung cấp để thiết lập bot 
+✅ Quản lý thành viên: auto chào mừng, lọc từ cấm, chống spam hiệu quả
+✅ Giải trí cực vui: nhiều mini game, auto trả lời, tăng tương tác nhóm
+✅ Tự động gửi thông báo, rải link tiện lợi
+
+🎯 Lợi ích khi sử dụng bot
+🚀 Tiết kiệm tối đa thời gian quản lý nhóm
+👥 Tăng tương tác, gắn kết & giữ chân thành viên
+🔒 Bảo vệ nhóm sạch sẽ, chuyên nghiệp, không lo spam
+
+💰 Chỉ từ 60k/tháng → có ngay trợ lý quản trị Zalo siêu hiệu quả!
+
+📩 Nhắn tin ngay để được tư vấn & kích hoạt trong vài phút!
+Link: https://fg42.dlfl.vn/622973cbe08340dd1992/777437353369346182
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Cúnnn | Sender ID: 8269903942103689714
+              - Nội Dung: Caption: Nhữ Hà Phươngツ
+Link: www.zaloapp.com
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Test | Group ID: 3781582778561073484
+              - Người Gửi: Hwyn - Devbot | Sender ID: 277790262806513388
+              - Nội Dung: prefix
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Test | Group ID: 3781582778561073484
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: /mybot active 1 -1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Test | Group ID: 3781582778561073484
+              - Người Gửi: Hwyn - Devbot | Sender ID: 277790262806513388
+              - Nội Dung: prefix
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Test | Group ID: 3781582778561073484
+              - Người Gửi: Hwyn - Devbot | Sender ID: 277790262806513388
+              - Nội Dung: Prefix hiện tại của bot là: !
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Test | Group ID: 3781582778561073484
+              - Người Gửi: Hwyn - Devbot | Sender ID: 277790262806513388
+              - Nội Dung: !help
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Gái Đẹp Có Thù Với Toán | Sender ID: 4498209718736784730
+              - Nội Dung: Sợ rùi
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Gái Đẹp Có Thù Với Toán | Sender ID: 4498209718736784730
+              - Nội Dung: Sticker ID: 46216 | 11955 | 3
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Test | Group ID: 3781582778561073484
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: /mybot list
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Test | Group ID: 3781582778561073484
+              - Người Gửi: Hwyn - Devbot | Sender ID: 277790262806513388
+              - Nội Dung: Caption: 🌟 @Hwyn - Devbot - Danh sách lệnh của tôi 🌟
+Link: https://f67-zpg-r.zdn.vn/5122129277319122682/e8b434b6ffd3708d29c2.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Test | Group ID: 3781582778561073484
+              - Người Gửi: Vu Gia Phú | Sender ID: 330277997103500963
+              - Nội Dung: Caption: 
+Link: https://f62-zpg-r.zdn.vn/8577622341513264057/835ca82e634bec15b55a.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Nhật | Sender ID: 2170561159691460137
+              - Nội Dung: @Bùi Xuân Nghĩa build sao nhỉ
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Bùi Xuân Nghĩa | Sender ID: 2475082481356514415
+              - Nội Dung: Caption: 
+Link: https://f113-zvc.dlmd.me/gr/56b9125968e985b7dcf8/1387434541305223057
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Ben | Sender ID: 514796084697988114
+              - Nội Dung: Bán bot zalo-dqt-v2.0.3 5m tặng kèm vps 4-5 1 năm và 4ac zalo ai mua ib
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Súc Vật Bảo Đubai Ông Bà Già Thất Học | Sender ID: 2419237100942683300
+              - Nội Dung: @Nhật bấm đc ra đc là xong
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Nhật | Sender ID: 2170561159691460137
+              - Nội Dung: Xin tool mã hoá
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Dịch Vụ Nro [box Mua Bán] | Group ID: 6596238495879859900
+              - Người Gửi: Tuan Binh | Sender ID: 6475394091507276779
+              - Nội Dung: Mod nro 200/3 (int or long).
+Testflight 500/1 tháng, 1m3/3 tháng.
+Gãy là up lại không lom dom.
+Up lại giá tiểu học.
+Inb để nhận ưu đãi nhé anh em.
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Tuan Binh | Sender ID: 6475394091507276779
+              - Nội Dung: Mod nro 200/3 (int or long).
+Testflight 500/1 tháng, 1m3/3 tháng.
+Gãy là up lại không lom dom.
+Up lại giá tiểu học.
+Inb để nhận ưu đãi nhé anh em.
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Features Not Bugs | Group ID: 184621631392731833
+              - Người Gửi: Tuan Binh | Sender ID: 6475394091507276779
+              - Nội Dung: Mod nro 200/3 (int or long).
+Testflight 500/1 tháng, 1m3/3 tháng.
+Gãy là up lại không lom dom.
+Up lại giá tiểu học.
+Inb để nhận ưu đãi nhé anh em.
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Nhật | Sender ID: 2170561159691460137
+              - Nội Dung: Thằng bule nó pr mạnh thế nhỉ
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Nhật | Sender ID: 2170561159691460137
+              - Nội Dung: Moẹ . 5 ngày 2k men
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Nhật | Sender ID: 2170561159691460137
+              - Nội Dung: Buff hay men thật nhỉ
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Súc Vật Bảo Đubai Ông Bà Già Thất Học | Sender ID: 2419237100942683300
+              - Nội Dung: Sticker ID: 47944 | 12065 | 3
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Ahwuocdz | Sender ID: 6240779370205221549
+              - Nội Dung: @Nhật acc
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Bùi Xuân Nghĩa | Sender ID: 2475082481356514415
+              - Nội Dung: @Nhật netbean ấn F11
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Súc Vật Bảo Đubai Ông Bà Già Thất Học | Sender ID: 2419237100942683300
+              - Nội Dung: @Ngọc Rồng Blue
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Súc Vật Bảo Đubai Ông Bà Già Thất Học | Sender ID: 2419237100942683300
+              - Nội Dung: Hỏi
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Ngọc Rồng Blue | Sender ID: 8146898591298429241
+              - Nội Dung: gì
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Ngọc Rồng Blue | Sender ID: 8146898591298429241
+              - Nội Dung: @Nhật mới 120 củ ads chưa tính live
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Nhật | Sender ID: 2170561159691460137
+              - Nội Dung: @Bùi Xuân Nghĩa ngon
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Nhật | Sender ID: 2170561159691460137
+              - Nội Dung: @Ngọc Rồng Blue ôi đúng giàu mà .
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Súc Vật Bảo Đubai Ông Bà Già Thất Học | Sender ID: 2419237100942683300
+              - Nội Dung: @Ngọc Rồng Blue giau qua
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Súc Vật Bảo Đubai Ông Bà Già Thất Học | Sender ID: 2419237100942683300
+              - Nội Dung: Có sập k a
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Ngọc Rồng Blue | Sender ID: 8146898591298429241
+              - Nội Dung: có nha
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Súc Vật Bảo Đubai Ông Bà Già Thất Học | Sender ID: 2419237100942683300
+              - Nội Dung: Sin của gầy
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Súc Vật Bảo Đubai Ông Bà Già Thất Học | Sender ID: 2419237100942683300
+              - Nội Dung: Sập mẹ r
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Nhật | Sender ID: 2170561159691460137
+              - Nội Dung: @Pham Hoang Anh sập là điều chắc chắn
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Súc Vật Bảo Đubai Ông Bà Già Thất Học | Sender ID: 2419237100942683300
+              - Nội Dung: Sticker ID: 47943 | 12065 | 3
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Nhật | Sender ID: 2170561159691460137
+              - Nội Dung: Sớm hay muộn
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Jake Emma | Sender ID: 3265619385140519783
+              - Nội Dung: @Ngọc Rồng Blue au au au
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Jake Emma | Sender ID: 3265619385140519783
+              - Nội Dung: 120 cu
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Súc Vật Bảo Đubai Ông Bà Già Thất Học | Sender ID: 2419237100942683300
+              - Nội Dung: Thì ra gầy src cũng k ngon lắm
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Súc Vật Bảo Đubai Ông Bà Già Thất Học | Sender ID: 2419237100942683300
+              - Nội Dung: Sticker ID: 47958 | 12065 | 3
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Súc Vật Bảo Đubai Ông Bà Già Thất Học | Sender ID: 2419237100942683300
+              - Nội Dung: Ước đc cho về nghịch
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Súc Vật Bảo Đubai Ông Bà Già Thất Học | Sender ID: 2419237100942683300
+              - Nội Dung: Sticker ID: 47943 | 12065 | 3
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Rt Quagn | Sender ID: 3635206824245337924
+              - Nội Dung: Caption: 
+Link: https://photo-stal-17.zdn.vn/gr/jpg/6c9489819f4d56130f5c/1655885053975087828.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Súc Vật Bảo Đubai Ông Bà Già Thất Học | Sender ID: 2419237100942683300
+              - Nội Dung: Caption: 
+Link: https://photo-stal-5.zdn.vn/gr/jpg/2a854baac86801365879/3138928024168185079.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Súc Vật Bảo Đubai Ông Bà Già Thất Học | Sender ID: 2419237100942683300
+              - Nội Dung: Ok tí a sáng qua
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Nguyễn Tấn Bình | Sender ID: 2256864219614286183
+              - Nội Dung: mua src về nghiện
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Nguyễn Quang Vương | Sender ID: 556471260165333134
+              - Nội Dung: @Ngọc Rồng Blue Kết SRC của bác quá
+chơi mà nghiện
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Khánh Linh | Sender ID: 6513385673878298962
+              - Nội Dung: Caption: 
+Link: https://photo-stal-12.zdn.vn/gr/jpg/05f1aea8be64773a2e75/2591354548140598093.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Dũng | Sender ID: 133558212669998316
+              - Nội Dung: @Ngọc Rồng Blue a trường vạn tuế
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Ngọc Rồng Blue | Sender ID: 8146898591298429241
+              - Nội Dung: @Nguyễn Quang Vương chơi game vv
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Nhật | Sender ID: 2170561159691460137
+              - Nội Dung: @Ngọc Rồng Blue 120 củ đổi lại 2-3 năm trước chắc phải mạnh ngang hsnr
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Emti | Sender ID: 8412170377720239496
+              - Nội Dung: ae mua vps ở đâu
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Emti | Sender ID: 8412170377720239496
+              - Nội Dung: tôi ké phát
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Mai Hoàng Phúc | Sender ID: 5582252657039665742
+              - Nội Dung: 🌐 SubLikeFast.com
+🔸 1.000 follow FB 3.5k
+🔸 1k Tim TikTok- 200₫
+🔸1tr View TikTok - 27k
+🔸 1.000 Follow TikTok việt - 17k vnđ 
+🔸 1k cảm xúc bài viết FB - 2k vnđ 
+🔸 100 bình luận FB việt - 6k vnđ 
+⚡Box ZALO 2000 thành viên chỉ 15k
+💬 Inbox hoặc Zalo để được hỗ trợ tức thì!👉Nhóm zalo: https://zalo.me/g/qsuvue970
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Cúnnn | Sender ID: 8269903942103689714
+              - Nội Dung: ⚠️ Cảnh cáo @Mai Hoàng Phúc!
+Ở đây không được phép gửi link này!
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Nguyễn Quang Vương | Sender ID: 556471260165333134
+              - Nội Dung: @Ngọc Rồng Blue Bác cho ít đồ dã bọn kìa thì phê biết bao
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Mai Hoàng Phúc | Sender ID: 5582252657039665742
+              - Nội Dung: 🌐 SubLikeFast.com
+🔸 1.000 follow FB 3.5k
+🔸 1k Tim TikTok- 200₫
+🔸1tr View TikTok - 27k
+🔸 1.000 Follow TikTok việt - 17k vnđ 
+🔸 1k cảm xúc bài viết FB - 2k vnđ 
+🔸 100 bình luận FB việt - 6k vnđ 
+⚡Box ZALO 2000 thành viên chỉ 15k
+💬 Inbox hoặc Zalo để được hỗ trợ tức thì!👉Nhóm zalo: https://zalo.me/g/qsuvue970
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Zynai - Devbot | Sender ID: 5082221962081738417
+              - Nội Dung: ⚠️ Cảnh cáo @Mai Hoàng Phúc!
+Ở đây không được phép gửi link này!
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Mai Hoàng Phúc | Sender ID: 5582252657039665742
+              - Nội Dung: 🌐 SubLikeFast .com
+🔸 1.000 follow FB 3.4k 
+🔸 1k Tim TikTok- 200₫
+🔸1tr View TikTok - 27k
+🔸 1.000 Follow TikTok việt - 17k vnđ
+🔸 1k cảm xúc bài viết FB - 2k vnđ 
+🔸 100 bình luận FB việt - 6k vnđ 
+⚡Box ZALO 2000 thành viên chỉ 15k
+💬 Inbox hoặc Zalo để được hỗ trợ tức thì!
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Đức Tài | Sender ID: 4560693685907106428
+              - Nội Dung: Oc:)
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Cúnnn | Sender ID: 8269903942103689714
+              - Nội Dung: @Đức Tài -> Tin nhắn bị xóa vì chứa từ ngữ bị cấm: "oc"
+Cảnh cáo lần 1/3
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Nhật | Sender ID: 2170561159691460137
+              - Nội Dung: @Emti hỏi blue
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Ben | Sender ID: 514796084697988114
+              - Nội Dung: @Mai Hoàng Phúc !cút
+
+
+Bot Team 🇻🇳
+Type Sự Kiện: REMOVE_MEMBER - Số Lượng Member Trong Sự Kiện: 1
+
+
+Bot Team 🇻🇳
+Type Sự Kiện: BLOCK_MEMBER - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Zynai - Devbot | Sender ID: 5082221962081738417
+              - Nội Dung: Caption: 
+Link: https://f62-zpg-r.zdn.vn/1554259128538872444/1ec49a535736d8688127.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Duyanhh | Sender ID: 7186056921266914956
+              - Nội Dung: Bên em có cung cấp nhóm zalo 2000tv chưa duyệt để mn có thể
+
+• Tạo dựng cộng đồng mua bán
+
+• Tạo sự uy tín 
+
+• Hỗ trợ việc bán hàng thuận tiện
+👉 Giá Chỉ Tô Phở
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Duyanhh | Sender ID: 7186056921266914956
+              - Nội Dung: Bên em có cung cấp nhóm zalo 2000tv chưa duyệt để mn có thể
+
+• Tạo dựng cộng đồng mua bán
+
+• Tạo sự uy tín 
+
+• Hỗ trợ việc bán hàng thuận tiện
+👉 Giá Chỉ Tô Phở
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Nhi Cute | Sender ID: 6248249378353725312
+              - Nội Dung: ⚠️ Duyanhh - Tin nhắn bị xóa vì chứa từ cấm: "2000tv"
+📊 Cảnh cáo lần 1/3
+
+⏱️ Tin nhắn này sẽ tự động xóa sau 60 giây...
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Thuong | Sender ID: 815128878850644857
+              - Nội Dung: @Ngọc Rồng Blue đi vui vẻ ko em
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Nhữ Hà Phươngツ | Sender ID: 5899779760053972694
+              - Nội Dung: Prefix hiện tại của bot là: >
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Trịnh Khánh Ngọc | Sender ID: 4974435358875456062
+              - Nội Dung: Prefix hiện tại của bot là: -
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Nhữ Hà Phươngツ | Sender ID: 5899779760053972694
+              - Nội Dung: prefix
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Mixseelove | Sender ID: 1393147992589670755
+              - Nội Dung: Prefix hiện tại của bot là: |
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Đức Tài | Sender ID: 4560693685907106428
+              - Nội Dung: Prefix hiện tại của bot là: /
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Thành Lộc | Sender ID: 7189580650799659760
+              - Nội Dung: Prefix hiện tại của bot là: \
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Inf Yeild | Sender ID: 3717818932736783534
+              - Nội Dung: Prefix hiện tại của bot là: ~
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Nguyễn Hoàng | Sender ID: 4742195608677536249
+              - Nội Dung: Prefix hiện tại của bot là: !@
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Cúnnn | Sender ID: 8269903942103689714
+              - Nội Dung: Prefix hiện tại của bot là: !
+
+
+QEEN LOVE
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Nhi Cute | Sender ID: 6248249378353725312
+              - Nội Dung: Caption: 🎉 Chào mừng @Thiên Hoà đến với QEEN LOVE!
+✨ Bạn là thành viên thứ 505 của nhóm (tổng 505 thành viên).
+👤 Thêm bởi: @Thiên Hoà
+Link: https://f60-zpg-r.zdn.vn/1091249938750019998/e4d1e33c2159ae07f748.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Tài | Sender ID: 7032797906281244591
+              - Nội Dung: Lọ đi
+
+
+QEEN LOVE
+Type Sự Kiện: LEAVE - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Nhi Cute | Sender ID: 6248249378353725312
+              - Nội Dung: Caption: 😢 Thiên Hoà đã rời khỏi nhóm.
+👥 Còn lại 504 thành viên.
+💔 Chúc bạn mọi điều tốt lành!
+Link: https://f60-zpg-r.zdn.vn/7350370948936554751/8b5ebeff7c9af3c4aa8b.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Nhữ Hà Phươngツ | Sender ID: 5899779760053972694
+              - Nội Dung: Mỗi đứa 1 kiểu
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Nhữ Hà Phươngツ | Sender ID: 5899779760053972694
+              - Nội Dung: Caption: 
+Link: https://f36-zfcloud.zdn.vn/141f3727ac690c375578/4657037472793079873?StickerCreatedBy=NgoQuangDuan_Bot.webp
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Tamhoangdz | Sender ID: 8755158043458086582
+              - Nội Dung: Naruto
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Tamhoangdz | Sender ID: 8755158043458086582
+              - Nội Dung: Caption: 
+Link: https://fg42.dlfl.vn/83daf608c343631d3a52/9169908268094376158/31ae99d5-658e-41b6-a137-84028c819c7a_a_sin.webp
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Ben | Sender ID: 514796084697988114
+              - Nội Dung: Caption: 
+Link: https://f37-zfcloud.zdn.vn/3fdeb975f83b5865012a/380185718639868785?createby=HaHuyHoang_Bot.webp
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Tài | Sender ID: 7032797906281244591
+              - Nội Dung: Nhận build mod 10k 1 bản
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Tài | Sender ID: 7032797906281244591
+              - Nội Dung: Ib
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Hoang Van Huy | Sender ID: 3858280120094581181
+              - Nội Dung: !game
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Hoang Van Huy | Sender ID: 3858280120094581181
+              - Nội Dung: !game
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Hoang Van Huy | Sender ID: 3858280120094581181
+              - Nội Dung: !game
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Hoang Van Huy | Sender ID: 3858280120094581181
+              - Nội Dung: !game
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Nhữ Hà Phươngツ | Sender ID: 5899779760053972694
+              - Nội Dung: @Ben hình như do cái send của m
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Nhữ Hà Phươngツ | Sender ID: 5899779760053972694
+              - Nội Dung: Caption: 
+Link: https://f36-zfcloud.zdn.vn/141f3727ac690c375578/4657037472793079873?StickerCreatedBy=NgoQuangDuan_Bot.webp
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Tài | Sender ID: 7032797906281244591
+              - Nội Dung: Caption: Yukki
+Link: https://zalo.me
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Hwyn - Devbot | Sender ID: 277790262806513388
+              - Nội Dung: A la trum
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Nhữ Hà Phươngツ | Sender ID: 5899779760053972694
+              - Nội Dung: Cái bot free m share ấy
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Hiếu Nghĩa Dz | Sender ID: 4595875432317528049
+              - Nội Dung: Vào Nhóm Shop Lẹ Ae Ơi Đang Có Event 5 Card Garena 10k Với Tặng Acc Blox Fruit 7 V4 Ful Gear, Acc Free fire Vip 4, Acc Liên Quân SSS Cho Tất Cả Ae.
+1- ✅ https://zalo.me/g/cncgho647
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Nhi Cute | Sender ID: 6248249378353725312
+              - Nội Dung: ⚠️ Cảnh cáo lần 1 cho @Hiếu Nghĩa Dz!
+
+🔗 Không được gửi link trong nhóm này!
+🔢 Còn 5 cảnh cáo nữa sẽ bị kick!
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Tamhoangdz | Sender ID: 8755158043458086582
+              - Nội Dung: A la trum hot rac
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Mai Hoàng Phúc | Sender ID: 5582252657039665742
+              - Nội Dung: 🌐 SubLikeFast .com
+🔸 1.000 follow FB 3.4k 
+🔸 1k Tim TikTok- 200₫
+🔸1tr View TikTok - 27k
+🔸 1.000 Follow TikTok việt - 17k vnđ
+🔸 1k cảm xúc bài viết FB - 2k vnđ 
+🔸 100 bình luận FB việt - 6k vnđ 
+⚡Box ZALO 2000 thành viên chỉ 15k
+💬 Inbox hoặc Zalo để được hỗ trợ tức thì!
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Zynai - Devbot | Sender ID: 5082221962081738417
+              - Nội Dung: Caption: 🤔 CẦN SUY NGHĨ
+
+👤 @-nguyễn Duy Khang
+💞
+👤 @Ha Huy Hoang
+💕 Tỉ lệ hợp đôi: 32%
+Link: https://hahuyhoang.io.vn/images/ebdf400fe448c19916ed5105bc9f8305a71982472ec986917b60dc236764c746.png
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Ben | Sender ID: 514796084697988114
+              - Nội Dung: !bithuat !game|11|1| @-nguyễn Duy Khang
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Zynai - Devbot | Sender ID: 5082221962081738417
+              - Nội Dung: !game
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Zynai - Devbot | Sender ID: 5082221962081738417
+              - Nội Dung: !game
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Zynai - Devbot | Sender ID: 5082221962081738417
+              - Nội Dung: !game
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Zynai - Devbot | Sender ID: 5082221962081738417
+              - Nội Dung: !game
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Zynai - Devbot | Sender ID: 5082221962081738417
+              - Nội Dung: !game
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Zynai - Devbot | Sender ID: 5082221962081738417
+              - Nội Dung: !game
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Zynai - Devbot | Sender ID: 5082221962081738417
+              - Nội Dung: !game
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Zynai - Devbot | Sender ID: 5082221962081738417
+              - Nội Dung: !game
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Zynai - Devbot | Sender ID: 5082221962081738417
+              - Nội Dung: !game
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Zynai - Devbot | Sender ID: 5082221962081738417
+              - Nội Dung: !game
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Zynai - Devbot | Sender ID: 5082221962081738417
+              - Nội Dung: !game
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Hoang Van Huy | Sender ID: 3858280120094581181
+              - Nội Dung: !cmd find
+
+
+💫SubLikeFast.com💫- Kênh thông báo
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 3
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Zynai - Devbot | Sender ID: 5082221962081738417
+              - Nội Dung: ⚠️ Vui lòng nhập từ khóa để tìm kiếm!
+Ví dụ: !cmd find thời tiết
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Tamhoangdz | Sender ID: 8755158043458086582
+              - Nội Dung: !
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Tamhoangdz | Sender ID: 8755158043458086582
+              - Nội Dung: !
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Tamhoangdz | Sender ID: 8755158043458086582
+              - Nội Dung: !
+
+
+Giao Lưu Bot & Chia Sẻ Source
+Type Sự Kiện: BLOCK_MEMBER - Số Lượng Member Trong Sự Kiện: 1
+
+
+Giao Lưu Bot & Chia Sẻ Source
+Type Sự Kiện: REMOVE_MEMBER - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Chàng Trai Bất Tử メ | Sender ID: 3748917243433807152
+              - Nội Dung: Caption: 
+Link: https://f63-zpg-r.zdn.vn/8569970459029650184/c69bcbf6089387cdde82.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Tamhoangdz | Sender ID: 8755158043458086582
+              - Nội Dung: !vdsexy
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: -nguyễn Duy Khang | Sender ID: 3994374840950916696
+              - Nội Dung: !bithuat
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Cúnnn | Sender ID: 8269903942103689714
+              - Nội Dung: @Chàng Trai Bất Tử メ -> Tin nhắn bị xóa vì chứa từ ngữ bị cấm: "oc"
+Cảnh cáo lần 1/3
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Cúnnn | Sender ID: 8269903942103689714
+              - Nội Dung: Caption: 
+Link: https://f60-zpg-r.zdn.vn/4651140155353239409/8524620da1682e367779.jpg
+
+
+💫SubLikeFast.com💫- Kênh thông báo
+Type Sự Kiện: LEAVE - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Qthựcツ | Sender ID: 600504143227781731
+              - Nội Dung: https://vt.tiktok.com/ZSHwdrkTBQPRa-IgZyw/
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: -nguyễn Duy Khang | Sender ID: 3994374840950916696
+              - Nội Dung: @cmd bithuat
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: -nguyễn Duy Khang | Sender ID: 3994374840950916696
+              - Nội Dung: !cmd bithuat
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Zynai - Devbot | Sender ID: 5082221962081738417
+              - Nội Dung: Caption: [ Tamhoangdz ] ( Sexy )
+Link: https://fg41.dlfl.vn/b4601432c57b65253c6a/2467156512060428850
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Qthựcツ | Sender ID: 600504143227781731
+              - Nội Dung: Caption: https://vt.tiktok.com/ZSHwdrkTBQPRa-IgZyw/
+Link: https://apps.apple.com/my/app/tiktok-global-video-community/id1235601864
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Zynai - Devbot | Sender ID: 5082221962081738417
+              - Nội Dung: ⚠️ Cảnh cáo @Qthựcツ!
+Ở đây không được phép gửi link này!
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Qthựcツ | Sender ID: 600504143227781731
+              - Nội Dung: https://vt.tiktok.com/ZSHwdrkTBQPRa-IgZyw/
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Tamhoangdz | Sender ID: 8755158043458086582
+              - Nội Dung: https://vt.tiktok.com/ZSHwdrkTBQPRa-IgZyw/
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Tamhoangdz | Sender ID: 8755158043458086582
+              - Nội Dung: Caption: 
+Link: https://fg63.dlfl.vn/09bb44a026eb86b5dffa/3205494982345102146/5155f789-c328-48a6-a1f0-d69ae8bd474c_a_sin.webp
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Nhữ Hà Phươngツ | Sender ID: 5899779760053972694
+              - Nội Dung: Caption: https://vt.tiktok.com/ZSHwdrkTBQPRa-IgZyw/
+Link: https://apps.apple.com/my/app/tiktok-global-video-community/id1235601864
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Nhữ Hà Phươngツ | Sender ID: 5899779760053972694
+              - Nội Dung: Mẹ
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Nhữ Hà Phươngツ | Sender ID: 5899779760053972694
+              - Nội Dung: Cái link appstore
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Nhữ Hà Phươngツ | Sender ID: 5899779760053972694
+              - Nội Dung: Rác
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Nguyễn Trường Sơn | Sender ID: 8186301227189417389
+              - Nội Dung: Caption: 
+Link: https://fg63.dlfl.vn/09bb44a026eb86b5dffa/3205494982345102146/5155f789-c328-48a6-a1f0-d69ae8bd474c_a_sin.webp
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Tamhoangdz | Sender ID: 8755158043458086582
+              - Nội Dung: Naruto
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Tamhoangdz | Sender ID: 8755158043458086582
+              - Nội Dung: https://vt.tiktok.com/ZSfErF9tJ/
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Nguyễn Trường Sơn | Sender ID: 8186301227189417389
+              - Nội Dung: !vd sex
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Nguyễn Trường Sơn | Sender ID: 8186301227189417389
+              - Nội Dung: !
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Nguyễn Trường Sơn | Sender ID: 8186301227189417389
+              - Nội Dung: Caption: 
+Link: https://fg63.dlfl.vn/09bb44a026eb86b5dffa/3205494982345102146/5155f789-c328-48a6-a1f0-d69ae8bd474c_a_sin.webp
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Tamhoangdz | Sender ID: 8755158043458086582
+              - Nội Dung: ,dl https://vt.tiktok.com/ZSfErF9tJ/
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Tamhoangdz | Sender ID: 8755158043458086582
+              - Nội Dung: !
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Tamhoangdz | Sender ID: 8755158043458086582
+              - Nội Dung: prefix
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Nguyễn Trường Sơn | Sender ID: 8186301227189417389
+              - Nội Dung: bot tịt
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Nguyễn Trường Sơn | Sender ID: 8186301227189417389
+              - Nội Dung: Caption: 
+Link: https://fg63.dlfl.vn/09bb44a026eb86b5dffa/3205494982345102146/5155f789-c328-48a6-a1f0-d69ae8bd474c_a_sin.webp
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Nguyễn Trường Sơn | Sender ID: 8186301227189417389
+              - Nội Dung: !
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Nguyễn Trường Sơn | Sender ID: 8186301227189417389
+              - Nội Dung: !vd sex
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Đức Tài | Sender ID: 4560693685907106428
+              - Nội Dung: @Nhữ Hà Phươngツ =]
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Nguyễn Trường Sơn | Sender ID: 8186301227189417389
+              - Nội Dung: !vdmup
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Nguyễn Trường Sơn | Sender ID: 8186301227189417389
+              - Nội Dung: Caption: 
+Link: https://fg63.dlfl.vn/09bb44a026eb86b5dffa/3205494982345102146/5155f789-c328-48a6-a1f0-d69ae8bd474c_a_sin.webp
+
+
+QEEN LOVE
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Văn | Sender ID: 1936674112038184406
+              - Nội Dung: Caption: 
+Link: https://photo-stal-8.zdn.vn/gr/5a7544fa92b764e93da6/2382759399435901364.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Cúnnn | Sender ID: 8269903942103689714
+              - Nội Dung: Caption: [ Nguyễn Trường Sơn ] ( Múp )
+Link: https://files.catbox.moe/t8cvok.mp4
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Nhi Cute | Sender ID: 6248249378353725312
+              - Nội Dung: Caption: 🎉 Chào mừng @Count - Devbot đến với QEEN LOVE!
+✨ Bạn là thành viên thứ 505 của nhóm (tổng 505 thành viên).
+👤 Thêm bởi: @Count - Devbot
+Link: https://f60-zpg-r.zdn.vn/6583287648580509947/9977f9f83f9db0c3e98c.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Nguyễn Trường Sơn | Sender ID: 8186301227189417389
+              - Nội Dung: !vdkorea
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Tamhoangdz | Sender ID: 8755158043458086582
+              - Nội Dung: https://vt.tiktok.com/ZSfErF9tJ/
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Tamhoangdz | Sender ID: 8755158043458086582
+              - Nội Dung: !dl https://vt.tiktok.com/ZSfErF9tJ/
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Cúnnn | Sender ID: 8269903942103689714
+              - Nội Dung: Caption: [ Nguyễn Trường Sơn ] ( Korea )
+Link: https://files.catbox.moe/amb39h.mp4
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Count - Devbot | Sender ID: 508181825593365819
+              - Nội Dung: >leave
+
+
+QEEN LOVE
+Type Sự Kiện: LEAVE - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Nhi Cute | Sender ID: 6248249378353725312
+              - Nội Dung: Caption: 😢 Count - Devbot đã rời khỏi nhóm.
+👥 Còn lại 504 thành viên.
+💔 Chúc bạn mọi điều tốt lành!
+Link: https://f65-zpg-r.zdn.vn/4218842847270923815/b8c747a481c10e9f57d0.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Nguyễn Trường Sơn | Sender ID: 8186301227189417389
+              - Nội Dung: !pexelsvideo
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Tamhoangdz | Sender ID: 8755158043458086582
+              - Nội Dung: !
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Tamhoangdz | Sender ID: 8755158043458086582
+              - Nội Dung: https://vt.tiktok.com/ZSfErF9tJ/
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Tamhoangdz | Sender ID: 8755158043458086582
+              - Nội Dung: Naru
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Cúnnn | Sender ID: 8269903942103689714
+              - Nội Dung: Caption: [ From TikTok ]
+[ Tamhoangdz ]
+Author: [ Zeldest ]
+Username: [ _lerryner ]
+Description: 『 笑容背後 是不為人知的堅強 』 — Sau nụ cười là sự kiên cường  chẳng mấy ai thấu hiểu — #anime #zeldest_ #snowiegrp #aszsqd #zmksqd 
+📊 Chất lượng: 540p
+
+Link: https://fg40.dlfl.vn/23d3152d1566b538ec77/4978582312816583266
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Trung Thu Thập Cẩm | Sender ID: 4926705624374985833
+              - Nội Dung: Caption: /-li CHO THUÊ BOT QUẢN LÝ NHÓM ZALO /-li
+
+🌟 Tính năng nổi bật
+✅ Sử dụng tài khoản Zalo bạn cung cấp để thiết lập bot 
+✅ Quản lý thành viên: auto chào mừng, lọc từ cấm, chống spam hiệu quả
+✅ Tự động gửi thông báo, rải link tiện lợi
+
+🎯 Lợi ích khi sử dụng bot
+🚀 Tiết kiệm tối đa thời gian quản lý nhóm
+👥 Tăng tương tác, gắn kết & giữ chân thành viên
+🔒 Bảo vệ nhóm sạch sẽ, chuyên nghiệp, không lo spam
+
+Link Box: https://zalo.me/g/qqhvik434
+
+💰 Chỉ từ 70k/tháng → có ngay trợ lý quản trị Zalo siêu hiệu quả!
+
+📩 Nhắn tin ngay để được tư vấn & kích hoạt trong vài phút!
+Link: https://zalo.me/g/qqhvik434
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Trung Thu Thập Cẩm | Sender ID: 4926705624374985833
+              - Nội Dung: Caption: Ben
+Link: www.zaloapp.com
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Zynai - Devbot | Sender ID: 5082221962081738417
+              - Nội Dung: Caption: [ Tamhoangdz ]
+Author: [_lerryner] Zeldest
+Description: 『 笑容背後 是不為人知的堅強 』 — Sau nụ cười là sự kiên cường  chẳng mấy ai thấu hiểu — #anime #zeldest_ #snowiegrp #aszsqd #zmksqd 
+📊 Chất lượng: 540p
+💗 Thả tim để nhận nội dung ngẫu nhiên khác từ author này
+Link: https://fg42.dlfl.vn/56776ebb6ef0ceae97e1/1412373685473148135
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Nguyễn Trường Sơn | Sender ID: 8186301227189417389
+              - Nội Dung: !vdmup
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Rùa | Sender ID: 8349555776621212649
+              - Nội Dung: Caption: Nhận rip prf - locked - cn - tiktik - page - tiktok  . KBH và có BH zin time tốc độ!
+/-li  Cần sll ae hợp tác gửi kèo cân sll
+🔥 Zalo : 0388 253 012
+Link: https://f61-zpg-r.zdn.vn/7174241942847818996/01269351df1c5042090d.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Nguyễn Trường Sơn | Sender ID: 8186301227189417389
+              - Nội Dung: !girl
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Cúnnn | Sender ID: 8269903942103689714
+              - Nội Dung: Caption: [ Nguyễn Trường Sơn ] ( Múp )
+Link: https://files.catbox.moe/rgoo5i.mp4
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Tamhoangdz | Sender ID: 8755158043458086582
+              - Nội Dung: https://vt.tiktok.com/ZSfErdP1T/
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Nguyễn Trường Sơn | Sender ID: 8186301227189417389
+              - Nội Dung: !girllon
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Ben | Sender ID: 514796084697988114
+              - Nội Dung: @Vu Gia Huy m đéo stk lấy tiền à
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Nguyễn Trường Sơn | Sender ID: 8186301227189417389
+              - Nội Dung: Caption: 
+Link: https://fg63.dlfl.vn/09bb44a026eb86b5dffa/3205494982345102146/5155f789-c328-48a6-a1f0-d69ae8bd474c_a_sin.webp
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Ben | Sender ID: 514796084697988114
+              - Nội Dung: tao xin
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Zynai - Devbot | Sender ID: 5082221962081738417
+              - Nội Dung: Caption: [ Tamhoangdz ]
+Author: [sahara_783] sahara
+Description: “我手中的花,就算天塌下来,地塌下来,我心里的人, "Hoa cầm trên tay, vẫn là hoa của đất. Người trong lòng, dù có long trời lở đất vẫn thương."#anime #tiktok #xh #obito #viral 
+📊 Chất lượng: 540p
+💗 Thả tim để nhận nội dung ngẫu nhiên khác từ author này
+Link: https://fg62.dlfl.vn/879edb4fdb047b5a2215/59580051179659683
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Ngọc Rồng Blue | Sender ID: 8146898591298429241
+              - Nội Dung: https://www.tiktok.com/@bluenro1/live?enter_from_merge=share&enter_method=share_copy_link
+hi
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Chi Tin | Sender ID: 5515963978232111034
+              - Nội Dung: !vdgoku
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Xaabii 钟爱一生 | Sender ID: 4373932964757131397
+              - Nội Dung: Kết Bạn Nhắn Tin Mình Lộc Mỗi Bạn 97k ( Lưu Ý Gửi Kết Bạn Trước Khi Nhắn Bạn Nào Hên Mình Sẽ Rep )
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Chi Tin | Sender ID: 5515963978232111034
+              - Nội Dung: !vdmup
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Nhi Cute | Sender ID: 6248249378353725312
+              - Nội Dung: ⚠️ Xaabii 钟爱一生 - Tin nhắn bị xóa vì chứa từ cấm: "kết bạn"
+📊 Cảnh cáo lần 1/3
+
+⏱️ Tin nhắn này sẽ tự động xóa sau 60 giây...
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Giao Lưu Bot & Chia Sẻ Source | Group ID: 6601585125399140779
+              - Người Gửi: Cúnnn | Sender ID: 8269903942103689714
+              - Nội Dung: Caption: [ Chi Tin ] ( Múp )
+Link: https://files.catbox.moe/pn8qpr.mp4
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Tamhoangdz | Sender ID: 8755158043458086582
+              - Nội Dung: Caption: 
+Link: https://fg63.dlfl.vn/09bb44a026eb86b5dffa/3205494982345102146/5155f789-c328-48a6-a1f0-d69ae8bd474c_a_sin.webp
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Dai | Sender ID: 6251897538859649781
+              - Nội Dung: rain
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Tamhoangdz | Sender ID: 8755158043458086582
+              - Nội Dung: Train
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Dai | Sender ID: 6251897538859649781
+              - Nội Dung: rain
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Văn Tám | Sender ID: 6852285049607428142
+              - Nội Dung: Caption: 
+Link: https://f37-zfcloud.zdn.vn/78db4a015f49ff17a658/4251909082113089179?createby=HaHuyHoang_Bot.webp
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Vua Ios | Sender ID: 105389240440072256
+              - Nội Dung: @Hồ Quang Tân
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: -nguyễn Duy Khang | Sender ID: 3994374840950916696
+              - Nội Dung: @Tamhoangdz ấn giữ vô la biet
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: -nguyễn Duy Khang | Sender ID: 3994374840950916696
+              - Nội Dung: Caption: 
+Link: https://f36-zfcloud.zdn.vn/aa83f07c82e423ba7af5/1611599178452024900?creator=Tahn_bot.webp
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Zynai - Devbot | Sender ID: 5082221962081738417
+              - Nội Dung: Caption: -> SendTask 19:05 <-
+Chúc các bạn một buổi tối vui vẻ bên gia đình!
+
+Thư giãn cuối ngày thôi nào!!!
+Link: https://fg43.dlfl.vn/e5b583a280e920b779f8/6869668874296334375
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Ben | Sender ID: 514796084697988114
+              - Nội Dung: @Vu Gia Huy spamjoin
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Ben | Sender ID: 514796084697988114
+              - Nội Dung: bật all dùng dc
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Rùa | Sender ID: 8349555776621212649
+              - Nội Dung: Caption: Nhận rip prf - locked - cn - tiktik - page - tiktok  . KBH và có BH zin time tốc độ!
+/-li  Cần sll ae hợp tác gửi kèo cân sll
+🔥 Zalo : 0388 253 012
+Link: https://f61-zpg-r.zdn.vn/7174241942847818996/01269351df1c5042090d.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Ben | Sender ID: 514796084697988114
+              - Nội Dung: hiểu k
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: T cho load admin r
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: Caption: 
+Link: https://f35-zfcloud.zdn.vn/d598e7166aaecbf092bf/9217258726712637920?createby=HwH_BotCreateByHwH.webp
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Tamhoangdz | Sender ID: 8755158043458086582
+              - Nội Dung: Caption: 
+Link: https://fg41.dlfl.vn/3d246e3e0c75ac2bf564/8315499366695958700/0ac56119-5bec-48b5-8da5-3da10109775d_a_sin.webp
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Tamhoangdz | Sender ID: 8755158043458086582
+              - Nội Dung: Caption: 
+Link: https://fg41.dlfl.vn/3d246e3e0c75ac2bf564/8315499366695958700/0ac56119-5bec-48b5-8da5-3da10109775d_a_sin.webp
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Ben | Sender ID: 514796084697988114
+              - Nội Dung: load = sdt ấy
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: Nó xoá thì run bot lại vẫn load
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Tamhoangdz | Sender ID: 8755158043458086582
+              - Nội Dung: 24h hết
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: Với add load luôn không cần rs
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Tamhoangdz | Sender ID: 8755158043458086582
+              - Nội Dung: 24h hết
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Muun Cuti | Sender ID: 4035178031808190409
+              - Nội Dung: @Bùi Xuân Nghĩa res htth blue plsssss
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Ben | Sender ID: 514796084697988114
+              - Nội Dung: cho load = sdt và ẩn admin
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Ben | Sender ID: 514796084697988114
+              - Nội Dung: ẩn đi
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Ben | Sender ID: 514796084697988114
+              - Nội Dung: Caption: 
+Link: https://f37-zfcloud.zdn.vn/3fdeb975f83b5865012a/380185718639868785?createby=HaHuyHoang_Bot.webp
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: để làm
+
+
+GHIỀN SHOPEE, MÃ GIẢM GIÁ, DEAL HỜI [1]
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Bùi Xuân Nghĩa | Sender ID: 2475082481356514415
+              - Nội Dung: @Muun Cuti kh có a
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Tamhoangdz | Sender ID: 8755158043458086582
+              - Nội Dung: @Ben bạn
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: Caption: back web này là được rồi nhỉ
+Link: https://f62-zpg-r.zdn.vn/jpg/1051014873631974475/bc16ff1b157e9a20c36f.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Muun Cuti | Sender ID: 4035178031808190409
+              - Nội Dung: @Bùi Xuân Nghĩa hmmmm
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: duản rác thì lms mà fix đc
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Ben | Sender ID: 514796084697988114
+              - Nội Dung: @Huy Lê thì 100874977448 viettinbank
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Ben | Sender ID: 514796084697988114
+              - Nội Dung: là chạy dc
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: prefix
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: Prefix hiện tại của bot là: -
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Phú | Sender ID: 330277997103500963
+              - Nội Dung: Prefix hiện tại của bot là: /
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Hô Thinh | Sender ID: 1211877451172486887
+              - Nội Dung: Sticker ID: 23037 | 10398 | 3
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Hwyn - Devbot | Sender ID: 277790262806513388
+              - Nội Dung: Prefix hiện tại của bot là: !
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Ben | Sender ID: 514796084697988114
+              - Nội Dung: Sticker ID: 30809 | 10961 | 7
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: /listadmin
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Văn | Sender ID: 1936674112038184406
+              - Nội Dung: Sticker ID: 18009 | 10130 | 3
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Tamhoangdz | Sender ID: 8755158043458086582
+              - Nội Dung: Tấn tối cao
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Phú | Sender ID: 330277997103500963
+              - Nội Dung: Caption: 
+Link: https://f65-zpg-r.zdn.vn/8183565166112775900/a953cf302255ad0bf444.jpg
+
+
+QEEN LOVE
+Type Sự Kiện: LEAVE - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Nhi Cute | Sender ID: 6248249378353725312
+              - Nội Dung: Caption: 😢 Phạm Phong đã rời khỏi nhóm.
+👥 Còn lại 501 thành viên.
+💔 Chúc bạn mọi điều tốt lành!
+Link: https://f63-zpg-r.zdn.vn/401203323341689278/d628987d7518fa46a309.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: 酒吧彡tng One Egg彡宝石 | Sender ID: 496771509501574610
+              - Nội Dung: Caption: 
+Link: https://photo-stal-2.zdn.vn/gr/jpg/cd75f3bd6071a92ff060/1423607596907802084.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: 酒吧彡tng One Egg彡宝石 | Sender ID: 496771509501574610
+              - Nội Dung: !stk
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: Take Care For Groups | Sender ID: 3465480315669870625
+              - Nội Dung: Caption: 
+Link: https://f38-zfcloud.zdn.vn/b25dd376d13d7163282c/2288280004185135738?createby=NDQ_Bot.webp
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: /manager
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: 酒吧彡tng One Egg彡宝石 | Sender ID: 496771509501574610
+              - Nội Dung: Caption: 
+Link: https://f67-zpg-r.zdn.vn/jpg/1642225600304265890/d6852741c5244a7a1335.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: 酒吧彡tng One Egg彡宝石 | Sender ID: 496771509501574610
+              - Nội Dung: !stk
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: Take Care For Groups | Sender ID: 3465480315669870625
+              - Nội Dung: Caption: 
+Link: https://f38-zfcloud.zdn.vn/06360e010c4aac14f55b/6391377790369434728?createby=NDQ_Bot.webp
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Pinz | Sender ID: 1922051066018163098
+              - Nội Dung: mua src 2m
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: Ô
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: 酒吧彡tng One Egg彡宝石 | Sender ID: 496771509501574610
+              - Nội Dung: Caption: 
+Link: https://photo-stal-4.zdn.vn/gr/jpg/c37b881605dacc8495cb/4139623881387373542.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: /bot
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Phú | Sender ID: 330277997103500963
+              - Nội Dung: Caption: 🌟 @Vu Gia Huy - Danh sách lệnh quản trị 🌟
+Link: https://f62-zpg-r.zdn.vn/2506137602466449866/e5e6e56c07098857d118.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: 酒吧彡tng One Egg彡宝石 | Sender ID: 496771509501574610
+              - Nội Dung: !stk
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: Take Care For Groups | Sender ID: 3465480315669870625
+              - Nội Dung: Caption: 
+Link: https://f36-zfcloud.zdn.vn/85772c442e0f8e51d71e/3362499740372680408?createby=NDQ_Bot.webp
+
+
+Bot Team 🇻🇳
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Bot Team 🇻🇳
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: /cmd find bot
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Hô Thinh | Sender ID: 1211877451172486887
+              - Nội Dung: Nhóm j vậy mn
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Ben | Sender ID: 514796084697988114
+              - Nội Dung: Sticker ID: 30809 | 10961 | 7
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: 酒吧彡tng One Egg彡宝石 | Sender ID: 496771509501574610
+              - Nội Dung: Caption: 
+Link: https://photo-stal-1.zdn.vn/gr/jpg/205a4390ce5c07025e4d/3055833308222978388.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: 酒吧彡tng One Egg彡宝石 | Sender ID: 496771509501574610
+              - Nội Dung: !stk
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: Take Care For Groups | Sender ID: 3465480315669870625
+              - Nội Dung: Caption: 
+Link: https://f38-zfcloud.zdn.vn/53a8429040dbe085b9ca/3706645709648584480?createby=NDQ_Bot.webp
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: Ẩn r
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Phú | Sender ID: 330277997103500963
+              - Nội Dung: 🔍 Kết quả tìm kiếm cho "bot":
+
+1. ⭐ Lệnh: mybot
+   📝 Mô tả: Hệ thống quản lý bot
+   💡 Cú pháp: /mybot
+   🔖 Tên gọi khác: mebot
+   🔒 Quyền hạn: Toàn Bộ Thành Viên
+   ⏱️ Countdown: 5 giây
+
+2. ⭐ Lệnh: command
+   📝 Mô tả: Hiển thị toàn bộ danh sách lệnh bot và chi tiết các lệnh cụ thể
+   💡 Cú pháp: /command [số trang] || {p}command admin [số trang] || {p}command (map/map admin/find <cmd>)...
+   🔖 Tên gọi khác: cmd
+   🔒 Quyền hạn: Toàn Bộ Thành Viên
+   ⏱️ Countdown: 5 giây
+
+3. ⭐ Lệnh: simsimi
+   📝 Mô tả: Trò chuyện với Bot AI (Simsimi)
+   💡 Cú pháp: /simsimi <nội dung>
+   🔖 Tên gọi khác: sim
+   🔒 Quyền hạn: Toàn Bộ Thành Viên
+   ⏱️ Countdown: 30 giây
+
+4. ⭐ Lệnh: detail
+   📝 Mô tả: Xem thông tin chi tiết về bot (phiên bản, tính năng, v.v)
+   💡 Cú pháp: /detail
+   🔖 Tên gọi khác: xtt
+   🔒 Quyền hạn: Toàn Bộ Thành Viên
+   ⏱️ Countdown: 1 giây
+
+5. ⭐ Lệnh: stickercustom
+   📝 Mô tả: Gửi sticker custom từ thư mục lưu trữ của Bot
+   💡 Cú pháp: /stickercustom <tên tệp sticker đã lưu trữ>
+   🔖 Tên gọi khác: stkc
+   🔒 Quyền hạn: Toàn Bộ Thành Viên
+   ⏱️ Countdown: 10 giây
+
+6. ⭐ Lệnh: login
+   📝 Mô tả: Đăng nhập vào tài khoản game trên hệ thống bot
+   💡 Cú pháp: /login <tên_tài_khoản> <mật_khẩu>
+   🔒 Quyền hạn: Toàn Bộ Thành Viên
+   ⏱️ Countdown: 3 giây
+
+7. ⭐ Lệnh: dangky
+   📝 Mô tả: Đăng ký tài khoản game mới trên hệ thống bot
+   💡 Cú pháp: /dangky <tên_tài_khoản> <mật_khẩu>
+   🔖 Tên gọi khác: dk
+   🔒 Quyền hạn: Toàn Bộ Thành Viên
+   ⏱️ Countdown: 3 giây
+
+8. ⭐ Lệnh: logout
+   📝 Mô tả: Đăng xuất khỏi tài khoản game hiện tại trên hệ thống bot
+   💡 Cú pháp: /logout
+   🔒 Quyền hạn: Toàn Bộ Thành Viên
+   ⏱️ Countdown: 3 giây
+
+9. ⭐ Lệnh: mycard
+   📝 Mô tả: Xem thông tin chi tiết tài khoản game của bạn trên hệ thống bot
+   💡 Cú pháp: /mycard
+   🔒 Quyền hạn: Toàn Bộ Thành Viên
+   ⏱️ Countdown: 5 giây
+
+10. ⭐ Lệnh: nap
+   📝 Mô tả: Nạp tiền vào tài khoản bot từ tài khoản đăng ký
+   💡 Cú pháp: /nap <số_tiền>
+   🔒 Quyền hạn: Toàn Bộ Thành Viên
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: Máy ngoài lag quá
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Zynai - Devbot | Sender ID: 5082221962081738417
+              - Nội Dung: Caption: 
+Link: https://f64-zpg-r.zdn.vn/7118052856659466368/9f5582fe609befc5b68a.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Trung Thu Thập Cẩm | Sender ID: 4926705624374985833
+              - Nội Dung: Caption: /-li CHO THUÊ BOT QUẢN LÝ NHÓM ZALO /-li
+
+🌟 Tính năng nổi bật
+✅ Sử dụng tài khoản Zalo bạn cung cấp để thiết lập bot 
+✅ Quản lý thành viên: auto chào mừng, lọc từ cấm, chống spam hiệu quả
+✅ Tự động gửi thông báo, rải link tiện lợi
+
+🎯 Lợi ích khi sử dụng bot
+🚀 Tiết kiệm tối đa thời gian quản lý nhóm
+👥 Tăng tương tác, gắn kết & giữ chân thành viên
+🔒 Bảo vệ nhóm sạch sẽ, chuyên nghiệp, không lo spam
+
+Link Box: https://zalo.me/g/qqhvik434
+
+💰 Chỉ từ 70k/tháng → có ngay trợ lý quản trị Zalo siêu hiệu quả!
+
+📩 Nhắn tin ngay để được tư vấn & kích hoạt trong vài phút!
+Link: https://zalo.me/g/qqhvik434
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Trung Thu Thập Cẩm | Sender ID: 4926705624374985833
+              - Nội Dung: Caption: Ben
+Link: www.zaloapp.com
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Bot Team 🇻🇳 | Group ID: 3629164530546847851
+              - Người Gửi: Zynai - Devbot | Sender ID: 5082221962081738417
+              - Nội Dung: Caption: 
+Link: https://f64-zpg-r.zdn.vn/6649417387295336607/26c5096ceb0964573d18.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Văn | Sender ID: 1936674112038184406
+              - Nội Dung: Nhóm nch vv
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Phú | Sender ID: 330277997103500963
+              - Nội Dung: ⏱️ Countdown: 3 giây
+
+11. ⭐ Lệnh: rut
+   📝 Mô tả: Rút tiền từ tài khoản bot về tài khoản game
+   💡 Cú pháp: /rut <số_tiền>
+   🔒 Quyền hạn: Toàn Bộ Thành Viên
+   ⏱️ Countdown: 3 giây
+
+12. ⭐ Lệnh: bank
+   📝 Mô tả: Chuyển tiền cho người chơi khác trên tài khoản bot
+   💡 Cú pháp: /bank <@người_nhận> <số_tiền>
+   🔒 Quyền hạn: Toàn Bộ Thành Viên
+   ⏱️ Countdown: 3 giây
+
+13. ⭐ Lệnh: sendresourcesimage
+   📝 Mô tả: Gửi image custom từ thư mục lưu trữ của Bot
+   💡 Cú pháp: /sendresourcesimage <tên tệp image đã lưu trữ>
+   🔖 Tên gọi khác: sri, sendqr, sendimage
+   🔒 Quyền hạn: Quản Trị Viên Cấp Cao
+   ⏱️ Countdown: 10 giây
+
+14. ⭐ Lệnh: sendresourcesvideo
+   📝 Mô tả: Gửi video custom từ thư mục lưu trữ của Bot
+   💡 Cú pháp: /sendresourcesvideo <tên tệp video đã lưu trữ>
+   🔖 Tên gọi khác: srv, sendvideo
+   🔒 Quyền hạn: Quản Trị Viên Cấp Cao
+   ⏱️ Countdown: 10 giây
+
+15. ⭐ Lệnh: sendresourcesfile
+   📝 Mô tả: Gửi file custom từ thư mục lưu trữ của Bot
+   💡 Cú pháp: /sendresourcesfile <tên tệp file đã lưu trữ>
+   🔖 Tên gọi khác: se, share
+   🔒 Quyền hạn: Toàn Bộ Thành Viên
+   ⏱️ Countdown: 5 giây
+
+16. ⭐ Lệnh: filegame
+   📝 Mô tả: Gửi file custom từ thư mục lưu trữ của Bot
+   💡 Cú pháp: /mod <tên tệp file đã lưu trữ>
+   🔖 Tên gọi khác: box
+   🔒 Quyền hạn: Toàn Bộ Thành Viên
+   ⏱️ Countdown: 5 giây
+
+17. ⭐ Lệnh: sendresourcesaudio
+   📝 Mô tả: Gửi audio custom từ thư mục lưu trữ của Bot
+   💡 Cú pháp: /sendresourcesaudio <tên tệp audio đã lưu trữ>
+   🔖 Tên gọi khác: sra, sendaudio
+   🔒 Quyền hạn: Quản Trị Viên Cấp Cao
+   ⏱️ Countdown: 10 giây
+
+18. ⭐ Lệnh: listadmin
+   📝 Mô tả: Xem danh sách admin bot nhóm
+   💡 Cú pháp: /listadmin
+   🔒 Quyền hạn: Quản Trị Viên Bot
+   ⏱️ Countdown: 1 giây
+
+19. ⭐ Lệnh: add
+   📝 Mô tả: Thêm người tag vào admin bot nhóm
+   💡 Cú pháp: /add <@người_tag>
+   🔒 Quyền hạn: Quản Trị Viên Cấp Cao
+   ⏱️ Countdown: 1 giây
+
+20. ⭐ Lệnh: remove
+   📝 Mô tả: Xóa người tag vào admin bot nhóm
+   💡 Cú pháp: /remove <@người_tag>
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: QEEN LOVE | Group ID: 6094919972632534691
+              - Người Gửi: Văn | Sender ID: 1936674112038184406
+              - Nội Dung: Caption: 
+Link: https://tmpfiles.org/dl/14077508/output_4695258137709817042_1764981363_6578.webp
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Phú | Sender ID: 330277997103500963
+              - Nội Dung: 🔒 Quyền hạn: Quản Trị Viên Cấp Cao
+   ⏱️ Countdown: 1 giây
+
+21. ⭐ Lệnh: setcmd
+   📝 Mô tả: Quản lý cài đặt lệnh bot (bật/tắt, phân quyền, thời gian chờ)
+   💡 Cú pháp: /setcmd [on/off/p/cd] [tên_lệnh] [đối số]
+   🔖 Tên gọi khác: cmdset
+   🔒 Quyền hạn: Quản Trị Viên Cấp Cao
+   ⏱️ Countdown: 1 giây
+
+22. ⭐ Lệnh: bot
+   📝 Mô tả: bật tương tác với bot trong nhóm hiện tại
+   💡 Cú pháp: /bot [on|off]
+   🔒 Quyền hạn: Quản Trị Viên Bot
+   ⏱️ Countdown: 1 giây
+
+23. ⭐ Lệnh: mute
+   📝 Mô tả: Mute thành viên (Yêu cầu bot quyền hạn phó cộng đồng trở lên)
+   💡 Cú pháp: /mute <@người_tag>
+   🔖 Tên gọi khác: câm
+   🔒 Quyền hạn: Quản Trị Viên Bot
+   ⏱️ Countdown: 1 giây
+
+24. ⭐ Lệnh: prefix
+   📝 Mô tả: Xem hoặc thay đổi prefix của bot
+   💡 Cú pháp: prefix <prefix_mới>
+   🔒 Quyền hạn: Quản Trị Viên Bot
+   ⏱️ Countdown: 1 giây
+
+25. ⭐ Lệnh: antibot
+   📝 Mô tả: Chống Bot
+   💡 Cú pháp: /antibot [on|off]
+   🔒 Quyền hạn: Quản Trị Viên Bot
+   ⏱️ Countdown: 1 giây
+
+26. ⭐ Lệnh: learn
+   📝 Mô tả: Bật theo dõi và học câu trả lời mới cho bot
+   💡 Cú pháp: /learn [on|off]
+   🔒 Quyền hạn: Quản Trị Viên Bot
+   ⏱️ Countdown: 1 giây
+
+27. ⭐ Lệnh: learnnow
+   📝 Mô tả: Học câu trả lời mới cho bot ngay lập tức
+   💡 Cú pháp: /learnnow <câu hỏi>_<câu trả lời>
+   🔒 Quyền hạn: Quản Trị Viên Bot
+   ⏱️ Countdown: 1 giây
+
+28. ⭐ Lệnh: unlearn
+   📝 Mô tả: Hủy bỏ câu trả lời mà bot đã học
+   💡 Cú pháp: /unlearn <câu trả lời>
+   🔒 Quyền hạn: Quản Trị Viên Bot
+   ⏱️ Countdown: 1 giây
+
+29. ⭐ Lệnh: undo
+   📝 Mô tả: Undo tin nhắn bot
+   💡 Cú pháp: /undo (Tag vào tin nhắn cần undo)
+   🔖 Tên gọi khác: un
+   🔒 Quyền hạn: Quản Trị Viên Bot
+   ⏱️ Countdown: 1 giây
+
+30. ⭐ Lệnh: leave
+   📝 Mô tả: Ra lệnh bot rời khỏi nhóm hiện tại
+   💡 Cú pháp: /leave
+   🔖 Tên gọi khác: out
+   🔒 Quyền hạn: Quản Trị Viên Cấp Cao
+   ⏱️ Countdown: 1 giây
+
+31. ⭐ Lệnh: leavelock
+   📝 Mô tả: Ra lệnh bot rời khỏi nhóm lockchat
+   💡 Cú pháp: /leavelock
+   🔖 Tên gọi khác: outlock
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Phú | Sender ID: 330277997103500963
+              - Nội Dung: 🔒 Quyền hạn: Quản Trị Viên Cấp Cao
+   ⏱️ Countdown: 1 giây
+
+32. ⭐ Lệnh: restart
+   📝 Mô tả: Restart lại bot
+   💡 Cú pháp: /restart
+   🔖 Tên gọi khác: rs
+   🔒 Quyền hạn: Quản Trị Viên Cấp Cao
+   ⏱️ Countdown: 1 giây
+
+33. ⭐ Lệnh: listblockbot
+   📝 Mô tả: Xem danh sách người dùng đã bị chặn tương tác với bot
+   💡 Cú pháp: /listblockbot
+   🔖 Tên gọi khác: lsbot
+   🔒 Quyền hạn: Quản Trị Viên Bot
+   ⏱️ Countdown: 1 giây
+
+34. ⭐ Lệnh: blockbot
+   📝 Mô tả: Chặn người dùng tương tác với bot
+   💡 Cú pháp: /blockbot <@người_tag>
+   🔖 Tên gọi khác: blbot
+   🔒 Quyền hạn: Quản Trị Viên Cấp Cao
+   ⏱️ Countdown: 1 giây
+
+35. ⭐ Lệnh: unblockbot
+   📝 Mô tả: Bỏ chặn người dùng tương tác với bot
+   💡 Cú pháp: /unblockbot <@người_tag>
+   🔖 Tên gọi khác: unblbot
+   🔒 Quyền hạn: Quản Trị Viên Cấp Cao
+   ⏱️ Countdown: 1 giây
+
+36. ⭐ Lệnh: whitelist
+   📝 Mô tả: Xem, thêm hoặc xóa người dùng được bot liệt vào danh sách trắng
+   💡 Cú pháp: /whitelist
+   🔖 Tên gọi khác: wls
+   🔒 Quyền hạn: Quản Trị Viên Bot
+   ⏱️ Countdown: 1 giây
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: 酒吧彡tng One Egg彡宝石 | Sender ID: 496771509501574610
+              - Nội Dung: Caption: 
+Link: https://photo-stal-1.zdn.vn/gr/jpg/c15a7d5bf3973ac96386/3019281481989731720.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: 酒吧彡tng One Egg彡宝石 | Sender ID: 496771509501574610
+              - Nội Dung: !stk -xp
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: Take Care For Groups | Sender ID: 3465480315669870625
+              - Nội Dung: Caption: 
+Link: https://f35-zfcloud.zdn.vn/8eb934bc36f796a9cfe6/314817653942083074?createby=NDQ_Bot.webp
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Văn Dân | Sender ID: 4908272002533492267
+              - Nội Dung: @Emti xin res an
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Briar Baby | Sender ID: 4000827191604899251
+              - Nội Dung: @Emti hnhu mới giảm giá đúng không
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: /listadmin
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Briar Baby | Sender ID: 4000827191604899251
+              - Nội Dung: hay chưa nhỉ
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Minh Nv | Sender ID: 1339673303004306081
+              - Nội Dung: @Pinz @Đồng Duy Nhất
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: 酒吧彡tng One Egg彡宝石 | Sender ID: 496771509501574610
+              - Nội Dung: Caption: 
+Link: https://photo-stal-3.zdn.vn/gr/jpg/160faf3f20f3e9adb0e2/2449785066619381997.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: 酒吧彡tng One Egg彡宝石 | Sender ID: 496771509501574610
+              - Nội Dung: !stk
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: Take Care For Groups | Sender ID: 3465480315669870625
+              - Nội Dung: Caption: 
+Link: https://f38-zfcloud.zdn.vn/e688628460cfc09199de/2451841501776614953?createby=NDQ_Bot.webp
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Phú | Sender ID: 330277997103500963
+              - Nội Dung: Caption: 
+Link: https://f64-zpg-r.zdn.vn/2057760682561584353/f9f3f1fc13999cc7c588.jpg
+
+
+Box Buôn Acc All Game TXH 🗿
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Box Buôn Acc All Game TXH 🗿
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Box Buôn Acc All Game TXH 🗿
+Type Sự Kiện: JOIN - Số Lượng Member Trong Sự Kiện: 1
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: Má nứng
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: Đợi sửa lại cái spamjoin
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: 酒吧彡tng One Egg彡宝石 | Sender ID: 496771509501574610
+              - Nội Dung: Caption: 
+Link: https://photo-stal-4.zdn.vn/gr/jpg/cd5438f2b03e7960202f/3562458477679940639.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: 酒吧彡tng One Egg彡宝石 | Sender ID: 496771509501574610
+              - Nội Dung: !stk
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: bug | Group ID: 6551620632698251738
+              - Người Gửi: Vu Gia Huy | Sender ID: 4431635903286108854
+              - Nội Dung: Toàn đ load đc link
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: Take Care For Groups | Sender ID: 3465480315669870625
+              - Nội Dung: Caption: 
+Link: https://f35-zfcloud.zdn.vn/40ef26fb24b084eedda1/5349223167293060568?createby=NDQ_Bot.webp
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Box Buôn Acc All Game TXH 🗿 | Group ID: 4211965295327647301
+              - Người Gửi: Hà Công Đạt | Sender ID: 4560280177510328703
+              - Nội Dung: Caption: 
+Link: https://f67-zpg-r.zdn.vn/jpg/5551247040750588236/be8d4978aa1d25437c0c.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Box Buôn Acc All Game TXH 🗿 | Group ID: 4211965295327647301
+              - Người Gửi: Hà Công Đạt | Sender ID: 4560280177510328703
+              - Nội Dung: Caption: 
+Link: https://photo-stal-3.zdn.vn/gr/jpg/6abb18c2910e5850011f/3301715490405216284.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ProGAYmers 2033 | Group ID: 8592338361989273096
+              - Người Gửi: Minh Nv | Sender ID: 1339673303004306081
+              - Nội Dung: @Pinz bán src
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Box Buôn Acc All Game TXH 🗿 | Group ID: 4211965295327647301
+              - Người Gửi: Hà Công Đạt | Sender ID: 4560280177510328703
+              - Nội Dung: 500
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Box Buôn Acc All Game TXH 🗿 | Group ID: 4211965295327647301
+              - Người Gửi: Hà Công Đạt | Sender ID: 4560280177510328703
+              - Nội Dung: Caption: 
+Link: https://f60-zpg-r.zdn.vn/jpg/1675278257239308650/c5fb8a59693ce662bf2d.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Box Buôn Acc All Game TXH 🗿 | Group ID: 4211965295327647301
+              - Người Gửi: Hà Công Đạt | Sender ID: 4560280177510328703
+              - Nội Dung: 300
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: 酒吧彡tng One Egg彡宝石 | Sender ID: 496771509501574610
+              - Nội Dung: Caption: 
+Link: https://photo-stal-1.zdn.vn/gr/jpg/a654de1654da9d84c4cb/605473986896534182.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: 酒吧彡tng One Egg彡宝石 | Sender ID: 496771509501574610
+              - Nội Dung: !stk
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: ⚜️ Infinite Coder ⚜️ | Group ID: 8199257905195149311
+              - Người Gửi: Take Care For Groups | Sender ID: 3465480315669870625
+              - Nội Dung: Caption: 
+Link: https://f36-zfcloud.zdn.vn/d2083514375f9701ce4e/1001717473189333650?createby=NDQ_Bot.webp
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Box Buôn Acc All Game TXH 🗿 | Group ID: 4211965295327647301
+              - Người Gửi: Hà Công Đạt | Sender ID: 4560280177510328703
+              - Nội Dung: Caption: 
+Link: https://f65-zpg-r.zdn.vn/jpg/7569420760219583695/1cfe4ca0afc5209b79d4.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Box Buôn Acc All Game TXH 🗿 | Group ID: 4211965295327647301
+              - Người Gửi: Hà Công Đạt | Sender ID: 4560280177510328703
+              - Nội Dung: Caption: 
+Link: https://photo-stal-9.zdn.vn/gr/jpg/7d9704938e5f47011e4e/580756935784113254.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Box Buôn Acc All Game TXH 🗿 | Group ID: 4211965295327647301
+              - Người Gửi: Hà Công Đạt | Sender ID: 4560280177510328703
+              - Nội Dung: Caption: 
+Link: https://photo-stal-2.zdn.vn/gr/jpg/5e581d5d97915ecf0780/4460249478134919761.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Box Buôn Acc All Game TXH 🗿 | Group ID: 4211965295327647301
+              - Người Gửi: Hà Công Đạt | Sender ID: 4560280177510328703
+              - Nội Dung: Caption: 
+Link: https://photo-stal-10.zdn.vn/gr/jpg/b8af8bab0167c8399176/4460249478134919761.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Box Buôn Acc All Game TXH 🗿 | Group ID: 4211965295327647301
+              - Người Gửi: Hà Công Đạt | Sender ID: 4560280177510328703
+              - Nội Dung: Caption: 
+Link: https://f67-zpg-r.zdn.vn/jpg/5127152783158198978/8503725d91381e664729.jpg
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Box Buôn Acc All Game TXH 🗿 | Group ID: 4211965295327647301
+              - Người Gửi: Hà Công Đạt | Sender ID: 4560280177510328703
+              - Nội Dung: 1234
+
+
+Có Mesage nhóm mới:
+              - Tên Nhóm: Box Buôn Acc All Game TXH 🗿 | Group ID: 4211965295327647301
+              - Người Gửi: Hà Công Đạt | Sender ID: 4560280177510328703
+              - Nội Dung: Cấp mxt all
+
+

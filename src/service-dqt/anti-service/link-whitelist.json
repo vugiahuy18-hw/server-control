@@ -1,0 +1,105 @@
+{
+  "9166689061547457926": {
+    "patterns": [
+      "tiktok.com",
+      "facebook.com",
+      "youtu.be"
+    ],
+    "silentMode": false,
+    "kickThreshold": 3
+  },
+  "237154226557141326": {
+    "patterns": [
+      "tiktok.com",
+      "yotu.be",
+      "facebook.com"
+    ],
+    "silentMode": false,
+    "kickThreshold": 3
+  },
+  "703358128373940082": {
+    "patterns": [
+      "tiktok.com"
+    ],
+    "silentMode": false,
+    "kickThreshold": 3
+  },
+  "8852473928921421904": {
+    "patterns": [
+      "ngocrong2018.online"
+    ],
+    "silentMode": false,
+    "kickThreshold": 3
+  },
+  "2610137975984268723": {
+    "patterns": [
+      "ngocrongblack.online"
+    ],
+    "silentMode": false,
+    "kickThreshold": 3
+  },
+  "2490794337238289179": {
+    "patterns": [
+      "nrohip.com",
+      "https://nrohip.com/"
+    ],
+    "silentMode": true,
+    "kickThreshold": 3
+  },
+  "1590932734845434526": {
+    "patterns": [
+      "ngocrongkimono.online"
+    ],
+    "silentMode": false,
+    "kickThreshold": 3
+  },
+  "1741818663821675686": {
+    "patterns": [
+      "porunga.online"
+    ],
+    "silentMode": true,
+    "kickThreshold": 3
+  },
+  "5052458909977600919": {
+    "patterns": [
+      "ngocrong2018.online",
+      "https://ngocrong2018.online/",
+      "https://testflight.apple.com/join/ms34a3SZ"
+    ],
+    "silentMode": true,
+    "kickThreshold": 3
+  },
+  "4382436459384788315": {
+    "patterns": [
+      "ngocrong2018.online",
+      "https://ngocrong2018.online/",
+      "https://testflight.apple.com/join/ms34a3SZ"
+    ],
+    "silentMode": false,
+    "kickThreshold": 3
+  },
+  "8836569192551998251": {
+    "patterns": [
+      "ngocrong2017.online",
+      "https://ngocrong2017.online/"
+    ],
+    "silentMode": false,
+    "kickThreshold": 3
+  },
+  "320233346534526459": {
+    "patterns": [
+      "nrothiende.online",
+      "https://nrothiende.online/"
+    ],
+    "silentMode": false,
+    "kickThreshold": 3
+  },
+  "8686263375788821249": {
+    "patterns": [
+      "ngocrong2018.online",
+      "https://ngocrong2018.online/"
+    ],
+    "silentMode": false,
+    "kickThreshold": 3
+  }
+}

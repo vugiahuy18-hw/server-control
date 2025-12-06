@@ -1,0 +1,1996 @@
+{
+  "prefix": "!",
+  "commands": [
+    {
+      "name": "help",
+      "description": "Hiển thị danh sách và hướng dẫn sử dụng các lệnh cơ bản",
+      "syntax": "{p}help",
+      "permission": "all",
+      "countdown": 5,
+      "icon": "📚",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "checkdomain",
+      "description": "Kiểm tra thông tin tên miền",
+      "syntax": "{p}checkdomain + Domain",
+      "permission": "all",
+      "countdown": 3,
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "checkip",
+      "description": "Kiểm tra thông tin địa chỉ IP",
+      "syntax": "{p}checkip + IP",
+      "permission": "all",
+      "countdown": 3,
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "spamsms",
+      "description": "Spam tin nhắn rác đến SDT chỉ định",
+      "syntax": "{p}spamsms + SDT",
+      "permission": "all",
+      "countdown": 30,
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+     {
+      "name": "acclq",
+      "description": "Lấy Acc Liên Quân Free",
+      "syntax": "{p}acclq + Số Lượng",
+      "permission": "all",
+      "countdown": 30,
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "viewtt",
+      "description": "Buff View Tik Tok",
+      "syntax": "{p}viewtt + Url Video",
+      "permission": "all",
+      "countdown": 3,
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "i4tiktok",
+      "description": "Kiểm tra thông tin acc Tik Tok",
+      "syntax": "{p}i4tiktok + Username",
+      "permission": "all",
+      "countdown": 3,
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "checkbanff",
+      "description": "Kiểm tra thông tin acc Free Fire có bị cấm không",
+      "syntax": "{p}checkbanff + UID",
+      "permission": "all",
+      "countdown": 3,
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "ff",
+      "description": "Kiểm tra thông tin acc Free Fire",
+      "syntax": "{p}ff + UID",
+      "permission": "all",
+      "countdown": 3,
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "game",
+      "description": "Hiển thị danh sách và hướng dẫn các trò chơi có sẵn",
+      "syntax": "{p}game",
+      "permission": "all",
+      "countdown": 5,
+      "icon": "🎮",
+      "type": 5,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "command",
+      "alias": [
+        "cmd"
+      ],
+      "description": "Hiển thị toàn bộ danh sách lệnh bot và chi tiết các lệnh cụ thể",
+      "syntax": "{p}command [số trang] || {p}command admin [số trang] || {p}command (map/map admin/find <cmd>)...",
+      "permission": "all",
+      "countdown": 5,
+      "icon": "🎮",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "simsimi",
+      "alias": [
+        "sim"
+      ],
+      "description": "Trò chuyện với Bot AI (Simsimi)",
+      "syntax": "{p}simsimi <nội dung>",
+      "permission": "all",
+      "countdown": 5,
+      "icon": "💬",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "gemini",
+      "alias": [
+        "gem",
+        "ei"
+      ],
+      "description": "Đặt câu hỏi cho Gemini - Trợ lý AI thông minh",
+      "syntax": "{p}gemini <nội dung câu hỏi>",
+      "permission": "all",
+      "countdown": 1,
+      "icon": "🤖",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "gpt",
+      "description": "Đặt câu hỏi cho ChatGPT - Trợ lý AI hơi hơi thông minh",
+      "syntax": "{p}gpt <nội dung câu hỏi>",
+      "permission": "all",
+      "countdown": 1,
+      "icon": "🤖",
+      "type": 1,
+      "author": "HwH",
+      "active": false
+    },
+    {
+      "name": "google",
+      "alias": [
+        "gg",
+        "search"
+      ],
+      "description": "Tìm kiếm và gửi kết quả tìm kiếm từ Google",
+      "syntax": "{p}google <từ khóa>",
+      "permission": "all",
+      "countdown": 5,
+      "icon": "🖼",
+      "type": 1,
+      "author": "NDQ X TOANDEV - Code by SBT",
+      "active": false
+    },
+    {
+      "name": "image",
+      "alias": [
+        "img"
+      ],
+      "description": "Tìm kiếm và gửi ảnh ngẫu nhiên từ kho ảnh lớn nhất thế giới",
+      "syntax": "{p}image <từ khóa>",
+      "permission": "all",
+      "countdown": 5,
+      "icon": "🖼️",
+      "type": 1,
+      "author": "NDQ X TOANDEV - Code by SBT",
+      "active": false
+    },
+     {
+      "name": "rename",
+      "description": "Đổi Tên Acc Zalo",
+      "syntax": "{p}rename + Name",
+      "permission": "all",
+      "countdown": 100,
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "spamff",
+      "description": "Spam Kết Bạn Free Fire",
+      "syntax": "{p}spamff + UID",
+      "permission": "all",
+      "countdown": 100,
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "pinterest",
+      "alias": [
+        "pin"
+      ],
+      "description": "Tìm kiếm và gửi ảnh ngẫu nhiên theo từ khóa từ Pinterest",
+      "syntax": "{p}pinterest <từ khóa>",
+      "permission": "all",
+      "countdown": 30,
+      "icon": "🖼️",
+      "type": 1,
+      "author": "NDQ X TOANDEV - Code by SBT",
+       "active": false
+    },
+    {
+      "name": "girl",
+      "description": "Gửi ảnh gái xinh ngẫu nhiên từ bộ sưu tập",
+      "syntax": "{p}girl || {p}girl map || {p}girl [đối số trong girl map]",
+      "permission": "all",
+      "countdown": 3,
+      "icon": "👧",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "boy",
+      "description": "Gửi ảnh trai đẹp ngẫu nhiên từ bộ sưu tập",
+      "syntax": "{p}boy || {p}boy map || {p}boy [đối số trong boy map]",
+      "permission": "all",
+      "countdown": 3,
+      "icon": "👦",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "cosplay",
+      "alias": [
+        "cos"
+      ],
+      "description": "Gửi ảnh cosplay anime/game ngẫu nhiên từ bộ sưu tập",
+      "syntax": "{p}cosplay",
+      "permission": "all",
+      "countdown": 3,
+      "icon": "👘",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "cos3",
+      "alias": [
+        "cos"
+      ],
+      "description": "Gửi ảnh cosplay anime/game ngẫu nhiên từ bộ sưu tập",
+      "syntax": "{p}cosplay",
+      "permission": "all",
+      "countdown": 3,
+      "icon": "👘",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "cos2",
+      "alias": [
+        "cos"
+      ],
+      "description": "Gửi ảnh cosplay anime/game ngẫu nhiên từ bộ sưu tập",
+      "syntax": "{p}cosplay",
+      "permission": "all",
+      "countdown": 3,
+      "icon": "👘",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "cos1",
+      "alias": [
+        "cos"
+      ],
+      "description": "Gửi ảnh cosplay anime/game ngẫu nhiên từ bộ sưu tập",
+      "syntax": "{p}cosplay",
+      "permission": "all",
+      "countdown": 3,
+      "icon": "👘",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "prservice",
+      "alias": [
+        "prs",
+        "ads",
+        "pr"
+      ],
+      "description": "Quản lý thông tin tự động ads",
+      "syntax": "{p}prservice",
+      "permission": "all",
+      "countdown": 5,
+      "icon": "📥",
+      "type": 3,
+      "author": "Trần Hạo Nguyên",
+       "active": false
+    },
+    {
+      "name": "girllon",
+      "alias": [
+        "lon"
+      ],
+      "description": "Gửi ảnh lon  ngẫu nhiên từ bộ sưu tập",
+      "syntax": "{p}lon",
+      "permission": "all",
+      "countdown": 3,
+      "icon": "👘",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+     {
+      "name": "gay",
+      "description": "Kiểm tra độ gay của người được tag",
+      "syntax": "{p}gay + @{mention}",
+      "permission": "all",
+      "countdown": 3,
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "anime",
+      "description": "Gửi ảnh anime ngẫu nhiên từ bộ sưu tập",
+      "syntax": "{p}anime",
+      "permission": "all",
+      "countdown": 3,
+      "icon": "🎨",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "vdgirl",
+      "description": "Gửi video ngắn về gái xinh bất kỳ",
+      "syntax": "{p}vdgirl",
+      "permission": "all",
+      "countdown": 10,
+      "icon": "🎥",
+      "type": 1,
+      "author": "HwH",
+       "active": false,
+      "alias": [
+        "vdgai"
+      ]
+    },
+    {
+      "name": "vdsexy",
+      "description": "Gửi video ngắn về gái sexy bất kỳ",
+      "syntax": "{p}vdsexy",
+      "permission": "all",
+      "countdown": 10,
+      "icon": "🎥",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "vdcos",
+      "description": "Gửi video short về cosplay bất kỳ",
+      "syntax": "{p}vdcos",
+      "permission": "all",
+      "countdown": 10,
+      "icon": "🎥",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "vdanime",
+      "description": "Gửi video short về anime bất kỳ",
+      "syntax": "{p}vdanime",
+      "permission": "all",
+      "countdown": 10,
+      "icon": "🎥",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "vdboy",
+      "description": "Gửi video ngắn về tâm trạng",
+      "syntax": "{p}vdboy",
+      "permission": "all",
+      "countdown": 10,
+      "icon": "🎥",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "info",
+      "description": "Xem thông tin chi tiết tài khoản Zalo của bạn hoặc người được tag",
+      "syntax": "{p}info || {p}info [@người_tag]",
+      "permission": "all",
+      "countdown": 5,
+      "icon": "📰",
+      "type": 1,
+      "author": "HwH",
+       "active": false,
+      "alias": [
+        "i4"
+      ]
+    },
+    {
+      "name": "object",
+      "description": "Xem thông tin tin nhắn",
+      "syntax": "{p}object [reply]",
+      "permission": "all",
+      "countdown": 5,
+      "icon": "📰",
+      "type": 1,
+      "author": "HwH",
+       "active": false,
+      "alias": [
+        "obj"
+      ]
+    },
+    {
+      "name": "card",
+      "description": "Tạo danh thiếp Zalo của bạn hoặc người được tag",
+      "syntax": "{p}card || {p}card [@người_tag]",
+      "permission": "all",
+      "countdown": 5,
+      "icon": "🔖",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "group",
+      "alias": [
+        "gr"
+      ],
+      "description": "Xem thông tin chi tiết về nhóm/cộng đồng hiện tại",
+      "syntax": "{p}group",
+      "permission": "all",
+      "countdown": 1,
+      "icon": "📋",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "detail",
+      "alias": [
+        "uptime"
+      ],
+      "description": "Xem thông tin chi tiết về bot (phiên bản, tính năng, v.v)",
+      "syntax": "{p}detail",
+      "permission": "all",
+      "countdown": 1,
+      "icon": "🔧",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "lich",
+      "alias": [
+        "xl"
+      ],
+      "description": "Xem thông tin chi tiết về lich",
+      "syntax": "{p}lich",
+      "permission": "all",
+      "countdown": 1,
+      "icon": "🔧",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    
+    {
+      "name": "speedtest",
+      "alias": [
+        "spt",
+        "spdt"
+      ],
+      "description": "Kiểm tra tốc độ mạng của bạn",
+      "syntax": "{p}speedtest",
+      "permission": "all",
+      "countdown": 60,
+      "icon": "🔧",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "topchat",
+      "description": "Xem bảng xếp hạng tương tác của các thành viên trong nhóm",
+      "syntax": "{p}topchat",
+      "permission": "all",
+      "countdown": 1,
+      "icon": "🏆",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "rank",
+      "description": "Xem bảng xếp hạng top 10 người chơi có nhiều tiền nhất",
+      "syntax": "{p}rank",
+      "permission": "all",
+      "countdown": 5,
+      "icon": "🏆",
+      "type": 5,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "sticker",
+      "description": "Chuyển đổi hình ảnh thành sticker Zalo",
+      "syntax": "{p}sticker <cần reply tin nhắn>",
+      "permission": "all",
+      "countdown": 10,
+      "icon": "🏆",
+      "type": 1,
+      "author": "HwH",
+       "active": false,
+      "alias": [
+        "stk"
+      ]
+    },
+    {
+      "name": "stickercustom",
+      "description": "Gửi sticker custom từ thư mục lưu trữ của Bot",
+      "syntax": "{p}stickercustom <tên tệp sticker đã lưu trữ>",
+      "permission": "all",
+      "countdown": 10,
+      "icon": "🎨",
+      "type": 1,
+      "author": "HwH",
+       "active": false,
+      "alias": [
+        "stkc"
+      ]
+    },
+    {
+      "name": "phatnguoi",
+      "description": "Tra cứu thông tin phạt nguội từ cục CSGT",
+      "syntax": "{p}phatnguoi <biển số xe> [loại xe]",
+      "permission": "all",
+      "countdown": 30,
+      "icon": "🚗",
+      "type": 1,
+      "author": "HwH",
+       "active": false,
+      "alias": [
+        "phng"
+      ]
+    },
+    {
+      "name": "gif",
+      "description": "Gửi ảnh động GIF ngẫu nhiên",
+      "syntax": "{p}gif",
+      "permission": "all",
+      "countdown": 5,
+      "icon": "",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "giftext",
+      "description": "Tạo ảnh động GIF",
+      "syntax": "{p}giftext",
+      "permission": "all",
+      "countdown": 5,
+      "icon": "",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "login",
+      "description": "Đăng nhập vào tài khoản game trên hệ thống bot",
+      "syntax": "{p}login <tên_tài_khoản> <mật_khẩu>",
+      "permission": "all",
+      "countdown": 3,
+      "icon": "🔖",
+      "type": 5,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "dangky",
+      "alias": [
+        "dk"
+      ],
+      "description": "Đăng ký tài khoản game mới trên hệ thống bot",
+      "syntax": "{p}dangky <tên_tài_khoản> <mật_khẩu>",
+      "permission": "all",
+      "countdown": 3,
+      "icon": "🔖",
+      "type": 5,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "logout",
+      "description": "Đăng xuất khỏi tài khoản game hiện tại trên hệ thống bot",
+      "permission": "all",
+      "syntax": "{p}logout",
+      "countdown": 3,
+      "icon": "🔖",
+      "type": 5,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "mycard",
+      "description": "Xem thông tin chi tiết tài khoản game của bạn trên hệ thống bot",
+      "syntax": "{p}mycard",
+      "permission": "all",
+      "countdown": 5,
+      "icon": "🔖",
+      "type": 5,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "daily",
+      "description": "Nhận phần thưởng hàng ngày. Reset vào 0h mỗi ngày",
+      "syntax": "{p}daily",
+      "permission": "all",
+      "countdown": 3,
+      "icon": "🔖",
+      "type": 5,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "nap",
+      "description": "Nạp tiền vào tài khoản bot từ tài khoản đăng ký",
+      "syntax": "{p}nap <số_tiền>",
+      "permission": "all",
+      "countdown": 3,
+      "icon": "💳",
+      "type": 5,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "rut",
+      "description": "Rút tiền từ tài khoản bot về tài khoản game",
+      "syntax": "{p}rut <số_tiền>",
+      "permission": "all",
+      "countdown": 3,
+      "icon": "💳",
+      "type": 5,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "bank",
+      "description": "Chuyển tiền cho người chơi khác trên tài khoản bot",
+      "syntax": "{p}bank <@người_nhận> <số_tiền>",
+      "permission": "all",
+      "countdown": 3,
+      "icon": "💰",
+      "type": 5,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "nongtrai",
+      "alias": [
+        "ntr"
+      ],
+      "description": "Chơi trò chơi Nông Trại",
+      "syntax": "{p}nongtrai",
+      "permission": "all",
+      "countdown": 3,
+      "icon": "🎲",
+      "type": 5,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "mybag",
+      "description": "Xem túi đồ của bạn",
+      "syntax": "{p}mybag",
+      "permission": "all",
+      "countdown": 5,
+      "icon": "🎒",
+      "type": 5,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "antiall",
+      "description": "Kích hoạt toàn bộ anti",
+      "syntax": "{p}antiall [on|off]",
+      "permission": "all",
+      "countdown": 1,
+      "icon": "⛔",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+      },
+    {
+      "name": "antitext",
+      "description": "Chống gửi tin nhắn văn bản",
+      "syntax": "{p}antitext [on|off]",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "⛔",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "antibot",
+      "description": "Chống Bot",
+      "syntax": "{p}antibot [on|off]",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "⛔",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "antistickereffect",
+      "description": "Chống gửi sticker có hiệu ứng",
+      "syntax": "{p}antistickereffect [on|off]",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "⛔",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "antiphoto",
+      "description": "Chống gửi ảnh và stickercustom",
+      "syntax": "{p}antiphoto [on|off]",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "⛔",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "antivideo",
+      "description": "Chống gửi video",
+      "syntax": "{p}antivideo [on|off]",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "⛔",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "antivoice",
+      "description": "Chống gửi tin nhắn thoại",
+      "syntax": "{p}antivoice [on|off]",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "⛔",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "antisticker",
+      "description": "Chống gửi sticker hệ thống",
+      "syntax": "{p}antisticker [on|off]",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "⛔",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "antifile",
+      "description": "Chống gửi file",
+      "syntax": "{p}antifile [on|off]",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "⛔",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "baucua",
+      "alias": [
+        "bc"
+      ],
+      "description": "Chơi trò chơi Bầu Cua",
+      "syntax": "{p}baucua <bầu/cua/tôm/cá/gà/nai> <số_tiền>",
+      "permission": "all",
+      "countdown": 5,
+      "icon": "🎲",
+      "type": 5,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "taixiu",
+      "alias": [
+        "tx"
+      ],
+      "description": "Chơi tài xỉu",
+      "syntax": "{p}taixiu <tài/xỉu> <số_tiền>",
+      "permission": "all",
+      "countdown": 3,
+      "icon": "🎰",
+      "type": 5,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "updategroup",
+      "description": "Thông báo sự kiện nhóm",
+      "syntax": "{p}updategroup [on|off]",
+      "permission": "all",
+      "countdown": 1,
+      "icon": "⛔",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "chanle",
+      "alias": [
+        "cl"
+      ],
+      "description": "Chơi chẵn lẻ",
+      "syntax": "{p}chanle <chẵn/lẻ> <số_tiền>",
+      "permission": "all",
+      "countdown": 5,
+      "icon": "🎰",
+      "type": 5,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "antisetup",
+      "description": "Kích Hoạt Bảo Vệ Group",
+      "syntax": "{p}antisetup + <on/off>",
+      "permission": "all",
+      "countdown": 10,
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+     {
+      "name": "spamgroup",
+      "alias": [
+        "sp"
+      ],
+      "description": "Spam tin nhắn group",
+      "syntax": "{p}spamgroup <Nội Dung>",
+      "permission": "all",
+      "countdown": 5,
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "keobuabao",
+      "alias": [
+        "kbb"
+      ],
+      "description": "Chơi kéo búa bao",
+      "syntax": "{p}keobuabao <búa/bao/kéo> <số_tiền>",
+      "permission": "all",
+      "countdown": 3,
+      "icon": "👊",
+      "type": 5,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "vietlott655",
+      "alias": [
+        "vl655",
+        "vietlot"
+      ],
+      "description": "Chơi Minigame Vietlott 6/55",
+      "syntax": "{p}vietlott655 <số_tiền> <số lô || random>",
+      "permission": "all",
+      "countdown": 3,
+      "icon": "👊",
+      "type": 5,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "tiktok",
+      "description": "Send 1 video TikTok cụ thể dựa vào từ khóa",
+      "syntax": "{p}tiktok <từ khóa>",
+      "permission": "all",
+      "countdown": 10,
+      "icon": "📱",
+      "type": 1,
+      "author": "HwH",
+       "active": false,
+      "alias": [
+        "tt"
+      ]
+    },
+    {
+      "name": "youtube",
+      "description": "Tìm và gửi 1 video Youtube dựa vào từ khóa",
+      "syntax": "{p}youtube <từ khóa>(&&số lượng kết quả)",
+      "permission": "all",
+      "countdown": 30,
+      "icon": "📱",
+      "type": 1,
+      "author": "HwH",
+       "active": false,
+      "alias": [
+        "yt",
+        "ytb",
+        "dutup"
+      ]
+    },
+    {
+      "name": "capcut",
+      "description": "Tìm và gửi 1 video CapCut dựa vào từ khóa",
+      "syntax": "{p}capcut <từ khóa>(&&số lượng kết quả)",
+      "permission": "all",
+      "countdown": 10,
+      "icon": "📱",
+      "type": 1,
+      "author": "HwH",
+       "active": false,
+      "alias": [
+        "cpct"
+      ]
+    },
+    {
+      "name": "download",
+      "alias": [
+        "dl",
+        "down",
+        "đaoloát"
+      ],
+      "description": "Tải video link đa nền tảng",
+      "syntax": "{p}download <link>",
+      "permission": "all",
+      "countdown": 60,
+      "icon": "📥",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "dich",
+      "description": "Dịch văn bản",
+      "syntax": "{p}dich <nội dung cần dịch>&&(ngôn ngữ cần dịch)",
+      "permission": "all",
+      "countdown": 1,
+      "icon": "🌐",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "qrbank",
+      "description": "Tạo QR code thông tin chuyển khoản",
+      "syntax": "{p}qrbank <tên ngân hàng> <số tài khoản> <số tiền> <nội dung chuyển khoản>",
+      "permission": "all",
+      "countdown": 3,
+      "icon": "📱",
+      "type": 1,
+      "author": "HwH",
+       "active": false,
+      "alias": [
+        "qrb"
+      ]
+    },
+    {
+      "name": "getlink",
+      "alias": [
+        "gl"
+      ],
+      "description": "Lấy link trong tin nhắn được reply",
+      "syntax": "{p}getlink (quote tin nhắn cần lấy link)",
+      "permission": "all",
+      "countdown": 1,
+      "icon": "🌐",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "getvoice",
+      "alias": [
+        "gvc",
+        "gvoice",
+        "xuankien",
+        "vc"
+      ],
+      "description": "Lấy voice từ video",
+      "syntax": "{p}getvoice (link hoặc quote tin nhắn cần tách âm thanh)",
+      "permission": "all",
+      "countdown": 10,
+      "icon": "🌐",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "thoitiet",
+      "description": "Xem thời tiết",
+      "syntax": "{p}thoitiet",
+      "permission": "all",
+      "countdown": 1,
+      "icon": "🌤️",
+      "type": 1,
+      "author": "HwH",
+       "active": false,
+      "alias": []
+    },
+    {
+      "name": "soundcloud",
+      "alias": [
+        "scl",
+        "ms",
+        "music"
+      ],
+      "description": "Tìm và tải 1 bài hát (nhạc) từ SoundCloud theo yêu cầu",
+      "syntax": "{p}soundcloud <từ khóa>(&&số lượng kết quả)",
+      "permission": "all",
+      "countdown": 30,
+      "icon": "🔊",
+      "type": 1,
+      "author": "NDQ X TOANDEV - Code by SBT",
+       "active": false
+    },
+    {
+      "name": "zingmp3",
+      "alias": [
+        "zmp3",
+        "ms3",
+        "zing"
+      ],
+      "description": "Tìm và tải 1 bài hát (nhạc) từ ZingMP3 theo yêu cầu",
+      "syntax": "{p}zingmp3 <từ khóa>(&&số lượng kết quả)",
+      "permission": "all",
+      "countdown": 30,
+      "icon": "🔊",
+      "type": 1,
+      "author": "NDQ X TOANDEV - Code by SBT",
+       "active": false
+    },
+    {
+      "name": "zingchart",
+      "alias": [
+        "topzingmp3",
+        "zmp3c"
+      ],
+      "description": "Xem danh sách bài hát (nhạc) hot nhất trên ZingMP3 thời điểm hiện tại",
+      "syntax": "{p}zingchart",
+      "permission": "all",
+      "countdown": 30,
+      "icon": "🔊",
+      "type": 1,
+      "author": "NDQ X TOANDEV - Code by SBT",
+       "active": false
+    },
+    {
+      "name": "nhaccuatui",
+      "alias": [
+        "nct",
+        "ms2"
+      ],
+      "description": "Tìm và tải 1 bài hát (nhạc) từ NhacCuaTui theo yêu cầu",
+      "syntax": "{p}nhaccuatui <từ khóa>(&&số lượng kết quả)",
+      "permission": "all",
+      "countdown": 30,
+      "icon": "🔊",
+      "type": 1,
+      "author": "NDQ X TOANDEV - Code by SBT",
+       "active": false
+    },
+    {
+      "name": "voice",
+      "description": "Chuyển văn bản thành giọng nói",
+      "syntax": "{p}voice <nội dung cần chuyển>",
+      "permission": "all",
+      "countdown": 5,
+      "icon": "🔊",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "truyencuoi",
+      "description": "Kể 1 câu truyện cười",
+      "syntax": "{p}truyencuoi",
+      "permission": "all",
+      "countdown": 5,
+      "icon": "🔊",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "tarrot",
+      "description": "Kể 1 câu truyện cười",
+      "syntax": "{p}tarrot",
+      "permission": "all",
+      "countdown": 5,
+      "icon": "🔊",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "poststatus",
+      "alias": [
+        "ps",
+        "status",
+        "stt"
+      ],
+      "description": "Tạo ảnh bài đăng trạng thái",
+      "syntax": "{p}poststatus",
+      "permission": "all",
+      "countdown": 5,
+      "icon": "🔠",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "createqr",
+      "alias": [
+        "cqr",
+        "qr",
+        "qrcode"
+      ],
+      "description": "Tạo mã QR",
+      "syntax": "{p}createqr <nội dung cần tạo QR>",
+      "permission": "all",
+      "countdown": 5,
+      "icon": "🔠",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "scanqr",
+      "alias": [
+        "sqr"
+      ],
+      "description": "Quét mã QR",
+      "syntax": "{p}scanqr <link hoặc reply tin nhắn chứa nội dung hoặc link qr cần quét>",
+      "permission": "all",
+      "countdown": 5,
+      "icon": "🔠",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "scanapi",
+      "alias": [
+        "sapi"
+      ],
+      "description": "Lọc các liên kết trong api-data",
+      "syntax": "{p}scanapi <tên_file>",
+      "permission": "all",
+      "countdown": 5,
+      "icon": "🔍",
+      "type": 1,
+      "author": "L Y H",
+       "active": false
+    },
+    {
+      "name": "share",
+      "alias": [
+        "shr"
+      ],
+      "description": "Chia sẻ các mã nguồn free được sưu tầm từ nhiều nơi",
+      "syntax": "{p}share <tên_file/số_thứ_tự>",
+      "permission": "all",
+      "countdown": 10,
+      "icon": "📜",
+      "type": 1,
+      "author": "L Y H",
+       "active": false
+    },
+    {
+      "name": "doanso",
+      "alias": [
+        "ds"
+      ],
+      "description": "Chơi trò đoán số",
+      "syntax": "{p}doanso <số lớn nhất bạn muốn>",
+      "permission": "all",
+      "countdown": 5,
+      "icon": "🔢",
+      "type": 5,
+      "author": "HwH",
+      "active": false
+    },
+    {
+      "name": "noitu",
+      "description": "Chơi trò nối từ",
+      "syntax": "{p}noitu <số từ>",
+      "permission": "all",
+      "countdown": 5,
+      "icon": "🔤",
+      "type": 5,
+      "author": "HwH",
+      "active": false
+    },
+    {
+      "name": "doantu",
+      "description": "Chơi trò đoán từ",
+      "syntax": "{p}doantu",
+      "permission": "all",
+      "countdown": 5,
+      "icon": "🔠",
+      "type": 5,
+      "author": "HwH",
+      "active": false
+    },
+    {
+      "name": "manager",
+      "description": "Xem danh sách lệnh admin",
+      "syntax": "{p}manager",
+      "permission": "adminBox",
+      "countdown": 5,
+      "icon": "🔧",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "listmute",
+      "description": "Xem danh sách mute",
+      "syntax": "{p}listmute",
+      "permission": "adminBox",
+      "countdown": 1,
+      "icon": "🔖",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "settinggroup",
+      "alias": [
+        "stg",
+        "stgr"
+      ],
+      "description": "Sửa đổi cài đặt nhóm",
+      "syntax": "{p}settinggroup <loại cài đặt> <giá trị on|off|0|1>",
+      "permission": "adminBox",
+      "countdown": 0,
+      "icon": "🔖",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "changelink",
+      "description": "Đổi link nhóm ngẫu nhiên",
+      "syntax": "{p}changelink",
+      "permission": "adminBox",
+      "countdown": 0,
+      "icon": "🔖",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "listadmin",
+      "description": "Xem danh sách admin bot nhóm",
+      "syntax": "{p}listadmin",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "🔖",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "add",
+      "description": "Thêm người tag vào admin bot nhóm",
+      "syntax": "{p}add <@người_tag>",
+      "permission": "all",
+      "countdown": 1,
+      "icon": "🔖",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "remove",
+      "description": "Xóa người tag vào admin bot nhóm",
+      "syntax": "{p}remove <@người_tag>",
+      "permission": "all",
+      "countdown": 1,
+      "icon": "🔖",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+      {
+      "name": "antitag",
+      "description": "Chống nhắc đến",
+      "syntax": "{p}antitag [on|off]",
+      "permission": "all",
+      "countdown": 1,
+      "icon": "⛔",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "setcmd",
+      "description": "Quản lý cài đặt lệnh bot (bật/tắt, phân quyền, thời gian chờ)",
+      "syntax": "{p}setcmd [on/off/p/cd] [tên_lệnh] [đối số]",
+      "permission": "all",
+      "countdown": 1,
+      "icon": "⚙️",
+      "type": 3,
+      "author": "HwH",
+       "active": false,
+      "alias": [
+        "cmdset"
+      ]
+    },
+    {
+      "name": "bot",
+      "description": "bật tương tác với bot trong nhóm hiện tại",
+      "syntax": "{p}bot [on|off]",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "🤖",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "gameactive",
+      "description": "bật xử lý tương tác trò chơi trong nhóm hiện tại",
+      "syntax": "{p}gameactive [on|off]",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "🎮",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "mute",
+      "alias": [
+        "câm"
+      ],
+      "description": "Mute thành viên (Yêu cầu bot quyền hạn phó cộng đồng trở lên)",
+      "syntax": "{p}mute <@người_tag>",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "🔇",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "unmute",
+      "alias": [
+        "sủa"
+      ],
+      "description": "Unmute thành viên",
+      "syntax": "{p}unmute <@người_tag>",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "🔊",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "prefix",
+      "description": "Xem hoặc thay đổi prefix của bot",
+      "syntax": "prefix <prefix_mới>",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "⚙️",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "sendtask",
+      "alias": [
+        "autosend"
+      ],
+      "description": "Tắt bật chức năng gửi nội dung tự động sau mỗi giờ vào nhóm",
+      "syntax": "{p}sendtask [on|off]",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "⚙️",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "welcome",
+      "alias": [
+        "wl",
+        "wlc"
+      ],
+      "description": "Chào mừng thành viên mới",
+      "syntax": "{p}welcome [on|off]",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "👋",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "bye",
+      "description": "Tạm biệt thành viên rời nhóm",
+      "syntax": "{p}bye [on|off]",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "👋",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "antibadword",
+      "alias": [
+        "atbw",
+        "loctu",
+        "loctukhoa",
+        "loctk",
+        "badword",
+        "bw"
+      ],
+      "description": "Lọc từ thô tục",
+      "syntax": "{p}antibadword [on|off|list] || {p}antibadword <add|remove> <từ_cấm> || {p}antibadword <show> <@người_tag>",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "🚫",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "antilink",
+      "alias": [
+        "unlink",
+        "loclink"
+      ],
+      "description": "Chặn gửi liên kết",
+      "syntax": "{p}antilink [on|off]",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "🔗",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "antispam",
+      "alias": [
+        "chongspam"
+      ],
+      "description": "Chống spam tin nhắn",
+      "syntax": "{p}antispam [on|off]",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "⛔",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "antinude",
+      "alias": [
+        "chongnude"
+      ],
+      "description": "Chặn hình ảnh có nội dung nhạy cảm",
+      "syntax": "{p}antinude [on|off]",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "⛔",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "antiundo",
+      "alias": [
+        "chongundo"
+      ],
+      "description": "Chống thu hồi tin nhắn",
+      "syntax": "{p}antiundo [on|off]",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "⛔",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "sendresourcesimage",
+      "description": "Gửi image custom từ thư mục lưu trữ của Bot",
+      "syntax": "{p}sendresourcesimage <tên tệp image đã lưu trữ>",
+      "permission": "all",
+      "countdown": 10,
+      "icon": "🎨",
+      "type": 1,
+      "author": "HwH",
+       "active": false,
+      "alias": [
+        "sri",
+        "sendqr"
+      ]
+    },
+    {
+      "name": "sendresourcesvideo",
+      "description": "Gửi video custom từ thư mục lưu trữ của Bot",
+      "syntax": "{p}sendresourcesvideo <tên tệp video đã lưu trữ>",
+      "permission": "all",
+      "countdown": 10,
+      "icon": "🎨",
+      "type": 1,
+      "author": "HwH",
+       "active": false,
+      "alias": [
+        "srv"
+      ]
+    },
+    {
+      "name": "sendresourcesfile",
+      "description": "Gửi file custom từ thư mục lưu trữ của Bot",
+      "syntax": "{p}sendresourcesfile <tên tệp file đã lưu trữ>",
+      "permission": "all",
+      "countdown": 5,
+      "icon": "🎨",
+      "type": 1,
+      "author": "HwH",
+       "active": false,
+      "alias": [
+        "srf",
+        "share"
+      ]
+    },
+    {
+      "name": "sendresourcesaudio",
+      "description": "Gửi audio custom từ thư mục lưu trữ của Bot",
+      "syntax": "{p}sendresourcesaudio <tên tệp audio đã lưu trữ>",
+      "permission": "all",
+      "countdown": 10,
+      "icon": "🎨",
+      "type": 1,
+      "author": "HwH",
+       "active": false,
+      "alias": [
+        "sra"
+      ]
+    },
+    {
+      "name": "onlytext",
+      "alias": [
+        "vanban"
+      ],
+      "description": "Chỉ nhắn tin văn bản",
+      "syntax": "{p}onlytext [on|off]",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "🅰",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "ban",
+      "description": "Khóa tài khoản người chơi",
+      "syntax": "{p}ban <@người_tag>",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "🔒",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "unban",
+      "description": "Mở khóa tài khoản người chơi",
+      "syntax": "{p}unban <@người_tag>",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "🔓",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "tagall",
+      "alias": [
+        "all"
+      ],
+      "description": "Tag tất cả thành viên trong nhóm với nội dung",
+      "syntax": "{p}tagall <nội_dung>",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "📢",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "scold",
+      "alias": [
+        "reo",
+        "var",
+        "chui"
+      ],
+      "description": "Dùng để chửi người khác",
+      "syntax": "{p}scold <@người_tag>",
+      "permission": "all",
+      "countdown": 1,
+      "icon": "💬",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "approve",
+      "alias": [
+        "duyetmem"
+      ],
+      "description": "Bật/tắt tự động phê duyệt thành viên mới",
+      "syntax": "{p}approve [on|off]",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "✅",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "learn",
+      "description": "Bật theo dõi và học câu trả lời mới cho bot",
+      "syntax": "{p}learn [on|off]",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "✅",
+      "type": 2,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "learnnow",
+      "description": "Học câu trả lời mới cho bot ngay lập tức",
+      "syntax": "{p}learnnow <câu hỏi>_<câu trả lời>",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "✅",
+      "type": 2,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "unlearn",
+      "description": "Hủy bỏ câu trả lời mà bot đã học",
+      "syntax": "{p}unlearn <câu trả lời>",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "✅",
+      "type": 2,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "reply",
+      "description": "Bật/tắt tự động trả lời tin nhắn",
+      "syntax": "{p}reply [on|off]",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "✅",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "undo",
+      "alias": [
+        "un"
+      ],
+      "description": "Undo tin nhắn bot",
+      "syntax": "{p}undo (Tag vào tin nhắn cần undo)",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "🔙",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "todo",
+      "description": "Giao việc cho người khác",
+      "syntax": "{p}todo <nội_dung_việc>_[số lần]_<@người_tag>",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "🔖",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "sendp",
+      "alias": [
+        "todo"
+      ],
+      "description": "Send message private cho người khác",
+      "syntax": "{p}sendp <nội dung>_<số lần>_<@người_tag>",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "🔖",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "kick",
+      "alias": [
+        "sut",
+        "cút"
+      ],
+      "description": "Kick thành viên",
+      "syntax": "{p}kick <@người_tag>",
+      "permission": "adminBox",
+      "countdown": 1,
+      "icon": "👢",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "block",
+      "alias": [
+        "chan"
+      ],
+      "description": "Chặn thành viên",
+      "syntax": "{p}block <@người_tag>",
+      "permission": "adminBox",
+      "countdown": 1,
+      "icon": "🚫",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "buff",
+      "description": "Tặng tiền cho người chơi",
+      "syntax": "{p}buff <số_tiền>_<@người_tag>",
+      "permission": "all",
+      "countdown": 3,
+      "icon": "💰",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "keygold",
+      "alias": [
+        "keyvang"
+      ],
+      "description": "Nhường key vàng cho người được đề cập",
+      "syntax": "{p}keygold [@người_tag]",
+      "permission": "all",
+      "countdown": 1,
+      "icon": "🔑",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "keysilver",
+      "alias": [
+        "keybac"
+      ],
+      "description": "Phong key bạc cho người được đề cập",
+      "syntax": "{p} [@người_tag]",
+      "permission": "all",
+      "countdown": 1,
+      "icon": "🔑",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "unkey",
+      "alias": [
+        "xoakey"
+      ],
+      "description": "Xóa key của người được đề cập",
+      "syntax": "{p}unkey [@người_tag]",
+      "permission": "all",
+      "countdown": 1,
+      "icon": "🔑",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "join",
+      "alias": [
+        "thamgianhom"
+      ],
+      "description": "Tham gia nhóm thông qua link",
+      "syntax": "{p}join [link]",
+      "permission": "all",
+      "countdown": 1,
+      "icon": "🔑",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "leave",
+      "alias": [
+        "out"
+      ],
+      "description": "Ra lệnh bot rời khỏi nhóm hiện tại",
+      "syntax": "{p}leave",
+      "permission": "all",
+      "countdown": 1,
+      "icon": "🔑",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "listgroups",
+      "alias": [
+        "lgr"
+      ],
+      "description": "Xem danh sách nhóm",
+      "syntax": "{p}listgroups",
+      "permission": "all",
+      "countdown": 1,
+      "icon": "🔑",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "scangroups",
+      "alias": [
+        "scgr"
+      ],
+      "description": "Quét thành viên nhóm và thực hiện hành động theo yêu cầu",
+      "syntax": "{p}scangroups <hành_động> <cụm_từ_tìm_kiếm>",
+      "permission": "all",
+      "countdown": 1,
+      "icon": "🔑",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "deletemessage",
+      "alias": [
+        "delmsg",
+        "del"
+      ],
+      "description": "Xóa tin nhắn nhóm theo số lượng tin nhắn",
+      "syntax": "{p}deletemessage <số_tin_nhắn> (@mention cụ thể nếu có)",
+      "permission": "all",
+      "countdown": 1,
+      "icon": "🔑",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "listblockbot",
+      "alias": [
+        "lsbot"
+      ],
+      "description": "Xem danh sách người dùng đã bị chặn tương tác với bot",
+      "syntax": "{p}listblockbot",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "🚫",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "blockbot",
+      "alias": [
+        "blbot"
+      ],
+      "description": "Chặn người dùng tương tác với bot",
+      "syntax": "{p}blockbot <@người_tag>",
+      "permission": "all",
+      "countdown": 1,
+      "icon": "🚫",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "unblockbot",
+      "alias": [
+        "unblbot"
+      ],
+      "description": "Bỏ chặn người dùng tương tác với bot",
+      "syntax": "{p}unblockbot <@người_tag>",
+      "permission": "all",
+      "countdown": 1,
+      "icon": "✅",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+    {
+      "name": "whitelist",
+      "description": "Xem, thêm hoặc xóa người dùng được bot liệt vào danh sách trắng",
+      "syntax": "{p}whitelist",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "✅",
+      "type": 3,
+      "author": "HwH",
+       "active": false,
+      "alias": [
+        "wls"
+      ]
+    },
+    {
+      "name": "alias",
+      "description": "Quản lý alias cho các lệnh",
+      "syntax": "{p}alias <add|remove> <lệnh_gốc> <lệnh_alias>",
+      "permission": "all",
+      "countdown": 5,
+      "icon": "🏷️",
+      "type": 1,
+      "author": "HwH",
+       "active": false
+    },
+   {
+      "name": "autodownload",
+      "alias": [
+        "atd",
+        "autod"
+      ],
+      "description": "Tự động nhận dạng và tải media",
+      "syntax": "{p}autodownload [on|off]",
+      "permission": "adminBot",
+      "countdown": 1,
+      "icon": "🔗",
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    },
+     {
+      "name": "sendstk",
+      "description": "Bật/tắt tự động gửi sticker vào nhóm",
+      "syntax": "{p}sendstk + <on/off>",
+      "permission": "all",
+      "countdown": 10,
+      "type": 3,
+      "author": "HwH",
+       "active": false
+    }
+  ]
+}

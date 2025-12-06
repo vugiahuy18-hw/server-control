@@ -1,0 +1,384 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"\" sang ngôn ngữ vietnamese, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-04-21T14:54:43.509Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Xin vui lòng cung cấp cụm từ bạn muốn dịch.",
+      "timestamp": "2025-04-21T14:54:43.509Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"hello\" sang ngôn ngữ vietnamese, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-04-21T14:54:53.109Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Xin chào",
+      "timestamp": "2025-04-21T14:54:53.109Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"Youre an idiot hahahahahahaha\" sang ngôn ngữ vietnamese, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-04-22T07:44:48.908Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Bạn là một kẻ ngốc hahahahahahaha",
+      "timestamp": "2025-04-22T07:44:48.908Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"早上好中国 现在我有冰淇淋 我很喜欢冰淇淋 但是 速度与激情9 比冰淇淋 速度与激情 速度与激情9 我最喜欢 所以…现在是音乐时间 准备 1 2 3 两个礼拜以后 速度与激情9 ×3 不要忘记 不要错过 记得去电影院看速度与激情9 因为非常好电影 动作非常好 差不多一样冰淇淋 再见\" sang ngôn ngữ vietnamese, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-04-22T07:45:30.144Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Chào buổi sáng Trung Quốc. Bây giờ tôi có kem. Tôi rất thích kem nhưng \"Fast & Furious 9\" còn hơn cả kem. \"Fast & Furious\" và \"Fast & Furious 9\" là những bộ phim tôi thích nhất. Vậy nên... bây giờ là thời gian âm nhạc. Chuẩn bị 1 2 3. Hai tuần sau \"Fast & Furious 9\" ×3. Đừng quên, đừng bỏ lỡ. Hãy nhớ đi xem \"Fast & Furious 9\" ở rạp phim vì bộ phim rất hay, hành động rất tốt, gần như giống kem. Tạm biệt.",
+      "timestamp": "2025-04-22T07:45:30.144Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"hello\" sang ngôn ngữ vietnamese, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-08-03T16:59:53.558Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Xin chào",
+      "timestamp": "2025-08-03T16:59:53.558Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"reload\" sang ngôn ngữ vietnamese, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-08-03T18:11:42.931Z"
+    },
+    {
+      "role": "assistant",
+      "content": "\"Nạp lại\"",
+      "timestamp": "2025-08-03T18:11:42.931Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"load\" sang ngôn ngữ vietnamese, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-08-03T18:11:54.411Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Tải",
+      "timestamp": "2025-08-03T18:11:54.411Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"sousuke\" sang ngôn ngữ  jp, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-08-04T20:48:40.401Z"
+    },
+    {
+      "role": "assistant",
+      "content": "ソースケ (Sōsuke)",
+      "timestamp": "2025-08-04T20:48:40.401Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"ソースケ\" sang ngôn ngữ vietnamese, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-08-04T20:49:09.495Z"
+    },
+    {
+      "role": "assistant",
+      "content": "\"ソースケ\" dịch sang tiếng Việt là \"Sōsuke\".",
+      "timestamp": "2025-08-04T20:49:09.495Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"宗介\" sang ngôn ngữ vietnamese, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-08-04T20:54:27.158Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Tôn Tài.",
+      "timestamp": "2025-08-04T20:54:27.158Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"xin chào \" sang ngôn ngữ  jp, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-08-05T05:04:00.934Z"
+    },
+    {
+      "role": "assistant",
+      "content": "こんにちは (Konnichiwa)",
+      "timestamp": "2025-08-05T05:04:00.934Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"halo\" sang ngôn ngữ vietnamese, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-08-05T05:04:32.474Z"
+    },
+    {
+      "role": "assistant",
+      "content": "\"halo\" trong tiếng Việt là \"vầng hào quang\".",
+      "timestamp": "2025-08-05T05:04:32.474Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"account\" sang ngôn ngữ vietnamese, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-08-05T07:57:22.319Z"
+    },
+    {
+      "role": "assistant",
+      "content": "tài khoản",
+      "timestamp": "2025-08-05T07:57:22.319Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"xin chào \" sang ngôn ngữ  jp, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-08-06T18:10:31.598Z"
+    },
+    {
+      "role": "assistant",
+      "content": "こんにちは (Konnichiwa)",
+      "timestamp": "2025-08-06T18:10:31.598Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"hello\" sang ngôn ngữ vietnamese, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-08-07T04:47:30.595Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Xin chào",
+      "timestamp": "2025-08-07T04:47:30.595Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"xin chào \" sang ngôn ngữ  us, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-08-07T04:49:52.931Z"
+    },
+    {
+      "role": "assistant",
+      "content": "\"Hello\"",
+      "timestamp": "2025-08-07T04:49:52.931Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"xin chào \" sang ngôn ngữ  cn, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-08-07T04:50:05.841Z"
+    },
+    {
+      "role": "assistant",
+      "content": "你好 (Nǐ hǎo)",
+      "timestamp": "2025-08-07T04:50:05.841Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"tôi là một người việt nam \" sang ngôn ngữ  en, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-08-07T04:55:06.680Z"
+    },
+    {
+      "role": "assistant",
+      "content": "I am a Vietnamese person.",
+      "timestamp": "2025-08-07T04:55:06.680Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"hello \" sang ngôn ngữ  jp, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-08-07T07:27:11.262Z"
+    },
+    {
+      "role": "assistant",
+      "content": "こんにちは (konnichiwa)",
+      "timestamp": "2025-08-07T07:27:11.262Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"family = 0\" sang ngôn ngữ vietnamese, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-08-09T08:49:35.029Z"
+    },
+    {
+      "role": "assistant",
+      "content": "gia đình = 0",
+      "timestamp": "2025-08-09T08:49:35.029Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"chẵn lẻ \" sang ngôn ngữ  en, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-08-09T13:47:23.228Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Even odd",
+      "timestamp": "2025-08-09T13:47:23.228Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"nối từ \" sang ngôn ngữ  en, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-08-09T13:47:41.083Z"
+    },
+    {
+      "role": "assistant",
+      "content": "\"nối từ\" - \"conjunction\"",
+      "timestamp": "2025-08-09T13:47:41.083Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"developer\" sang ngôn ngữ vietnamese, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-08-10T18:34:39.952Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Nhà phát triển",
+      "timestamp": "2025-08-10T18:34:39.952Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"This Zalo ChatBot project is developed using JavaScript with the zlbotdqt library. The creator of this project is SBT. You can find more information at\" sang ngôn ngữ vietnamese, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-08-10T18:37:44.348Z"
+    },
+    {
+      "role": "assistant",
+      "content": "\"Dự án ChatBot Zalo này được phát triển bằng JavaScript với thư viện zlbotdqt. Người sáng tạo của dự án này là SBT. Bạn có thể tìm thêm thông tin tại\"",
+      "timestamp": "2025-08-10T18:37:44.348Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"con rắn en\" sang ngôn ngữ vietnamese, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-08-11T06:37:47.137Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Cụm từ \"con rắn en\" không phải là một cụm từ có nghĩa trong tiếng Việt. Nếu bạn đang muốn dịch từ khác, xin vui lòng cung cấp rõ hơn.",
+      "timestamp": "2025-08-11T06:37:47.137Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"media\" sang ngôn ngữ vietnamese, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-08-12T19:23:36.055Z"
+    },
+    {
+      "role": "assistant",
+      "content": "\"truyền thông\"",
+      "timestamp": "2025-08-12T19:23:36.055Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"Dong 黄 东 Pat\" sang ngôn ngữ vietnamese, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-08-16T16:08:13.620Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Đông Hoàng Đông Pat",
+      "timestamp": "2025-08-16T16:08:13.620Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"người tạo video \" sang ngôn ngữ  en, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-08-17T14:01:25.814Z"
+    },
+    {
+      "role": "assistant",
+      "content": "video creator",
+      "timestamp": "2025-08-17T14:01:25.814Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"bản quyền thuộc về bởi \" sang ngôn ngữ  en, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-08-17T15:12:05.942Z"
+    },
+    {
+      "role": "assistant",
+      "content": "\"Copyright belongs to\"",
+      "timestamp": "2025-08-17T15:12:05.942Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"gender: Nam 👨\ngenderId: 0\nbusinessAccount: Có\nbusinessType: Basic\nisActive: 1\nisActivePC: 0\nisActiveWeb: 1\nisValid: 1\nusername: t_m7beam7dbg\nbizPkg: [object Object]\nbirthday: 01/01/2000\nphone: Ẩn\nlastActive: 18:44 19/08/2025\ncreatedDate: 12:03 31/03/2023\nbio: Bản tính vô cảm~💔\nChưa từng nghiêm túc trước bất cứ..ai~\nisOnline: true\nfooter: 🌞 Chúc bạn một ngày tốt lành!\" sang ngôn ngữ vietnamese, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-08-19T11:45:18.155Z"
+    },
+    {
+      "role": "assistant",
+      "content": "giới tính: Nam 👨  \ngenderId: 0  \ntài khoản doanh nghiệp: Có  \nloại hình doanh nghiệp: Cơ bản  \nđang hoạt động: 1  \nđang hoạt động trên PC: 0  \nđang hoạt động trên web: 1  \nhợp lệ: 1  \ntên đăng nhập: t_m7beam7dbg  \ngói doanh nghiệp: [đối tượng]  \nngày sinh: 01/01/200",
+      "timestamp": "2025-08-19T11:45:18.155Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"hello\" sang ngôn ngữ vietnamese, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-08-28T07:35:01.483Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Xin chào",
+      "timestamp": "2025-08-28T07:35:01.483Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"Hey\n\nNeed a marketplace that has everything you could ever need?\nWe have YouTube Premium, Spotify, IPTV. Everything.\n\nCome check us out at @PhoenixEntry_PXBot\" sang ngôn ngữ vietnamese, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-09-04T02:43:36.976Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Chào bạn,\n\nCần một chợ trời có mọi thứ bạn cần không?\nChúng tôi có YouTube Premium, Spotify, IPTV. Mọi thứ.\n\nHãy đến xem chúng tôi tại @PhoenixEntry_PXBot.",
+      "timestamp": "2025-09-04T02:43:36.976Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"\" sang ngôn ngữ vietnamese, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-09-20T17:43:03.081Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Xin vui lòng cung cấp cụm từ bạn muốn dịch.",
+      "timestamp": "2025-09-20T17:43:03.081Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"我不懂\" sang ngôn ngữ vietnamese, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-09-20T17:43:39.308Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Tôi không hiểu.",
+      "timestamp": "2025-09-20T17:43:39.308Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"哈哈哈\" sang ngôn ngữ vietnamese, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-09-20T17:43:47.673Z"
+    },
+    {
+      "role": "assistant",
+      "content": "\"Ha ha ha\"",
+      "timestamp": "2025-09-20T17:43:47.673Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"你手什么，我不\" sang ngôn ngữ vietnamese, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-09-21T02:52:58.896Z"
+    },
+    {
+      "role": "assistant",
+      "content": "\"Cái gì trong tay bạn, tôi không có.\"",
+      "timestamp": "2025-09-21T02:52:58.896Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"All Rights Reserved\" sang ngôn ngữ vietnamese, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-09-22T11:14:59.256Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Tất cả các quyền được bảo lưu.",
+      "timestamp": "2025-09-22T11:14:59.256Z"
+    },
+    {
+      "role": "user",
+      "content": "Dịch giúp tôi cụm từ \"我不懂\" sang ngôn ngữ vietnamese, chỉ đưa ra kết quả, Không giải thích gì thêm, nếu Không phải lating (tiếng Trung tiếng Hàn) thì thêm chú thích phiên âm",
+      "timestamp": "2025-09-25T11:29:09.071Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Tôi không hiểu.",
+      "timestamp": "2025-09-25T11:29:09.071Z"
+    }
+  ]
+}

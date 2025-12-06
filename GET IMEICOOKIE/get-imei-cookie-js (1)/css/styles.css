@@ -1,0 +1,102 @@
+.button-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.button-container button {
+    flex: 1 1 auto;
+    min-width: 120px;
+    max-width: 180px;
+    white-space: nowrap;
+    padding: 8px 12px;
+    border-radius: 4px;
+    font-size: 15px;
+    font-weight: 400;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    margin: 0.25rem;
+}
+
+.button-container .export-all {
+    background-color: #FF99FF;
+    color: white;
+}
+
+.button-container .export-imei {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.button-container .export-cookies {
+    background-color: #FF9800;
+    color: white;
+}
+
+.export-all {
+    background-color: #FF99FF;
+    color: #ffffff;
+}
+
+.export-imei {
+    background-color: #e67e69;
+    color: #ffffff;
+}
+
+.export-cookies {
+    background-color: #5fae69;
+    color: #ffffff;
+}
+
+.export-ua {
+    background-color: #f11569;
+    color: #ffffff;
+}
+
+.rf-page {
+    background-color: #f34569;
+    color: #ffffff;
+}
+
+.button-container button:hover {
+    opacity: 0.5;
+}
+
+/* Đảm bảo popup có chiều rộng tối thiểu ở các màn hình nhỏ */
+body {
+    min-width: 320px;
+    max-width: 100%;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 16px;
+    gap: 8px;
+}
+
+/* Responsive cho màn hình rất nhỏ */
+@media (max-width: 400px) {
+    .button-container {
+        flex-direction: column;
+        width: 300px;
+        height: 120px;
+        box-sizing: border-box;
+    }
+
+    .button-container button {
+        min-width: 100px;
+        font-size: 0.85rem;
+    }
+
+    body {
+        padding: 12px !important;
+    }
+
+    .bg-white {
+        padding: 16px !important;
+    }
+}

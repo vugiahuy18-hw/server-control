@@ -1,0 +1,20 @@
+{
+  "prObjects": [
+    {
+      "ten": "",
+      "idZalo": "-1",
+      "noiDung": "",
+      "hinhAnh": [],
+      "video": [],
+      "link": {},
+      "thoiGianGui": [],
+      "customContent": {},
+      "isContentActive": true,
+      "isImageActive": true,
+      "isVideoActive": true,
+      "isCardActive": true
+    }
+  ],
+  "selectedGroups": {},
+  "selectedFriends": {}
+}

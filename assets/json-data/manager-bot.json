@@ -1,0 +1,11 @@
+{
+  "groupRequiredReset": "-1",
+  "onBotPrivate": true,
+  "onGamePrivate": false,
+  "blockBot": [
+    {
+      "idUserZalo": "1047231610413825538",
+      "senderName": "Mai Văn Duy"
+    }
+  ]
+}

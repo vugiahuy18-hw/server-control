@@ -1,0 +1,15 @@
+{
+  "blockName": 1,
+  "signAdminMsg": 1,
+  "addMemberOnly": 1,
+  "setTopicOnly": 1,
+  "enableMsgHistory": 1,
+  "joinAppr": 1,
+  "lockCreatePost": 1,
+  "lockCreatePoll": 1,
+  "lockSendMsg": 0,
+  "lockViewMember": 1,
+  "bannFeature": 0,
+  "dirtyMedia": 0,
+  "banDuration": 0
+}

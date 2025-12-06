@@ -1,0 +1,25 @@
+{
+  "dName": "𓂄𓆩𒅒devtool🛸̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̿̿̿𓆪𓂁",
+  "messages": [
+    {
+      "role": "user",
+      "content": "1 + 1= 10000 đk",
+      "timestamp": "2025-08-23T05:27:37.029Z"
+    },
+    {
+      "role": "assistant",
+      "content": "1 + 1 = 2, không phải 10000. Nếu bạn đang nói đến một phép toán hoặc một câu chuyện nào đó, vui lòng cho tôi biết thêm chi tiết để tôi có thể hiểu rõ hơn!",
+      "timestamp": "2025-08-23T05:27:37.029Z"
+    },
+    {
+      "role": "user",
+      "content": "1 + 1= 10",
+      "timestamp": "2025-08-23T05:27:59.005Z"
+    },
+    {
+      "role": "assistant",
+      "content": "1 + 1 = 2. Nếu bạn đang nói đến hệ đếm nhị phân, thì 1 + 1 = 10 là đúng, vì trong hệ nhị phân, số 10 biểu thị giá trị 2 trong hệ thập phân.",
+      "timestamp": "2025-08-23T05:27:59.005Z"
+    }
+  ]
+}
